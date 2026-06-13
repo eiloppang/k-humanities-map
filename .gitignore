@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# KCI scraper local secrets & recon artifacts
+kci_config.py
+Data/_recon*.html
+Data/_struct*.json
+Data/_one_item.txt
+Data/_form_fields.txt
+Data/_login.html
+_verify_login.py
+
+# Large data files (>100MB, exceed GitHub limit) — kept locally, not tracked
+Data/한국어와문학_결과2/korlit_2008_2024.pkl
+Data/한국어와문학_결과2/korlit_2008_2024.csv
+Data/한국어와문학_결과2/_checkpoint.jsonl

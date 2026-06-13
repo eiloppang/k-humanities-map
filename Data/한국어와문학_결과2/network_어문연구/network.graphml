@@ -1,0 +1,5482 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="node" attr.name="cited_count" attr.type="long"/>
+<key id="d1" for="node" attr.name="year" attr.type="string"/>
+<key id="d0" for="node" attr.name="title" attr.type="string"/>
+<graph edgedefault="directed"><node id="ART001648944">
+  <data key="d0">『新增東國輿地勝覽』에 나오는 ‘遷’계 地名語의 衰退에 관한 硏究</data>
+  <data key="d1">2012</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART002239140">
+  <data key="d0">敍述名詞의 論項의 格 실현 양상 - 自動性 機能動詞를 중심으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002006866">
+  <data key="d0">單語와 文章의 文法性</data>
+  <data key="d1">2015</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART001485778">
+  <data key="d0">南部 方言의 ‘달라’와 ‘다오’ －靈巖 地域語와 慶州 地域語를 中心으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001617828">
+  <data key="d0">日本語·中國語 外來語表記法의 廢棄 必要性</data>
+  <data key="d1">2011</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001307916">
+  <data key="d0">20世紀 初 國語學의 滑音과 二重母音에 대한 認識 －國語 文法書를 中心으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001676189">
+  <data key="d0">李漢鎭 編 「靑丘永言」의 특성 탐색</data>
+  <data key="d1">2012</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002543444">
+  <data key="d0">耐齋 洪泰猷 산문의 주제 의식 연구</data>
+  <data key="d1">2019</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001236398">
+  <data key="d0">二重 言語 社會와 交換 可能性 －美洲 韓人 社會를 참고하여 二重 言語 敎育 方案을 모색함－</data>
+  <data key="d1">2008</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001542761">
+  <data key="d0">中世國語 溫度 表現 語彙의 體系와 그 形態·意味的 特性</data>
+  <data key="d1">2011</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART001618390">
+  <data key="d0">식민주의 교육담론의 內的 矛盾 - 학부와 朝鮮總督府의 『보통학교 學徒用 修身書』를 중심으로 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002122060">
+  <data key="d0">징후로서의 轉向과 형식의 이데올로기: 한설야의 『청춘기』론</data>
+  <data key="d1">2016</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002480635">
+  <data key="d0">여성결혼이민자 대상 한국어교육 연구의 동향 분석</data>
+  <data key="d1">2019</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART001701629">
+  <data key="d0">形態素 ‘長’의 意味 考察</data>
+  <data key="d1">2012</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001976530">
+  <data key="d0">국권상실기(1905-1910) 여성의 국민화와 남녀동권 인식 - 여자용 교과서 『여자독본』과 여성가사를 중심으로</data>
+  <data key="d1">2015</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART002006822">
+  <data key="d0">國語 醇化와 21세기 言語文化 改善 運動</data>
+  <data key="d1">2015</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002572987">
+  <data key="d0">學問 目的 學習者의 韓國語 學問的 文識性 實踐에 대한 質的 접근</data>
+  <data key="d1">2020</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001726820">
+  <data key="d0">實態調査에 根據한 多文化家庭 女性 學習者의 韓國語敎育 方案</data>
+  <data key="d1">2012</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002095087">
+  <data key="d0">韓國人의 地域 間 커뮤니케이션 스타일 比較 硏究</data>
+  <data key="d1">2016</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002122126">
+  <data key="d0">自己省察을 위한 評傳 쓰기 敎育의 事例 硏究</data>
+  <data key="d1">2016</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001308072">
+  <data key="d0">近代 啓蒙期 國語의 助詞 實現 －使用域에 따른 助詞 實現 樣相을 中心으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001811407">
+  <data key="d0">大學生 說得 演說 수행에 나타난 問題 樣相과 그에 따른 指導 방향 연구</data>
+  <data key="d1">2013</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001307857">
+  <data key="d0">보조동사 ‘-(어)주다’의 統辭的 特性과 機能* －與格 標識로서의 분석 가능성－</data>
+  <data key="d1">2008</data>
+  <data key="d2">21</data>
+</node>
+<node id="ART003090949">
+  <data key="d0">Netflix 오리지널 한국 콘텐츠에 나타난 비속어 ․ 욕설 양상 분석</data>
+  <data key="d1">2024</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001459077">
+  <data key="d0">1910~30年代 活字本 古小說과 1990年代 小說 資料 속 動詞 ‘지다’의 意味 使用 樣相 比較</data>
+  <data key="d1">2010</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART001330041">
+  <data key="d0">아프레 걸의 系譜와 反共主義 敍事의 自己構成 方式 －崔貞熙의 「끝없는 낭만」을 중심으로－</data>
+  <data key="d1">2009</data>
+  <data key="d2">20</data>
+</node>
+<node id="ART002973486">
+  <data key="d0">‘움직이는 주관’과 순간의 역사 시학 연구 –김기림의 長詩 「기상도」를 중심으로–</data>
+  <data key="d1">2023</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001811424">
+  <data key="d0">베트남 漢文 使行文獻에 담긴 中國見聞, 그 특징적 면모 －조선의 燕行記錄과 比較를 겸하여－</data>
+  <data key="d1">2013</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001459203">
+  <data key="d0">효율적인 漢字語 敎育을 위한 등급별 漢字語 목록의 漢字 頻度 硏究</data>
+  <data key="d1">2010</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001866205">
+  <data key="d0">存齋 魏伯珪의 향촌공동체 운영과 「農歌」</data>
+  <data key="d1">2014</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART003062779">
+  <data key="d0">사람과 AI 모델 간의 화행 주석 개선 방향 연구</data>
+  <data key="d1">2024</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002006913">
+  <data key="d0">&lt;女子自歎歌&gt;의 資料的 實相과 特徵的 面貌</data>
+  <data key="d1">2015</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART001841722">
+  <data key="d0">鄕札 ‘遣’의 解讀 試考</data>
+  <data key="d1">2013</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001918315">
+  <data key="d0">이기영의 철학소설 연구－「인간수업」과 「고물철학」에 나타난 ‘철학’ 모티프를 중심으로－</data>
+  <data key="d1">2014</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART003149929">
+  <data key="d0">신자료 省庵 閔義燮 『明倫歌集』의 학술적 의의와 春州本을 통해 본 현대 가사맥</data>
+  <data key="d1">2024</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002151445">
+  <data key="d0">規則과 類推, 다시 생각하기</data>
+  <data key="d1">2016</data>
+  <data key="d2">25</data>
+</node>
+<node id="ART001841781">
+  <data key="d0">도시 거주 결혼이주여성의 韓國語文化 能力 習得에 관한 生涯史的 연구</data>
+  <data key="d1">2013</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART001943159">
+  <data key="d0">한글본 『三官記』에 대하여</data>
+  <data key="d1">2014</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001567559">
+  <data key="d0">許筠의 史論 散文 硏究</data>
+  <data key="d1">2011</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002700912">
+  <data key="d0">&lt;대한매일신보&gt;에 발표된 ‘개’ 소재 시조 「殺狗」의 연원</data>
+  <data key="d1">2021</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001329949">
+  <data key="d0">古代 地名의 改定과 그 功過</data>
+  <data key="d1">2009</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART002388190">
+  <data key="d0">統監府 治下 文明談論의 한 사례- 韓致愈의 「太極學會總說」과 「告學會說」 -</data>
+  <data key="d1">2018</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002451666">
+  <data key="d0">崔仁勳의 『화두』에 대한 比較文學的 硏究</data>
+  <data key="d1">2019</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001890186">
+  <data key="d0">동유럽 大學의 韓國語學의 現況과 發展 方向 －루마니아·헝가리·불가리아의 大學을 中心으로－</data>
+  <data key="d1">2014</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001380361">
+  <data key="d0">관형격 조사구에서의 助詞 結合과 變遷</data>
+  <data key="d1">2009</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART003000593">
+  <data key="d0">조선 문인 사회의 耘谷 元天錫 인식 양상 고찰</data>
+  <data key="d1">2023</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001434586">
+  <data key="d0">韓國語學의 發展을 위한 提言</data>
+  <data key="d1">2010</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002666759">
+  <data key="d0">천군계 소설에 드러난 심성 표현 방식과 자기 마음 이해 교육으로의 활용 가능성</data>
+  <data key="d1">2020</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002506916">
+  <data key="d0">김기림 初期 텍스트에 나타난 ‘政治性’과 ‘美學性’의 교차양상 硏究</data>
+  <data key="d1">2019</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002506740">
+  <data key="d0">『三國遺事』 ‘景德王 忠談師’ 條와 &lt;讚耆婆郞歌&gt;의 意味 再考</data>
+  <data key="d1">2019</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002181529">
+  <data key="d0">『此山筆談』에 나타난 욕망의 이중적 양상과 의미</data>
+  <data key="d1">2016</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART003150277">
+  <data key="d0">隱喩 分析을 통한 한국어 교사에 대한 認識 연구 –한국어 교사 및 베트남 한국어 학습자의 認識을 중심으로–</data>
+  <data key="d1">2024</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002666159">
+  <data key="d0">이광수의 근대 문체 실험과 한자</data>
+  <data key="d1">2020</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002151451">
+  <data key="d0">「숙영낭자전」의 漢文本 「再生緣」의 存在</data>
+  <data key="d1">2016</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002600406">
+  <data key="d0">朝鮮 後期 家門小說의 時․空間 背景과 在位 皇帝</data>
+  <data key="d1">2020</data>
+  <data key="d2">18</data>
+</node>
+<node id="ART001866209">
+  <data key="d0">境界人의 抗日武裝鬪爭과 또 다른 ‘고향찾기’의 旅程 －김세일의 「홍범도」를 중심으로－</data>
+  <data key="d1">2014</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001410006">
+  <data key="d0">20世紀 初 동아시아에 流通된『經國美談』 比較 考察 －玄公廉의 『經國美談』을 중심으로－</data>
+  <data key="d1">2009</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002210228">
+  <data key="d0">韓國語 漢字 形態素 개념 정립을 위한 시론(1) - 2字語 構成 要素의 形態素 지위를 중심으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">14</data>
+</node>
+<node id="ART002360587">
+  <data key="d0">대학 교양강의로서의 漢字敎育의 방향과 敎育方案에 관한 管見</data>
+  <data key="d1">2018</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002036947">
+  <data key="d0">繼承語 學習者의 한국어 統合學習을 위한 딕토글로스(Dictogloss)의 活用 事例 연구</data>
+  <data key="d1">2015</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002507132">
+  <data key="d0">1619년 深河戰役의 미결 지리 고증</data>
+  <data key="d1">2019</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001866230">
+  <data key="d0">韓國語와 中國語의 推測, 意志 表現 硏究 －意味와 機能에 基盤한 對照 分析을 中心으로－</data>
+  <data key="d1">2014</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002700984">
+  <data key="d0">韓國語 쓰기 敎材의 장르 知識 敎育 內容 分析 –說明文을 중심으로–</data>
+  <data key="d1">2021</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002267251">
+  <data key="d0">1970년대 이동희 소설에 나타난 새마을 지도자의 리더십- 이동희의 장편 『이무기가 사는 마을』과 중편 「농녀」를 중심으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001592555">
+  <data key="d0">說得 意思疏通에 대한 認知的 分析 - 프레임 變化를 이끄는 說得的 要素 分析 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001357755">
+  <data key="d0">韓國語 後補充 構文의 構造</data>
+  <data key="d1">2009</data>
+  <data key="d2">37</data>
+</node>
+<node id="ART002825911">
+  <data key="d0">국어학 文法 用語에 대한 知識考古學的 탐사 –국어학과 일반언어학의 대화–</data>
+  <data key="d1">2022</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART001618321">
+  <data key="d0">정현종의 詩와 時論에 나타난 鍊金術的 想像力의 意味</data>
+  <data key="d1">2011</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001485805">
+  <data key="d0">尹東柱 詩의 重層構造 －「또 다른 故鄕」 分析－</data>
+  <data key="d1">2010</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001757617">
+  <data key="d0">1950年代 洋公主 表象의 變轉과 國民 되기 －崔貞熙의 『끝없는 浪漫』을 중심으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART001255295">
+  <data key="d0">古典의 通路로서 漢字와 國語敎育의 확충</data>
+  <data key="d1">2008</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001841758">
+  <data key="d0">黃順元 小說에 나타난 農村社會의 葛藤 樣相 －『카인의 後裔』와 『神들의 주사위』를 中心으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001459172">
+  <data key="d0">조선시대 自挽詩의 類型的 특성</data>
+  <data key="d1">2010</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART001283175">
+  <data key="d0">金起林 詩에서 感受性과 詩的 이미지의 相關性</data>
+  <data key="d1">2008</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001701645">
+  <data key="d0">女性 主體性을 향한 旅程 －「謝氏南征記」 다시 읽기－</data>
+  <data key="d1">2012</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART002210388">
+  <data key="d0">사이버 疏通 文化에서의 時調 再認識과 敎育 方案 考察</data>
+  <data key="d1">2017</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002064439">
+  <data key="d0">‘保障’의 近代的 意味의 成立</data>
+  <data key="d1">2015</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001649005">
+  <data key="d0">17세기 疊用副詞의 形態的 特性과 意味的 機能</data>
+  <data key="d1">2012</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002296983">
+  <data key="d0">『同文類解』 滿洲語 한글 表記의 轉字的 性格에 대하여</data>
+  <data key="d1">2017</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001943246">
+  <data key="d0">時調 律格의 音數限定論</data>
+  <data key="d1">2014</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002700733">
+  <data key="d0">‘-을 것이-’ 構文의 樣態와 時制 解釋</data>
+  <data key="d1">2021</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001330057">
+  <data key="d0">國內 學問 目的 韓國語 敎育의 現況과 課題</data>
+  <data key="d1">2009</data>
+  <data key="d2">37</data>
+</node>
+<node id="ART003091093">
+  <data key="d0">‘-(으)려’계 어미의 ‘ㄹ’ 첨가형에 대하여: 연결어미 ‘–(으)려고’를 중심으로</data>
+  <data key="d1">2024</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001841731">
+  <data key="d0">小說言語의 社會詩學 －小說談論의 方法論에 대하여－</data>
+  <data key="d1">2013</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001592623">
+  <data key="d0">浪漫的 사랑의 系譜와 敍事原理로서의 젠더 - 1950년대 &lt;思想界&gt;와 &lt;女苑&gt;을 중심으로 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART002181539">
+  <data key="d0">日帝 强占期의 模擬裁判劇 硏究</data>
+  <data key="d1">2016</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002507033">
+  <data key="d0">傳 樣式을 變容한 現代小說의 敎科書 收錄 樣相</data>
+  <data key="d1">2019</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001757699">
+  <data key="d0">韓國語 空間形容詞의 時間性에 대하여</data>
+  <data key="d1">2013</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002733829">
+  <data key="d0">大學 漢文敎育에서의 敎授·學習方法論의 現況 –媒體의 活用에 관한 事例硏究를 중심으로–</data>
+  <data key="d1">2021</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART002210283">
+  <data key="d0">노동의 향유, 良心律의 회복 - 『흙』에 나타난 이상주의적 사유의 맥락과 배경 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001567495">
+  <data key="d0">‘골’, ‘山’, ‘들’에 準據하여 生成된 ‘내[川]’의 名稱에 대하여</data>
+  <data key="d1">2011</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001459160">
+  <data key="d0">工學 認證制 글쓰기 敎育을 위한 授業 運營 方案 硏究 －서울産業大 理工系 &lt;글쓰기와 意思疏通&gt; 事例를 中心으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">14</data>
+</node>
+<node id="ART001592692">
+  <data key="d0">廣告에 나타난 隱喩表現의 한국어 교육에서의 活用方案 연구</data>
+  <data key="d1">2011</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART003119597">
+  <data key="d0">引用標識 ‘하고’의 文法化</data>
+  <data key="d1">2024</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002035721">
+  <data key="d0">朴容萬의 國語敎科書 硏究 - 『됴션말 독본』 ‘첫 책’과 『됴션말 교과셔』 ‘둘재 책’을 中心으로 -</data>
+  <data key="d1">2015</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002236332">
+  <data key="d0">李箱 詩에 나타난 皮膚 感覺의 形象化 硏究</data>
+  <data key="d1">2017</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002945195">
+  <data key="d0">1950~60년대 外來語 表記 政策 樹立과 普及에 관한 一考察 –문교부(1958), “로마자의 한글화 표기법”과 편수 자료를 中心으로–</data>
+  <data key="d1">2023</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001542824">
+  <data key="d0">「蘇賢聖錄」 人物 出生譚의 特徵과 敍事的 機能</data>
+  <data key="d1">2011</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002331201">
+  <data key="d0">한국어 ‘X+에(ㅅ)+X’型 名詞에 대한 硏究</data>
+  <data key="d1">2018</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001409966">
+  <data key="d0">歷史資料 형태분석 프로그램 개발의 國語學的 意義와 活用 硏究 －活字本 古小說을 중심으로－</data>
+  <data key="d1">2009</data>
+  <data key="d2">24</data>
+</node>
+<node id="ART001811433">
+  <data key="d0">김현승 詩에 나타난 ‘肉體/靈魂’의 대립과 그 의미 －『옹호자의 노래』를 중심으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002915368">
+  <data key="d0">朝鮮後期 佛敎歌辭 享有 課程에서 記錄의 意圖와 辭說 變移의 兩面性</data>
+  <data key="d1">2022</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001485926">
+  <data key="d0">眉巖 柳希春의 『續蒙求』 硏究</data>
+  <data key="d1">2010</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART001943312">
+  <data key="d0">김애란 短篇小說 「침이 고인다」 硏究 －現代 資本社會의 주체와 敍事 構造를 중심으로－</data>
+  <data key="d1">2014</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002297054">
+  <data key="d0">古典詩歌 텍스트를 활용한 國語史 敎育 內容 選定의 문제- 고등학교 교과서 수록 高麗歌謠를 중심으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002733865">
+  <data key="d0">李光洙 『無情』에 나타난 ‘半開’의 식민지적 형상 연구</data>
+  <data key="d1">2021</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001409993">
+  <data key="d0">현대시에 나타난 ‘다문화(多文化)’의 양상들 －김수영, 김정환, 유 하의 시를 중심으로－</data>
+  <data key="d1">2009</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002733848">
+  <data key="d0">‘-을까’ 疑問文의 對話 參與者 情報 分布와 恭遜性 硏究</data>
+  <data key="d1">2021</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002973027">
+  <data key="d0">17세기 초 문학에 나타나는 국가 정체성 공론화의 두 계보 –箕子의 문화 자주성과 豐沛之鄕으로서의 關北에 관하여-</data>
+  <data key="d1">2023</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002361944">
+  <data key="d0">隱喩라는 文法, 노래라는 作法 - 近代詩(歌)의 朝鮮語 口語體 詩 樣式의 摸索 過程과 漢字語의 機能에 대하여</data>
+  <data key="d1">2018</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART003029059">
+  <data key="d0">「벽성선전」에 나타난 여성영웅 인물의 양상과 서사적 지향 – 「옥루몽」과의 대조를 중심으로</data>
+  <data key="d1">2023</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001592666">
+  <data key="d0">金東鳴 詩에 나타난 場所의 詩的 形象化</data>
+  <data key="d1">2011</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001649015">
+  <data key="d0">熱情的 사랑의 逆說과 存在의 悲劇性 － 崔勝子 詩를 중심으로 －</data>
+  <data key="d1">2012</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001618314">
+  <data key="d0">構造主義 批評을 활용한 서정주의 詩 分析 - 서정주의 「新婦」를 中心으로 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001757693">
+  <data key="d0">國語의 同字同義異音 漢字語 硏究</data>
+  <data key="d1">2013</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART002420419">
+  <data key="d0">도시언어 상호작용 전략에 관한 일고찰 - 대학 공간 내 대화참여자를 중심으로 -</data>
+  <data key="d1">2018</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART003150268">
+  <data key="d0">중국 語文 교과의 成語 교육 현황 및 국어과 한자성어 교육에의 시사점 : 교육과정과 대입 시험 평가 문항의 분석을 중심으로</data>
+  <data key="d1">2024</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001308015">
+  <data key="d0">「시어머니 길들인 며느리」 類型의 갈래와 意味</data>
+  <data key="d1">2008</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART002973132">
+  <data key="d0">경기도의 방언 구획 –등어선속을 이용한 첫 체계적 시도–</data>
+  <data key="d1">2023</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART002826124">
+  <data key="d0">韓國語 敎材의 國家 差別的 要素에 대한 點檢 –個體名 認識 基盤 國家名 分析과 同時 出現 單語 點檢을 中心으로–</data>
+  <data key="d1">2022</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002451526">
+  <data key="d0">한국어 한자성어 변이 구성 연구</data>
+  <data key="d1">2019</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART002945325">
+  <data key="d0">義와 忠의 이중주:朝鮮 後期 漢文小說의 女性英雄型 人物에게서 나타나는 女性倫理主體의 확대</data>
+  <data key="d1">2023</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002700933">
+  <data key="d0">申在孝 판소리 사설의 故事成語 활용 양상과 그 의미</data>
+  <data key="d1">2021</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001617854">
+  <data key="d0">共鳴度 및 關聯 音韻 現象에 대한 音聲學的 接近</data>
+  <data key="d1">2011</data>
+  <data key="d2">14</data>
+</node>
+<node id="ART002095074">
+  <data key="d0">形態論, 爭點들에서 길 찾기</data>
+  <data key="d1">2016</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART002331192">
+  <data key="d0">패션 및 衣類名 表記에 나타난 外來語 誤表記의 樣相</data>
+  <data key="d1">2018</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001649013">
+  <data key="d0">金起林 詩에 나타난 近代性에 대한 視線</data>
+  <data key="d1">2012</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001512915">
+  <data key="d0">儒家의 自然觀</data>
+  <data key="d1">2010</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART002064493">
+  <data key="d0">디아스포라 고려인 시에 나타난 조국과 고향의 변화양상</data>
+  <data key="d1">2015</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001542852">
+  <data key="d0">映畵 「외출」의 小說化에 대한 硏究 - 이미지의 配列을 통한 餘白과 人物과 敍事의 擴張을 통해 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002267189">
+  <data key="d0">洪景來亂에 대한 기억의 재구성 - 「辛未錄」의 형성맥락에 대하여 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001512873">
+  <data key="d0">「華想譜」論: 日帝 末期 兪鎭午의 朝鮮主義와 敍事戰略</data>
+  <data key="d1">2010</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001841718">
+  <data key="d0">「三韓拾遺」에 나타난 香娘의 寃死와 上帝․九尾狐의 관련양상</data>
+  <data key="d1">2013</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001358494">
+  <data key="d0">李庸岳의 現實 認識과 自我 擴大 方式</data>
+  <data key="d1">2009</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002882501">
+  <data key="d0">김능인과 그의 時代: 大衆이라는 大前提와 橫斷의 論理</data>
+  <data key="d1">2022</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002210238">
+  <data key="d0">雙形語의 槪念과 分類</data>
+  <data key="d1">2017</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001785740">
+  <data key="d0">物質性으로 構成되는 空間 연구－김명화 戱曲 「첼로와 케찹」을 中心으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001357871">
+  <data key="d0">1930년대 文學의 테크널러지 媒體의 受容과 媒體 混種</data>
+  <data key="d1">2009</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART002945236">
+  <data key="d0">‘유토피아’的 지식인의 분열증적 양상, 90년대 시적 주체의 한 갈래(2)–유하를 中心으로–</data>
+  <data key="d1">2023</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002360461">
+  <data key="d0">他動詞와 ‘-어 있-’의 結合에 관한 考察</data>
+  <data key="d1">2018</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001943358">
+  <data key="d0">芝川 黃廷彧 詩의 拗體에 대하여</data>
+  <data key="d1">2014</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001567508">
+  <data key="d0">京板 春香傳의 改作方向에 대한 再論</data>
+  <data key="d1">2011</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001649007">
+  <data key="d0">말뭉치 統計分析을 이용한 反意語 連續 構成 硏究</data>
+  <data key="d1">2012</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART002007088">
+  <data key="d0">‘알고 있는 것/더 알아야 할 사항들’과 ‘省察日誌’ 작성하기를 통한 學術的 글쓰기 연구</data>
+  <data key="d1">2015</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001485789">
+  <data key="d0">複合語 分析에 의한 單語의 變化</data>
+  <data key="d1">2010</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART002181512">
+  <data key="d0">‘-고도’에 대한 考察</data>
+  <data key="d1">2016</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001283185">
+  <data key="d0">中國人 留學生의 特性과 韓國語 學習實態 調査 －光州 地域 學問目的 韓國語 學習者를 中心으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART001785730">
+  <data key="d0">心象地理imaginary geography의 외부, ‘불확실성의 심연’과 문학적 공간 －春園 李光洙의 문학에 나타난 러시아의 공간성을 중심으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART002733869">
+  <data key="d0">『滄槎紀行』의 특징과 安光黙의 日本 使行 經驗</data>
+  <data key="d1">2021</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001841773">
+  <data key="d0">黃錫禹 詩에 나타난 ‘生命’ 認識과 아나키즘의 影響</data>
+  <data key="d1">2013</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002666380">
+  <data key="d0">古典隨筆 개념 정립을 위한 試論</data>
+  <data key="d1">2020</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001701641">
+  <data key="d0">自歎型 &lt;思親歌&gt;의 특징적 양상과 ‘思親’의 의미</data>
+  <data key="d1">2012</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001434595">
+  <data key="d0">韓·中·日 常用漢字의 比較 考察(2) －國內 通用略字의 整理를 爲하여－</data>
+  <data key="d1">2010</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001592561">
+  <data key="d0">結果의 ‘-라고’와 目的의 ‘-자고’에 對하여</data>
+  <data key="d1">2011</data>
+  <data key="d2">13</data>
+</node>
+<node id="ART002296964">
+  <data key="d0">方言에서의 “박쥐”에 대한 認識 및 關聯 問題</data>
+  <data key="d1">2017</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002790745">
+  <data key="d0">교육용 漢字 1,800字의 효율적 學習 방법론 一考察</data>
+  <data key="d1">2021</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002388177">
+  <data key="d0">金末峰 異名 硏究</data>
+  <data key="d1">2018</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001726883">
+  <data key="d0">李明善의 文學史觀과 文學史 敍述의 實際 樣相</data>
+  <data key="d1">2012</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002915564">
+  <data key="d0">단순성(simplicity), 음악성(aesthetics of form), 시성(poésie) –‘단순성’의 근대시적 현존과 ‘4행시체’의 계보</data>
+  <data key="d1">2022</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001459188">
+  <data key="d0">李奎象이 『幷世才彦錄』에 쓴 明人 기록의 등장 底邊 －「寓裔錄」, 「風泉錄」의 意義와 관련하여－</data>
+  <data key="d1">2010</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART002543321">
+  <data key="d0">兪晩柱의 소설 읽기와 쓰기</data>
+  <data key="d1">2019</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001757559">
+  <data key="d0">韓國人 料理師 談話의 敎育 觀點 硏究 －放送劇 &lt;파스타&gt;의 반말 命令과 그 反應을 對象으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001701624">
+  <data key="d0">依存名詞의 文法化 程度와 樣態的인 意味 －‘-기 마련이다, -는 법이다, -기 십상이다, -기 일쑤이다’를 중심으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">18</data>
+</node>
+<node id="ART001511896">
+  <data key="d0">李安中의 散文에 나타난 小說化 傾向</data>
+  <data key="d1">2010</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002210353">
+  <data key="d0">대학 교양 한문의 방향 제안- 중앙대학교의 사례를 중심으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002666729">
+  <data key="d0">苦痛의 敍事와 應答의 倫理 –朴景利 『土地』를 中心으로–</data>
+  <data key="d1">2020</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002035718">
+  <data key="d0">李의 우물추락사설에 대한 해명</data>
+  <data key="d1">2015</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002267166">
+  <data key="d0">時調에 등장하는 우리나라 實存 人物 硏究</data>
+  <data key="d1">2017</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002915635">
+  <data key="d0">許秀卿 詩의 서울 表象 硏究 –『슬픔만한 거름이 어디 있으랴』(1988), 『혼자 가는 먼 집』(1992)를 중심으로–</data>
+  <data key="d1">2022</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002733861">
+  <data key="d0">金埈五 詩學에서 ‘同一性들’의 중층적 意味 연구 –저서 『詩論』을 중심으로</data>
+  <data key="d1">2021</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002267279">
+  <data key="d0">해방기 김남천 文學의 革命的 世界觀과 創造的 實踐의 問題 - 「1945년 8․15」와 「十月」을 중심으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002477767">
+  <data key="d0">夫婦 사이의 좁혀지지 않는 거리와 家父長的 秩序의 自己矛盾 - 玄鎭健과 殷熙耕의 「貧妻」를 中心으로 -</data>
+  <data key="d1">2019</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001918259">
+  <data key="d0">韓國語 文法의 意味論的 範疇</data>
+  <data key="d1">2014</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001283168">
+  <data key="d0">박상륭의 『잠의 열매를 매단 나무는 뿌리로 꿈을 꾼다』에 나타난 존재론적 사유 －『잠의 열매를 매단 나무는 뿌리로 꿈을 꾼다』의 「두 집 사이」</data>
+  <data key="d1">2008</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002477674">
+  <data key="d0">한자 문화권과 양층 언어(diglossia)의 문제</data>
+  <data key="d1">2019</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002853813">
+  <data key="d0">忍齋 洪暹의 학적 연원과 문학 지향</data>
+  <data key="d1">2022</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001567545">
+  <data key="d0">버클리大學 아사미文庫 所藏 六臣墓碑 拓本을 통해 본 金時習 六臣墓 造成 傳說의 定着 過程</data>
+  <data key="d1">2011</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001459132">
+  <data key="d0">伐採를 素材로 한 漢詩의 通時的 양상과 民謠的 情緖</data>
+  <data key="d1">2010</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002151517">
+  <data key="d0">2015 改定 敎育課程 내에서의初等學校 漢字敎育 方案 摸索</data>
+  <data key="d1">2016</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002095064">
+  <data key="d0">國語 意味 硏究의 展望과 課題</data>
+  <data key="d1">2016</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001410024">
+  <data key="d0">近代小說의 장르分化와 演說의 미디어적 連繫性 硏究 －1920~30년대를 중심으로－</data>
+  <data key="d1">2009</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART001676168">
+  <data key="d0">백석의 初期詩에 나타난 換喩的 발상과 表現 연구 －「여우난곬族」 중심으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001357794">
+  <data key="d0">프레임을 이용한 意思疏通 過程 硏究</data>
+  <data key="d1">2009</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART001866183">
+  <data key="d0">新語의 生成과 使用－사람 관련 名詞를 대상으로－</data>
+  <data key="d1">2014</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART001357925">
+  <data key="d0">韓國語 文法書와 敎材에 나타난 ‘-더-’ 關聯 文法項目 意味 記述의 檢討와 ‘-더-’ 關聯 文法項目의 提示順序</data>
+  <data key="d1">2009</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART002007046">
+  <data key="d0">‘卒記’의 敍述法을 활용한 글쓰기 교육의 可能性 探索 - ‘卒記’가 지닌 ‘傳’의 特性을 中心으로 -</data>
+  <data key="d1">2015</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001701736">
+  <data key="d0">學問目的 韓國語의 글쓰기 現況과 方向性 -大學 敎養 必須科目의 特殊 學問目的 글쓰기를 中心으로-</data>
+  <data key="d1">2012</data>
+  <data key="d2">14</data>
+</node>
+<node id="ART002420261">
+  <data key="d0">韓國語 複數標識 ‘들’에 對한 考察 - 依存名詞 ‘들’을 中心으로 -</data>
+  <data key="d1">2018</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001618019">
+  <data key="d0">韓國 現代生態小說의 現況과 展望</data>
+  <data key="d1">2011</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001757577">
+  <data key="d0">인문치료의 듣고 재생하기 誤謬 樣相 －詩 텍스트를 중심으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001918293">
+  <data key="d0">「나나봉젼」 硏究</data>
+  <data key="d1">2014</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001841651">
+  <data key="d0">現代 韓國語 單一語의 分布와 意味的 特性에 관한 硏究</data>
+  <data key="d1">2013</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001757689">
+  <data key="d0">終結語尾 ‘-소’와 ‘-오’의 통시적 연구</data>
+  <data key="d1">2013</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001254733">
+  <data key="d0">朝鮮後期 野談集 所載 奇異談의 特性 考察 －『天倪錄』을 中心으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001380351">
+  <data key="d0">幼兒의 質問 話行에 대한 應對 方法 硏究 －32個月∼43個月 兒童의 縱的 자료를 대상으로－</data>
+  <data key="d1">2009</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001841680">
+  <data key="d0">의존명사 ‘것’의 이형태 ‘거/걸’의 정립을 위한 시론</data>
+  <data key="d1">2013</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001542869">
+  <data key="d0">假面劇敎育의 現況과 國語敎育的 設計 - 初․中等學生을 對象으로 한 경우 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002600551">
+  <data key="d0">省察的 道德 判斷의 지향과 儒家的 倫理觀 –서정인론–</data>
+  <data key="d1">2020</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002424072">
+  <data key="d0">『三代』의 조의관과 周邊人物 硏究</data>
+  <data key="d1">2018</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001485847">
+  <data key="d0">‘殉敎者’ 像의 形成과 受容 －春園과 島山의 유대 관계에 대한 고찰－</data>
+  <data key="d1">2010</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART002210274">
+  <data key="d0">1950년대 孫昌涉 소설의 家族 공동체 연구</data>
+  <data key="d1">2017</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002123183">
+  <data key="d0">金裕貞의 「귀여운 少女」 飜譯底本의 發掘과 그 意味 - 飜譯底本 新資料에 관한 內容을 中心으로 -</data>
+  <data key="d1">2016</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001511890">
+  <data key="d0">中子音에 의한 位置 同化에 대하여 －咸北 方言의 /ㅇ/→/ㄴ/ 현상을 중심으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART002628993">
+  <data key="d0">柳希齡의 「遊俗離山錄」 고찰</data>
+  <data key="d1">2020</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001409954">
+  <data key="d0">韓·中·日 常用漢字의 比較 考察(1) －國內 通用略字의 整理를 爲하여－</data>
+  <data key="d1">2009</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART002151456">
+  <data key="d0">天主歌辭 &lt;션죵가&gt;의 敎理 詩歌化 양상과삶과 죽음에 대한 認識</data>
+  <data key="d1">2016</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002064452">
+  <data key="d0">「고산구곡가」의 用意精深 연구</data>
+  <data key="d1">2015</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001380423">
+  <data key="d0">金東里 小說의 基督敎 傳承 受容과 變異 樣相 硏究</data>
+  <data key="d1">2009</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002035666">
+  <data key="d0">南北 言語 統合 政策에 대한 專門家 調査 結果 分析</data>
+  <data key="d1">2015</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002122146">
+  <data key="d0">1930년대 모더니즘 談論에 나타난‘心理的 리얼리티’ 개념에 대한 一考察</data>
+  <data key="d1">2016</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001357862">
+  <data key="d0">한국 현대 參與詩의 自己 告白型 검토</data>
+  <data key="d1">2009</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001434608">
+  <data key="d0">古典敍事에 나타나는 ‘불가살이’ 硏究</data>
+  <data key="d1">2010</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART001757683">
+  <data key="d0">開音節 뒤의 ㄴ 揷入 現象에 대하여 －全南 方言을 중심으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001254991">
+  <data key="d0">&lt;少年&gt;誌에 나타난 ‘獨立’ 개념의 특징과 그 배경</data>
+  <data key="d1">2008</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002666191">
+  <data key="d0">統監府가 파악한 한국의 계몽과 교육: 俵孫一의 “韓國敎育” 訓示와 당대 잡지의 관련 기사</data>
+  <data key="d1">2020</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002297071">
+  <data key="d0">고전문학의 정서 향유를 위한 상상적 경험 쓰기 교육 연구- 영화의 활용을 중심으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART003119600">
+  <data key="d0">파주 임진팔경과 來蘇亭 詩 고증편</data>
+  <data key="d1">2024</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002420348">
+  <data key="d0">朴英熙와 昇曙夢 - 혁명 전야 지식인의 초상 -</data>
+  <data key="d1">2018</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002331217">
+  <data key="d0">연행록을 통해 본 淸代 地方秀才 齊佩蓮의 생애와 朝鮮使臣과의 교유</data>
+  <data key="d1">2018</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001918357">
+  <data key="d0">自己表現의 스토리텔링과 글쓰기 敎養敎育의 效果</data>
+  <data key="d1">2014</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001236397">
+  <data key="d0">鄭知常의 「送人」을 둘러싼 解釋的 多樣性의 問題</data>
+  <data key="d1">2008</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001511915">
+  <data key="d0">『劉氏三代錄』과 『林氏三代錄』의 비교 연구 －幻想性의 具現樣相을 중심으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001757573">
+  <data key="d0">歷代 學校 文法의 副詞語 硏究</data>
+  <data key="d1">2013</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001757566">
+  <data key="d0">專攻글쓰기 能力 啓發을 위한 WAC 협력 과정 －哲學 授業 事例를 中心으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">28</data>
+</node>
+<node id="ART002945230">
+  <data key="d0">평양 로컬리티를 통한 金史良 문학의 재인식</data>
+  <data key="d1">2023</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002420136">
+  <data key="d0">開化期 신문명과 新生漢字語의 확산</data>
+  <data key="d1">2018</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART003149760">
+  <data key="d0">固有語 味覺形容詞의 語根 形成</data>
+  <data key="d1">2024</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002451627">
+  <data key="d0">外國人 學習者를 위한 北韓의 獨學用 朝鮮語 敎材 分析 硏究 -『혼자서 배울수 있는 조선말(You can Learn Korean by Yourse</data>
+  <data key="d1">2019</data>
+  <data key="d2">37</data>
+</node>
+<node id="ART001785690">
+  <data key="d0">訓民正音 制字原理의 位階性과 異體</data>
+  <data key="d1">2013</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART001512898">
+  <data key="d0">朴景利 小說에 나타난 ‘推理小說적 모티프’의 의미와 양상 연구 －「가을에 온 女人」, 「他人들」, 「겨울비」를 중심으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001785751">
+  <data key="d0">金素月 詩의 感情과 ‘音聲的 텍스트’ 그리고 傳統의 問題</data>
+  <data key="d1">2013</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002945205">
+  <data key="d0">여성캐릭터의 양가성 –廉想涉의 1920-30년대 小說을 中心으로–</data>
+  <data key="d1">2023</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001485928">
+  <data key="d0">16~17세기 ‘立言’․‘立言垂後’에 대한 意識과 受容 맥락</data>
+  <data key="d1">2010</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001918275">
+  <data key="d0">「紅衣童子」 硏究</data>
+  <data key="d1">2014</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001410032">
+  <data key="d0">禪佛敎의 상징어에 대한 비판적 재해석 －異類中行 및 靑山·白雲을 중심으로－</data>
+  <data key="d1">2009</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001918341">
+  <data key="d0">『騎驢隨筆』에 나타나는 女性 抗日運動과 意味</data>
+  <data key="d1">2014</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001726826">
+  <data key="d0">張經世의 「遊仙詞」 고찰</data>
+  <data key="d1">2012</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART003149942">
+  <data key="d0">‘말 걸기’와 응답으로서의 소설 쓰기 : 梁貴子의 「숨은 꽃」을 대상으로</data>
+  <data key="d1">2024</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART003000585">
+  <data key="d0">웹소설을 통해 본 ‘진가쟁주’ 서사의 현대적 변용 양상과 그 의미 – 고전소설 「옹고집전」과 웹소설 「역하렘 게임 속으로 떨어진 모양입니다」, </data>
+  <data key="d1">2023</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001380335">
+  <data key="d0">『한불□뎐』에 실린 否定的 意味의 人物名詞</data>
+  <data key="d1">2009</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002973402">
+  <data key="d0">金春洙 散文의 相互텍스트성 – 꽃과 여우』 속 ‘良心’에 대한 내용을 中心으로-</data>
+  <data key="d1">2023</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001701728">
+  <data key="d0">學問目的 글쓰기를 위한 문장 구성 틀 硏究 －終結表現에 따른 連結表現의 共起 樣相의 差異를 중심으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART002629058">
+  <data key="d0">韓國語 類似 文法 項目 敎育을 위한 입력 기반 과제 適用 硏究</data>
+  <data key="d1">2020</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001676335">
+  <data key="d0">大衆歌謠에 나타난 性別 對象語의 變化에 대한 硏究 －1960년대, 2000년대 前半期 가요를 中心으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART002790761">
+  <data key="d0">相的 屬性과 關聯한 ‘-느라고’의 文法的 制約과 韓國語 敎育 方案</data>
+  <data key="d1">2021</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001701653">
+  <data key="d0">申在孝 판소리 사설에 나타난 物慾의 表出 樣相과 그 意味</data>
+  <data key="d1">2012</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001726969">
+  <data key="d0">修飾語의 修飾 對象과 修飾詞 －「표준국어대사전」의 품사 통용을 해결하기 위해－</data>
+  <data key="d1">2012</data>
+  <data key="d2">15</data>
+</node>
+<node id="ART001307958">
+  <data key="d0">辭說時調의 敍述特徵과 現代的 繼承</data>
+  <data key="d1">2008</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002543459">
+  <data key="d0">20세기 초 승려문집 『茶松文稿』의 문체적 특징</data>
+  <data key="d1">2019</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001256001">
+  <data key="d0">변증법적 글쓰기의 이론적 可能性과 實際 －대학에서의 실제 글쓰기 교수 事例를 중심으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001512933">
+  <data key="d0">이미지의 本質과 感覺 이미지 論議의 諸問題</data>
+  <data key="d1">2010</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART001542820">
+  <data key="d0">『永言傳』 所載 歌辭의 特徵的 樣相과 解釋的 脈絡</data>
+  <data key="d1">2011</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001380356">
+  <data key="d0">國語 固有語 名詞의 不完全 曲用 硏究</data>
+  <data key="d1">2009</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002210217">
+  <data key="d0">飮食名에 붙는 接頭辭 ‘막-’에 대하여</data>
+  <data key="d1">2017</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002006805">
+  <data key="d0">『한불자전』 뜻풀이로 본 19世紀 國語의 語彙</data>
+  <data key="d1">2015</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001236108">
+  <data key="d0">完了相 표현의 보조동사 ‘버리다’와 ‘내다’에 대한 通時的 硏究</data>
+  <data key="d1">2008</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART002506976">
+  <data key="d0">19세기 서양인 선교사와 한국어 교수법 – 『韓國學彙報 Korean Repository』의 구앵(Gouin) 직접교수법을 중심으로 –</data>
+  <data key="d1">2019</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001254710">
+  <data key="d0">소위 複合格助詞 ‘엣’의 通時的 考察</data>
+  <data key="d1">2008</data>
+  <data key="d2">14</data>
+</node>
+<node id="ART001410056">
+  <data key="d0">이탈리아 韓國語 敎育의 現況과 課題 －베네치아대학을 中心으로－</data>
+  <data key="d1">2009</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART001811399">
+  <data key="d0">童詩의 竝列 構造가 리듬 교육에 주는 意味</data>
+  <data key="d1">2013</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001329999">
+  <data key="d0">國語 形容詞 {이-}의 語彙素 分類 試稿 －‘確認, 屬性, 所在, 提示 等’의 意味를 中心으로－</data>
+  <data key="d1">2009</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART002973296">
+  <data key="d0">방각본 『사요취선(史要聚選)』 내용 연구 –19세기 通俗的 漢文 識字層의 분화와 관련하여-</data>
+  <data key="d1">2023</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001237914">
+  <data key="d0">‘전(前)’의 內包文 構成의 文法史</data>
+  <data key="d1">2008</data>
+  <data key="d2">14</data>
+</node>
+<node id="ART002915292">
+  <data key="d0">구술성, 문자성의 교직(交織)과 언해력(言解力)</data>
+  <data key="d1">2022</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002972934">
+  <data key="d0">조선후기 계유정난 관련 서사의 전개 양상과 그 특질 –한글 서사를 중심으로–</data>
+  <data key="d1">2023</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001330127">
+  <data key="d0">中世國語 接續 構成에서의 事實性</data>
+  <data key="d1">2009</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001283163">
+  <data key="d0">『訓民正音』 「序文」의 ‘者’ㆍ‘놈’의 意味와 관련한 古典 再檢討의 必要性 論議 －‘者’와 ‘놈’은, ‘것’ 또는 ‘경우’를 뜻한다－</data>
+  <data key="d1">2008</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART002151499">
+  <data key="d0">朝鮮後期 詩文에 나타난 高山九曲의 場所性</data>
+  <data key="d1">2016</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002477665">
+  <data key="d0">겹받침 關聯 語文 規定 硏究</data>
+  <data key="d1">2019</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002424080">
+  <data key="d0">韓國語 冠形節 內包文 敎育 硏究 - 中國人 學習者를 중심으로 -</data>
+  <data key="d1">2018</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001235196">
+  <data key="d0">李箱 문학의 건축학적 시선과 ‘迷宮’ 모티프 －1930년대의 건축학적 이념과 모홀리-나기와의 연관성을 중심으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">14</data>
+</node>
+<node id="ART002543509">
+  <data key="d0">내용 중심 학문목적 한국어교육을 위한 교육용 어휘의 선정 -문화예술경영 전공 대학원 학습자를 중심으로-</data>
+  <data key="d1">2019</data>
+  <data key="d2">15</data>
+</node>
+<node id="ART001617945">
+  <data key="d0">조선조 社稷樂章의 성격과 의미</data>
+  <data key="d1">2011</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002972903">
+  <data key="d0">主節 ‘-더-’와 從屬節 ‘-더-’의 機能 探究</data>
+  <data key="d1">2023</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002543326">
+  <data key="d0">文字에서 사운드로, 사운드에서 이미지로 -‘鐵人間’ 李箱과 ‘蓄音機效果(Phonograph Effects)’</data>
+  <data key="d1">2019</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001567568">
+  <data key="d0">形式과 機能의 상관성에 기초한 韓國語 敎育 文法 연구</data>
+  <data key="d1">2011</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART002543404">
+  <data key="d0">韓國 모더니즘 문학과 蔡萬植 小說</data>
+  <data key="d1">2019</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001918346">
+  <data key="d0">初等 國語 敎科書 劇本의 類型別 題材 分析 －量的 分析을 中心으로－</data>
+  <data key="d1">2014</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001357819">
+  <data key="d0">『三國遺事』 道伴說話의 확장과 변모</data>
+  <data key="d1">2009</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART003029128">
+  <data key="d0">1930年代 모더니즘 텍스트의 알레고리的 양상 연구(2) – 박태원의 「애욕」에 나타난 예술가의 ‘감정’을 중심으로 –</data>
+  <data key="d1">2023</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001283379">
+  <data key="d0">韓國語 學習者의 作文에서 ‘內容 組織하기’ 分析 －凝集性을 中心으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART002477715">
+  <data key="d0">『朝鮮人會社·大商店辭典』에 수록된 1920년대 조선의 출판사와 인쇄소의 실태</data>
+  <data key="d1">2019</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002151466">
+  <data key="d0">&lt;반도의 봄&gt;과 &lt;시집가는 날&gt;의 의사-로칼리티(Pseudo-locality) 表象</data>
+  <data key="d1">2016</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001785697">
+  <data key="d0">大學 글쓰기에 나타나는 語文規範과 文章 誤謬의 類型 및 指導 方案</data>
+  <data key="d1">2013</data>
+  <data key="d2">23</data>
+</node>
+<node id="ART001434613">
+  <data key="d0">삼국유사 소재 &lt;處容歌&gt;의 高麗的 어휘 요소와 그 示唆에 關하여</data>
+  <data key="d1">2010</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002064428">
+  <data key="d0">濟州方言 談話標識 ‘계메’의 韻律的 特性과談話的 機能의 相關關係</data>
+  <data key="d1">2015</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART002420276">
+  <data key="d0">朴淵의 노힐부득 달달박박과 說話移住의양상과 의미</data>
+  <data key="d1">2018</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002006849">
+  <data key="d0">韓·中·日 品詞 對照를 위한 品詞 分類 基準 設定</data>
+  <data key="d1">2015</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002360442">
+  <data key="d0">他動詞文에 나타나는 ‘줄’ 構成의 通時的 樣相에 대한 一考察</data>
+  <data key="d1">2018</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002360527">
+  <data key="d0">『巾車志』에 나타난 여성 유배 체험의 양상</data>
+  <data key="d1">2018</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001567526">
+  <data key="d0">分斷 以後 敍事詩의 發話樣相 硏究 - 「錦江」, 「새재」, 「白頭山」을 중심으로 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART003029487">
+  <data key="d0">生成 AI 技術의 文學敎育的 活用 可能性* – ‘ChatGPT’를 중심으로 –</data>
+  <data key="d1">2023</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002628968">
+  <data key="d0">음식을 통한 트라우마 치유 –영화 「김씨표류기」에서 삶의 희망이 된 짜장면–</data>
+  <data key="d1">2020</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001676203">
+  <data key="d0">‘南白月二聖 努肹夫得 怛怛朴朴’조의 詩歌考</data>
+  <data key="d1">2012</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001434655">
+  <data key="d0">『萬人譜』에 나타난 民族 共同體의 樣相에 대한 考察</data>
+  <data key="d1">2010</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001308020">
+  <data key="d0">「정해경전」에 나타나는 母親探索의 樣相과 意味 硏究</data>
+  <data key="d1">2008</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002882506">
+  <data key="d0">解放期 廉想涉과 少年 –『채석장의 소년』을 중심으로–</data>
+  <data key="d1">2022</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002451637">
+  <data key="d0">中·英·韓 語順의 模倣性과 抽象性 特徵</data>
+  <data key="d1">2019</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001617962">
+  <data key="d0">「삼문규합록」 硏究</data>
+  <data key="d1">2011</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002973232">
+  <data key="d0">日帝强占期 古典唱劇 &lt;金庾信&gt; 檢閱臺本 硏究</data>
+  <data key="d1">2023</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001918332">
+  <data key="d0">沈翼雲의 『百一年集』硏究</data>
+  <data key="d1">2014</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001485770">
+  <data key="d0">程度副詞의 意味機能과 文章意味 構成 －‘매우’, ‘아주’, ‘가장’ 등을 中心으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001511851">
+  <data key="d0">『內訓』의 稀貴語에 대하여</data>
+  <data key="d1">2010</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002853626">
+  <data key="d0">現代 韓國語 漢字語 ‘式’의 意味와 用法</data>
+  <data key="d1">2022</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001254992">
+  <data key="d0">「和歸去來辭」의 性理學的 意識樣相 -艮齋 田愚의 學統을 중심으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART003027421">
+  <data key="d0">『사민필지』의 어휘 사용 양상</data>
+  <data key="d1">2023</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001701700">
+  <data key="d0">吳章煥의 長詩 「戰爭」과 몽타주적 알레고리</data>
+  <data key="d1">2012</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001677029">
+  <data key="d0">예시문의 기능과 텍스트적 특성에 대한 고찰</data>
+  <data key="d1">2012</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001434629">
+  <data key="d0">時調에 나타난 말에 대한 인식</data>
+  <data key="d1">2010</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001811317">
+  <data key="d0">活字本 古典小說에 대한 統計的 考察</data>
+  <data key="d1">2013</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001976531">
+  <data key="d0">李光洙의 『사랑』에 나타난 ‘對話’의樣相에 關한 一考察</data>
+  <data key="d1">2015</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001380431">
+  <data key="d0">未堂의 初期詩에 나타나는 ‘抑壓’의 精神病理學的 特徵</data>
+  <data key="d1">2009</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001511905">
+  <data key="d0">「장태문전」의 性格과 筆寫本 古小說의 流通</data>
+  <data key="d1">2010</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002095079">
+  <data key="d0">統辭論과 學校文法 - 言語 類型論의 觀點을 中心으로 -</data>
+  <data key="d1">2016</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001459083">
+  <data key="d0">現代國語 形態素 {ㅅ}의 意味와 機能</data>
+  <data key="d1">2010</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002122056">
+  <data key="d0">추백 안막의 프롤레트쿨트론</data>
+  <data key="d1">2016</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002181523">
+  <data key="d0">향가의 평어 ‘詞淸句麗’의 연구</data>
+  <data key="d1">2016</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002122043">
+  <data key="d0">家門小說에서의 人物 性品 變化에 대한 談話 方式과 그 背景的 認識 - 「曺氏三代錄」의 경우 -</data>
+  <data key="d1">2016</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002360506">
+  <data key="d0">『一樂亭記』의 異本, 『徐卿忠孝誌』 硏究</data>
+  <data key="d1">2018</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001649012">
+  <data key="d0">「현몽쌍룡기」 連作에 나타난 ‘길 떠남 이야기’의 意味․機能 考察 －남주인공의 ‘길 떠남’을 중심으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001567541">
+  <data key="d0">시베리아 鐵道와 開化期 作家의 北方意識</data>
+  <data key="d1">2011</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART003062912">
+  <data key="d0">학위논문 ‘선행연구’에 나타난 중국인 학습자의 批判的 態度 表現 使用 樣相 연구 –한국어 모어 화자와의 비교를 중심으로–</data>
+  <data key="d1">2024</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001890305">
+  <data key="d0">近代國語 流音化 再考</data>
+  <data key="d1">2014</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001649017">
+  <data key="d0">孫昌涉의 「모자도」 硏究 －‘昇華’ 槪念을 中心으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001866119">
+  <data key="d0">韓·日 地名에 나타나는 ‘串·岬’에 관한 一考察</data>
+  <data key="d1">2014</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001618089">
+  <data key="d0">趙基天 詩의 기반과 세계</data>
+  <data key="d1">2011</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002915477">
+  <data key="d0">디지털 분석기법을 활용한 古典小說의 異本 硏究 –『홍길동전』을 對象으로–</data>
+  <data key="d1">2022</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001676222">
+  <data key="d0">朝鮮光文會 편찬 「新字典」의 體裁, 漢字音, 뜻풀이</data>
+  <data key="d1">2012</data>
+  <data key="d2">18</data>
+</node>
+<node id="ART001459222">
+  <data key="d0">쓰기 採點의 信賴度 確保 方案 －고급 한국어 학습자 主觀式 쓰기 문항 採點 實驗을 바탕으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002853524">
+  <data key="d0">1920年 以前 國語文法書의 省略 現象에 대한 認識</data>
+  <data key="d1">2022</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002151507">
+  <data key="d0">近代 러시아 文盲退治 運動과 移住 韓人의 國語敎育 硏究 - &lt;先鋒&gt; 報道 記事를 中心으로 -</data>
+  <data key="d1">2016</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART003000580">
+  <data key="d0">‘-은가’의 연결어미 용법에 대한 역사적 연구</data>
+  <data key="d1">2023</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002210348">
+  <data key="d0">日帝强占期 殉國 絶命詩의 意味와 轉變</data>
+  <data key="d1">2017</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001254703">
+  <data key="d0">韓國語文敎育硏究會 選定 特級 配定漢字 代表訓音에 관한 고찰(Ⅱ)</data>
+  <data key="d1">2008</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002666549">
+  <data key="d0">1920~30년대 表記法 논의와 ‘國語文法’의 形成이라는 문제 –‘不規則 活用’의 설정의 경우–</data>
+  <data key="d1">2020</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002181608">
+  <data key="d0">해외 한국어 교육 정책에 대한 考察 - 베트남 국립달랏대학교 事例를 중심으로 -</data>
+  <data key="d1">2016</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001380454">
+  <data key="d0">學問 目的 韓國語 말하기 敎材 分析을 통한 敎材 開發 방향 연구</data>
+  <data key="d1">2009</data>
+  <data key="d2">14</data>
+</node>
+<node id="ART001866114">
+  <data key="d0">統辭構造와 時制 解釋</data>
+  <data key="d1">2014</data>
+  <data key="d2">13</data>
+</node>
+<node id="ART001357961">
+  <data key="d0">『님의 沈黙』, 脫近代的 論議가 可能한 理由 －禪的 方法論으로 읽기－</data>
+  <data key="d1">2009</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002267268">
+  <data key="d0">1920年代 後半 小說 揷畫의 敍事的 리얼리티 硏究 - 連作小說 「荒原行」에 수록된 揷畫들을 중심으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001307924">
+  <data key="d0">原 咸北 慶興地域語 ‘N하다’, ‘N을 하다’의 聲調와 ‘N하다’ 構成의 形態論的 解釋</data>
+  <data key="d1">2008</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002388132">
+  <data key="d0">부사 ‘정’, ‘정히’에 대한 공시적 연구- 현대 한국어를 중심으로 -</data>
+  <data key="d1">2018</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002420366">
+  <data key="d0">카프 演劇大衆化論의 展開와 宋影 諷刺劇의 媒體美學</data>
+  <data key="d1">2018</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001567498">
+  <data key="d0">現代國語 異種 語彙의 類義的 共存 樣相</data>
+  <data key="d1">2011</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART002825940">
+  <data key="d0">박정희 시대의 종말과 최인호의 행방</data>
+  <data key="d1">2022</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART003028955">
+  <data key="d0">1920년대 춘향서사 향유와 생산의 일면 – 문화상품으로서의『우리들전』</data>
+  <data key="d1">2023</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001329992">
+  <data key="d0">現代國語 ‘있다’와 관련된 相的 呼應에 대하여</data>
+  <data key="d1">2009</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART002790814">
+  <data key="d0">學問 目的 韓國語 學習者 읽기 텍스트 選定 過程 硏究 –상호텍스트성 기반의 다중 텍스트 읽기를 中心으로–</data>
+  <data key="d1">2021</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001459143">
+  <data key="d0">「태아선적강록」과 「유황후전」의 比較 硏究</data>
+  <data key="d1">2010</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART002506710">
+  <data key="d0">中世國語 ‘-엣-’의 變化 硏究 - ‘-엣/에시-&gt;-엇/어시-’의 /y/ 脫落 現像을 中心으로 -</data>
+  <data key="d1">2019</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001380338">
+  <data key="d0">近代 韓國語 敎材 『酉年工夫』에 나타나는 ‘그녀’에 대한 고찰</data>
+  <data key="d1">2009</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART002882461">
+  <data key="d0">言語類型論의 관점에서 본 韓·日 修飾的 所有構文에 대한 대조 연구</data>
+  <data key="d1">2022</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002360566">
+  <data key="d0">多文化家庭 對象 旣存 韓國語 敎材 使用 現況 및敎師․學習者의 要求 調査 分析</data>
+  <data key="d1">2018</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001512910">
+  <data key="d0">내선결혼소설의 낭만적 형식과 식민지적 무의식 －일본어 장편 『綠の塔』과 『綠旗聯盟』을 중심으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001785705">
+  <data key="d0">‘-다니’類에 대하여</data>
+  <data key="d1">2013</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART001976532">
+  <data key="d0">廉想涉의 『眞珠는 주엇스나』 論</data>
+  <data key="d1">2015</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002388149">
+  <data key="d0">「月英娘子傳」에 나타난 暴力性의 樣相과 意味</data>
+  <data key="d1">2018</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001329962">
+  <data key="d0">韓國語文敎育硏究會 選定 特級 配定漢字 代表訓音에 관한 고찰(Ⅴ)</data>
+  <data key="d1">2009</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002151493">
+  <data key="d0">陳義貴 「淸安八景」 詞의 문학적 형상</data>
+  <data key="d1">2016</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002853546">
+  <data key="d0">韓國語 助詞·語尾 結合型 名詞의 意味 透明性 및 單語 認知</data>
+  <data key="d1">2022</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART003000588">
+  <data key="d0">이인직의『치악산(전편)』에 나타난 「자연주의1)문학」의 연원에 관한 생태 심리학적 접근을 통한 고찰</data>
+  <data key="d1">2023</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001236396">
+  <data key="d0">沆瀣 洪吉周의 交遊 樣相과 文學 志向</data>
+  <data key="d1">2008</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002507053">
+  <data key="d0">‘言語와 媒體’ 科目의 國家 水準 評價에서의 爭點 分析 – 2015 改定 敎育課程과 敎科書 分析을 中心으로 –</data>
+  <data key="d1">2019</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001649009">
+  <data key="d0">평양의 文化圖像學과 기행가사</data>
+  <data key="d1">2012</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART001592658">
+  <data key="d0">解放期 女性과 政治:獻身과 贖罪를 통한 政治的 更生 - 『1945년 8.15』와 『東方의 愛人』을 중심으로 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002600386">
+  <data key="d0">韓國語 長短兩音 漢字音의 유래 탐색(1) –『표준국어대사전』의 발음정보를 중심으로–</data>
+  <data key="d1">2020</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002451509">
+  <data key="d0">聲調 方言의 非語頭 長音에 관한 問題 －만두소:(LLR), 그래:도(LRH) ; 아랫마:(LLF), 바래:고(LFL) 유형－</data>
+  <data key="d1">2019</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001592550">
+  <data key="d0">오구라문고(小倉文庫) 所藏 韓國語 學習書에 대한 一考察 - 『今古奇觀』을 中心으로 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART001283378">
+  <data key="d0">韓國 漢字音과 中國 漢字音의 對應에 관한 硏究</data>
+  <data key="d1">2008</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001330076">
+  <data key="d0">現地化 敎材의 單元 構成 방안 －인도네시아 대학권 한국어 교재의 경우－</data>
+  <data key="d1">2009</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART001676331">
+  <data key="d0">言語 形式으로서의 表出에 대한 槪念 考察</data>
+  <data key="d1">2012</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002915121">
+  <data key="d0">談話에서의 時間 關係 解釋 硏究</data>
+  <data key="d1">2022</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002331189">
+  <data key="d0">‘빌리다’類 語彙의 意味 關係와 使用 樣相 - 反義關係를 중심으로 -</data>
+  <data key="d1">2018</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001459061">
+  <data key="d0">中世國語 連結語尾 形成의 文法史 －‘-오ᄃᆡ, -은ᄃᆡ, -은대’를 중심으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">15</data>
+</node>
+<node id="ART001943258">
+  <data key="d0">해방 직후 소설에 나타난 지식인의 감정구조－지하련의 「도정」을 중심으로－</data>
+  <data key="d1">2014</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002882495">
+  <data key="d0">「경번당가」의 내용적 특성 연구</data>
+  <data key="d1">2022</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001890263">
+  <data key="d0">「숙영낭자전」 異本 現況과 變貌 樣相 硏究</data>
+  <data key="d1">2014</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART001512883">
+  <data key="d0">탈고향의 과정과 현대적 감수성의 양상 －이효석의 「화분」을 중심으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001811281">
+  <data key="d0">許俊 小說에 나타난 友情의 政治學과 虛無主義의 向方 －「續 習作室에서」를 중심으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001649054">
+  <data key="d0">人事 장면에서 나타나는 중국인 한국어 학습자의 非言語的 意思疏通 硏究</data>
+  <data key="d1">2012</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001307964">
+  <data key="d0">「薛公瓚傳」의 筆禍와 怪異的 文學觀</data>
+  <data key="d1">2008</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART002572932">
+  <data key="d0">國語의 音韻論的 單語 再考</data>
+  <data key="d1">2020</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001410044">
+  <data key="d0">國語敎育 政策 改善을 통한 漢字語 敎育 强化 方案</data>
+  <data key="d1">2009</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001943210">
+  <data key="d0">朝鮮 後期 道와 돈의 價値 志向의 衝突과調和 論議</data>
+  <data key="d1">2014</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002420459">
+  <data key="d0">스톡스와 初期 한국어 學習書 KOREAN BY CLAUSE-METHOD(1912) 硏究 - 敎材로서의 性格과 特徵을 中心으로 -</data>
+  <data key="d1">2018</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002853762">
+  <data key="d0">‘테이신타이(挺身隊)’로 동원된 여성의 포스트/식민 현실과 재현 난제 –하근찬의 『월례소전(月禮小傳)』을 중심으로–</data>
+  <data key="d1">2022</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001943232">
+  <data key="d0">『靑丘永言』延禧專門本과 大學本의 차이</data>
+  <data key="d1">2014</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002506767">
+  <data key="d0">1960년대 手記와 民/衆</data>
+  <data key="d1">2019</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART002973255">
+  <data key="d0">한국 우화와 이솝우화의 서사 구조와 담론 비교 –동물우화를 중심으로–</data>
+  <data key="d1">2023</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002600306">
+  <data key="d0">韓國語 破裂音 體系의 言語 類型論的 考察</data>
+  <data key="d1">2020</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART002790669">
+  <data key="d0">金光淳本 &lt;구운몽&gt;을 통해 본 ‘&lt;구운몽&gt; 판소리 계열 異本群’ 成立 可能性</data>
+  <data key="d1">2021</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001811420">
+  <data key="d0">朝鮮後期 文集刊行의 推移와 그 特徵</data>
+  <data key="d1">2013</data>
+  <data key="d2">23</data>
+</node>
+<node id="ART001485760">
+  <data key="d0">韓․中․日 常用漢字의 比較 考察(4) －國內 通用略字의 整理를 爲하여－</data>
+  <data key="d1">2010</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001726813">
+  <data key="d0">人文社會系列 專攻者를 위한 대학 입학 전후 學問 目的 韓國語 敎育課程 模型 開發</data>
+  <data key="d1">2012</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART001459095">
+  <data key="d0">‘싶다’ 構文의 歷史的 變化</data>
+  <data key="d1">2010</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART002628787">
+  <data key="d0">蘭汀 先生의 漢字音 硏究에 관하여 –『朝鮮(李朝) 漢字音 硏究』를 中心으로–</data>
+  <data key="d1">2020</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001726848">
+  <data key="d0">尹東柱의 「序詩」 硏究 －詩語의 象徵性과 관련하여－</data>
+  <data key="d1">2012</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001757604">
+  <data key="d0">李德壽 『罷釣錄』에 대한 書誌文獻學的 考察</data>
+  <data key="d1">2013</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001943129">
+  <data key="d0">英祖代 『三綱行實圖』의 異本에 대한 硏究</data>
+  <data key="d1">2014</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001676328">
+  <data key="d0">開化期 韓國語學習書 「交隣須知」 表記 硏究 －明治14年本 「交隣須知(1881)」와 「校訂交隣須知(1904)」 比較－</data>
+  <data key="d1">2012</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001811429">
+  <data key="d0">이한직의 시인식과 지성주의의 변화</data>
+  <data key="d1">2013</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002882517">
+  <data key="d0">國語 慣用 表現의 敎育 內容에 대한 批判的 檢討</data>
+  <data key="d1">2022</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001459194">
+  <data key="d0">漢字 學習을 위한 ‘代表訓’ 설정에 나타난 몇 問題</data>
+  <data key="d1">2010</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001726859">
+  <data key="d0">「任相國父子三娶記」 硏究 －始祖說話的 敍事構成과 多文化家庭을 통한 家門繼承의 意味를 中心으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002297038">
+  <data key="d0">歐陽脩의 ‘三多’ 本義 推定 - ‘商量多’를 중심으로-</data>
+  <data key="d1">2017</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001866116">
+  <data key="d0">語頭 nV의 yV로의 變化에 대하여</data>
+  <data key="d1">2014</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001512890">
+  <data key="d0">李箱 수필의 문학성에 대한 고찰</data>
+  <data key="d1">2010</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001235184">
+  <data key="d0">節 結束力 變化의 觀點에서 본 終結語尾 ‘-지’의 形成</data>
+  <data key="d1">2008</data>
+  <data key="d2">14</data>
+</node>
+<node id="ART002095121">
+  <data key="d0">古典小說에 나타난 婚姻 첫날밤 殺人事件과 女性意識</data>
+  <data key="d1">2016</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002973109">
+  <data key="d0">신문텍스트 引用 表現의 ‘문법-읽기’ 統合的 교육 내용 연구 –外信 報道記事의 장르성과 시대별 引用 表現의 선택을 중심으로-</data>
+  <data key="d1">2023</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART003029333">
+  <data key="d0">생성형 인공지능을 활용한 소설 창작 교육의 가능성</data>
+  <data key="d1">2023</data>
+  <data key="d2">14</data>
+</node>
+<node id="ART002035670">
+  <data key="d0">1910年代 商業化에 따른 大衆歌謠의 拮抗과 共存 - 「藝壇一百人」(1914)․雜歌集(1914～1918) ·『朝鮮美人寶鑑』(1918)을 中心으로</data>
+  <data key="d1">2015</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001841701">
+  <data key="d0">主語 標識 {-께서}의 形成에 대하여</data>
+  <data key="d1">2013</data>
+  <data key="d2">19</data>
+</node>
+<node id="ART001308039">
+  <data key="d0">古小說을 통해서 본 老年의 槪念과 그 삶의 形象化 방식 －「玉樓夢」의 경우를 중심으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002360471">
+  <data key="d0">&lt;Terminations of the verb ᄒᆞ다(1896)&gt;에 대한 연구</data>
+  <data key="d1">2018</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002853792">
+  <data key="d0">유길준의 『노동야학독본』과 『노동야학』의 한자 표기와 문체 변화의 특성 연구</data>
+  <data key="d1">2022</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART003000587">
+  <data key="d0">한국 근대소설과 근대 제도로서의 離婚: 廉想涉 소설을 중심으로</data>
+  <data key="d1">2023</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001866219">
+  <data key="d0">黃錫禹 초기 시론의 ‘天才’와 ‘民衆’ 문제</data>
+  <data key="d1">2014</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001890330">
+  <data key="d0">『壼範』과『國風』의 言語 樣相에 대한 一考察</data>
+  <data key="d1">2014</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002006855">
+  <data key="d0">‘(이)라면’, ‘같으면’, ‘하면’의 助詞化 硏究</data>
+  <data key="d1">2015</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001592583">
+  <data key="d0">「遇賊歌」 硏究</data>
+  <data key="d1">2011</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001976525">
+  <data key="d0">1930년대 後半 &lt;詩學&gt;誌와新世代 시인의 詩的 理想</data>
+  <data key="d1">2015</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002420306">
+  <data key="d0">『古今笑叢』에 수록된 喪祭 笑話의 웃음 談論</data>
+  <data key="d1">2018</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001976524">
+  <data key="d0">현희운의 化粧談論</data>
+  <data key="d1">2015</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002331209">
+  <data key="d0">여성 소설에 나타난 獵奇的 想像力 樣相硏究 - 편혜영 김사과를 중심으로 -</data>
+  <data key="d1">2018</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001410075">
+  <data key="d0">談話 標識語를 활용한 한국어 읽기 교수 방안 연구 －中級 읽기를 위한 談話 標識語 目錄 選定과 活用을 중심으로－</data>
+  <data key="d1">2009</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002151460">
+  <data key="d0">‘平壤’ 로컬리티:‘褐色의 世界史’ 프로젝트로서의 &lt;帝國新聞&gt;의 逆說 - 1907년 以後 -</data>
+  <data key="d1">2016</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001283161">
+  <data key="d0">「유이양문록」의 構이成的 性格 硏究</data>
+  <data key="d1">2008</data>
+  <data key="d2">15</data>
+</node>
+<node id="ART002666657">
+  <data key="d0">1920년대 京城의 歷史/人文資源 아카이브 構築의 事例 –『京城百勝』을 중심으로–</data>
+  <data key="d1">2020</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002210205">
+  <data key="d0">漢字檢定試驗의 出題漢字에 관한 考察 - (社)韓國語文會 特級試驗의 漢字에 대한 統計的 分析을 中心으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001567553">
+  <data key="d0">蓀谷 李達의 詩意識 硏究</data>
+  <data key="d1">2011</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001890322">
+  <data key="d0">古代國語의 文法 形態素 ‘-긔’의 再構</data>
+  <data key="d1">2014</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001618324">
+  <data key="d0">李仁老 散文 硏究</data>
+  <data key="d1">2011</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001567513">
+  <data key="d0">李人稙 再論 - 政務局報告書 「李人稙의 行動」 및 &lt;東京政治學校雜誌&gt; 所收의 新資料를 중심으로 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002945252">
+  <data key="d0">‘女性 作家’ 되기의 不/可能性과 主體化 戰略 –徐永恩 初期 中·短篇小說을 中心으로-</data>
+  <data key="d1">2023</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002733854">
+  <data key="d0">完板 『홍길동전』 原刊本의 출현, 그에 따른 板本과 刊行의 문제</data>
+  <data key="d1">2021</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART001434592">
+  <data key="d0">固有語와 漢字語의 調和</data>
+  <data key="d1">2010</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001811334">
+  <data key="d0">『千字文』 編纂의 變貌 樣相에 대한 硏究</data>
+  <data key="d1">2013</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001649045">
+  <data key="d0">牧隱 李穡의 蘇東坡詩 受容 樣相</data>
+  <data key="d1">2012</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001976492">
+  <data key="d0">韓國語 漢字語接頭辭 範疇의 再確立</data>
+  <data key="d1">2015</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002181555">
+  <data key="d0">燕行錄에 전하는 乾隆帝 繼皇后의幽閉事件에 대한 風聞</data>
+  <data key="d1">2016</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001811412">
+  <data key="d0">工學的 글쓰기에서의 空間的 對象 記述 方法 硏究 －工學的인 글의 理解와 記憶 대한 實驗 硏究－</data>
+  <data key="d1">2013</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001236109">
+  <data key="d0">새 資料 「유장옥전」 硏究</data>
+  <data key="d1">2008</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART002151436">
+  <data key="d0">韓國語와 日本語의 副詞 統辭的 結合語에 대하여</data>
+  <data key="d1">2016</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002424075">
+  <data key="d0">樂府命題를 통한 星湖의 『海東樂府』 고찰</data>
+  <data key="d1">2018</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001282646">
+  <data key="d0">二音節 漢字語 뒤에 오는 一音節 漢字語에 대하여</data>
+  <data key="d1">2008</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002267245">
+  <data key="d0">玄哲의 小說作法論 硏究</data>
+  <data key="d1">2017</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001726844">
+  <data key="d0">柳美里의 「8월의 저편」과 言語의 문제</data>
+  <data key="d1">2012</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002506648">
+  <data key="d0">假定과 讓步를 나타내는 補助用言 ‘보다’ 構成에 대한 硏究 - ‘-어 봐(라), -어 봤자’ 중심으로</data>
+  <data key="d1">2019</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001567503">
+  <data key="d0">방귀담의 神話性과 構造的 變移 樣相</data>
+  <data key="d1">2011</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001976518">
+  <data key="d0">‘世界性’의 專有와 現代文學 想像의 인식장치</data>
+  <data key="d1">2015</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001841791">
+  <data key="d0">連結語尾의 意味 關係와 韓國語敎育에서의 連結語尾의 配列 樣相 硏究 －有標性에 基盤한 連結語尾의 意味 關係를 중심으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001649010">
+  <data key="d0">朴趾源의 「虎叱」 구성과 표현 방식</data>
+  <data key="d1">2012</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002210263">
+  <data key="d0">‘女性嫌惡’의 文學文化史(Ⅲ) - 1900년대 文學文化의 ‘호모소셜리티’와 女性嫌惡 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002239179">
+  <data key="d0">한국어 중·고급 학습자의 口語 使用 樣相 연구 - 談話標識를 중심으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002451667">
+  <data key="d0">德村 梁得中의 趙苞 고사 인식과 그 의미</data>
+  <data key="d1">2019</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART001330106">
+  <data key="d0">國語科 敎育課程과 敎科書에 反映된 語彙指導 內容 硏究</data>
+  <data key="d1">2009</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001649039">
+  <data key="d0">書筵을 통해 본 王世子 敎育의 普遍性과 特殊性 －17세기 『東宮日記』를 중심으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001357930">
+  <data key="d0">韓國語 읽기 텍스트 構成 原理 硏究 －베트남 고급 學習者를 대상으로－</data>
+  <data key="d1">2009</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002734407">
+  <data key="d0">중등 한자·한문 교육 방법론에 대한 모색 –학습자 활동 중심 교수·학습 방법–</data>
+  <data key="d1">2021</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002825919">
+  <data key="d0">韓國語 標準化와 新語 形成 過程에서 漢字語의 位相과 機能 –國語辭典과 新語에서의 漢字語 比重을 중심으로–</data>
+  <data key="d1">2022</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002267238">
+  <data key="d0">玄鎭健 小說에 나타난 告白의 近代性 - 初期 自傳小說 3部作을 중심으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001434646">
+  <data key="d0">《帝國新聞》에 나타난 美國 留學과 留學生 寄書(便紙) 硏究 －近代啓蒙談論의 樣相과 글쓰기의 變化를 中心으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001380420">
+  <data key="d0">朴泰遠의 『金銀塔』: 通俗劇 넘어서기의 敍事 戰略 －「愚氓」과 「金銀塔」의 판본 비교를 중심으로－</data>
+  <data key="d1">2009</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002854015">
+  <data key="d0">중국 현지 출판 한국어 초급 교재의 삽화 분석</data>
+  <data key="d1">2022</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001283187">
+  <data key="d0">『論語』에 나타난 듣기관의 교육적 고찰</data>
+  <data key="d1">2008</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001757568">
+  <data key="d0">韓國語 敎育機關의 敎師 再敎育의 現況과 發展 方案 硏究</data>
+  <data key="d1">2013</data>
+  <data key="d2">30</data>
+</node>
+<node id="ART002388185">
+  <data key="d0">&lt;先鋒&gt;에 수록된 고려인 시의 전개양상</data>
+  <data key="d1">2018</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002628803">
+  <data key="d0">蘭汀 南廣祐의 隨筆과 保守主義</data>
+  <data key="d1">2020</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002267228">
+  <data key="d0">三國遺事 ‘處容郞 望海寺’條에 나타나는 춤의 意味 硏究</data>
+  <data key="d1">2017</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002733855">
+  <data key="d0">韓國 說話의 홀어미 話素에 나타나는 原型的 象徵과 그 變移 樣相 考察</data>
+  <data key="d1">2021</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002388164">
+  <data key="d0">金洙暎 詩의 ‘祕密’과 脫稿日의 관련성 考察</data>
+  <data key="d1">2018</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002572963">
+  <data key="d0">金周榮 小說에 나타난 異質的 他者로서의 女性과 (脫)近代性 –1970年代 小說을 中心으로–</data>
+  <data key="d1">2020</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001542881">
+  <data key="d0">日帝의 皇國臣民化 政策과 『朝鮮語讀本』 - 4차, 7차 教育令期 『朝鮮語讀本』을 통해 본 日帝의 植民支配 政策變化 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART001254990">
+  <data key="d0">李光洙 長篇小說에 있어서의 怨恨의 政治詩學 －「흙」을 중심으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002665911">
+  <data key="d0">近代 語文 規範의 成立과 漢字 問題</data>
+  <data key="d1">2020</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART002064510">
+  <data key="d0">中世 國語 ‘ㅕ’의 音韻論</data>
+  <data key="d1">2015</data>
+  <data key="d2">14</data>
+</node>
+<node id="ART001330024">
+  <data key="d0">開化期 民謠의 社會詩學的 考察</data>
+  <data key="d1">2009</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002477696">
+  <data key="d0">‘명사+분류사’ 구문의 文法과 歷史的 變化</data>
+  <data key="d1">2019</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001511876">
+  <data key="d0">借字表記 資料에 나타나는 ‘-齊’의 文法範疇와 意味</data>
+  <data key="d1">2010</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002064346">
+  <data key="d0">文章意味形成의 인드라(Indra)網的 解釋</data>
+  <data key="d1">2015</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001943051">
+  <data key="d0">韓國語의 漢字語 人指稱 名詞類에 대하여</data>
+  <data key="d1">2014</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002945318">
+  <data key="d0">조선 후기 한문학과 ‘자의식의 확대’</data>
+  <data key="d1">2023</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002123171">
+  <data key="d0">『天路歷程』(텬로력뎡) 번역과 근대적 공간 표상</data>
+  <data key="d1">2016</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART001676136">
+  <data key="d0">語文敎育의 人文學的 基盤과 指向</data>
+  <data key="d1">2012</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002543252">
+  <data key="d0">韓中 同素逆順語 “言語-語言” 考察 -韓中 文獻 資料의 通時的 考察을 통해-</data>
+  <data key="d1">2019</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002420294">
+  <data key="d0">男女相悅之詞로 본 &lt;靑山別曲&gt;</data>
+  <data key="d1">2018</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002236172">
+  <data key="d0">題目 없이 合綴된 두 연시조(金天澤)의 연구 - 텍스트별 결속, 종결, 구조, 주제 등으로 본 脫着形 연시조의 가능성 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002181546">
+  <data key="d0">廉想涉 後期 長篇小說 硏究 - 『未亡人』, 『花冠』, 『代를 물려서』를 중심으로 -</data>
+  <data key="d1">2016</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002296959">
+  <data key="d0">禱千手觀音歌의 새로운 解讀</data>
+  <data key="d1">2017</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001238098">
+  <data key="d0">「雍固執傳」과 ‘自我 同一性’ 문제</data>
+  <data key="d1">2008</data>
+  <data key="d2">21</data>
+</node>
+<node id="ART002600426">
+  <data key="d0">「華容道」와 「赤壁歌」의 話行 分析 試論 –軍士 點考 대목과 軍士 설움 타령을 中心으로–</data>
+  <data key="d1">2020</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002006928">
+  <data key="d0">김남천 소설의 통치성 대응 양상 - 전시 총동원 체제와 정치적 내면의 형성을 중심으로 -</data>
+  <data key="d1">2015</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART003062892">
+  <data key="d0">改新敎 映畫에 나타난 한국 改新敎의 이데올로기적 경향성 연구 –강대진 감독의 70-80년대 改新敎 映畫를 중심으로</data>
+  <data key="d1">2024</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002181508">
+  <data key="d0">‘諺文’과 ‘正音’의 文獻 記錄 樣相으로 본 새 문자 創製 意義에 대한 再解釋</data>
+  <data key="d1">2016</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001811404">
+  <data key="d0">小說 視點 敎育의 史的 考察과 改善 方向 硏究</data>
+  <data key="d1">2013</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART001567585">
+  <data key="d0">한국어 교육을 위한 ‘-었다가’의 文法 記述</data>
+  <data key="d1">2011</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART003028656">
+  <data key="d0">‘XP 할 것 없이’ 構文의 文法과 成立</data>
+  <data key="d1">2023</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001726854">
+  <data key="d0">日帝强占期 바이런과 셸리의 受容과 意義</data>
+  <data key="d1">2012</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002790998">
+  <data key="d0">韓國語 쓰기에서의 역번역 活動 사례 연구 –活動 結果 比較와 學習者 認識을 中心으로–</data>
+  <data key="d1">2021</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001542785">
+  <data key="d0">統辭的 構成에서 語彙化한 副詞에 대하여</data>
+  <data key="d1">2011</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART002122107">
+  <data key="d0">羅蕙錫의 초기 텍스트와 崔承九, 李光洙라는 컨텍스트</data>
+  <data key="d1">2016</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001592672">
+  <data key="d0">李鈺의 金聖嘆 『西廂記』 批評 受容 樣相과 그 脈絡</data>
+  <data key="d1">2011</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002572921">
+  <data key="d0">矛盾語의 形態와 意味</data>
+  <data key="d1">2020</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001380390">
+  <data key="d0">音聲的 요인에 기반한 通時的 音韻 變化의 發生 層位 －鼻母音化 및 鼻音性 消去를 중심으로－</data>
+  <data key="d1">2009</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART002853719">
+  <data key="d0">기술 총화의 ‘飛行機’ 시대와 帝國-植民地의 낙차:염상섭의 『청춘항로』과 『불연속선』을 중심으로</data>
+  <data key="d1">2022</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001976511">
+  <data key="d0">現代國語 依存名詞 ‘줄’의 統辭와 意味</data>
+  <data key="d1">2015</data>
+  <data key="d2">13</data>
+</node>
+<node id="ART001308089">
+  <data key="d0">大學生 글쓰기의 어문규범 誤謬 양상 －單語 次元의 문제점들－</data>
+  <data key="d1">2008</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART002543280">
+  <data key="d0">咸北 六鎮方言의 母音調和 實現 樣相에 대하여 -세대별 差異를 中心으로-</data>
+  <data key="d1">2019</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002239145">
+  <data key="d0">韓國語와 日本語의 ‘앞서다’類 動詞에 대하여</data>
+  <data key="d1">2017</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001592590">
+  <data key="d0">『劉孝公善行錄』의 인물에 대한 共感과 距離化의 讀書心理</data>
+  <data key="d1">2011</data>
+  <data key="d2">14</data>
+</node>
+<node id="ART002331222">
+  <data key="d0">韓國語 恭遜 話用敎育의 內容 構成에 대한 提言</data>
+  <data key="d1">2018</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART002297043">
+  <data key="d0">제4차 産業革命 시대의 國語敎育의 방향 - 新人本主義를 토대로 한 融合的 思考 교육-</data>
+  <data key="d1">2017</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART003090969">
+  <data key="d0">생성형 인공지능을 活用한 批判的 글쓰기 敎授學習 方法 摸索 – 대학 교양 글쓰기 강의 운영 사례를 중심으로 –</data>
+  <data key="d1">2024</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART001785725">
+  <data key="d0">「張伯傳」의 形成動因과 主題意識</data>
+  <data key="d1">2013</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART001618372">
+  <data key="d0">高等 『文學』 敎科書 所載 古典詩歌를 통한 文學敎育 方法의 摸索 - 스토리텔링의 방법에 기대 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001357851">
+  <data key="d0">出生譚을 통한 「張伯傳」과 「柳文成傳」의 內容 比較 硏究</data>
+  <data key="d1">2009</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART001890197">
+  <data key="d0">北韓 土地制度의 變化와 文學的 形象化의 變轉 －土地改革에서 農業協同化로의 제도적 變移와 그에 대한 文學的 再現 樣相을 中心으로－</data>
+  <data key="d1">2014</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001254707">
+  <data key="d0">방언형의 分布와 改新波 －兩脣音 뒤 j계 上向二重母音의 縮約 現象을 중심으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">14</data>
+</node>
+<node id="ART001357904">
+  <data key="d0">白石 詩에 나타난 슬픔의 意味와 性格</data>
+  <data key="d1">2009</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART002035674">
+  <data key="d0">現代詩의 隱喩(Metaphor) 敎育에 관한 詩學的 硏究</data>
+  <data key="d1">2015</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002733844">
+  <data key="d0">敎育課程의 改編과 漢字·漢文 敎育의 變遷 過程</data>
+  <data key="d1">2021</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART003150274">
+  <data key="d0">초등 KSL 學習者 대상 이중언어 강사 協力 敎授 方案 연구 –竝存 言語 敎授法 기반 社會科 語彙 學習을 중심으로–</data>
+  <data key="d1">2024</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001943080">
+  <data key="d0">確認 疑問法 終結語尾 ‘-다면서, -다고, -다지’의 話用的 條件과 意味</data>
+  <data key="d1">2014</data>
+  <data key="d2">15</data>
+</node>
+<node id="ART002451640">
+  <data key="d0">紀行文 敎育과 이데올로기 －高等學校 國定 國語 敎科書를 中心으로</data>
+  <data key="d1">2019</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001330030">
+  <data key="d0">尹東柱 詩의 對稱構造</data>
+  <data key="d1">2009</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART001918302">
+  <data key="d0">尹東柱의 「바람이 불어」에 나타난 自我 理解</data>
+  <data key="d1">2014</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001726805">
+  <data key="d0">中國語圈 學習者들의 ‘敍述性 名詞+接尾辭’ 構成 語彙의 使用 樣相</data>
+  <data key="d1">2012</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002480644">
+  <data key="d0">滿洲 배경의 한국문학과 문학교육</data>
+  <data key="d1">2019</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001918362">
+  <data key="d0">初級 學習者用 韓國語 敎材의 分析과 評價</data>
+  <data key="d1">2014</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART001918353">
+  <data key="d0">大學 敎養 授業에서의 人性敎育 考察 －아버지와 疏通하기 授業을 中心으로－</data>
+  <data key="d1">2014</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002151410">
+  <data key="d0">韓國語의 眞性 主語를 찾아서</data>
+  <data key="d1">2016</data>
+  <data key="d2">28</data>
+</node>
+<node id="ART002600577">
+  <data key="d0">TV 드라마 &lt;킬미, 힐미&gt;에 나타난 精神病理學的 모티프 硏究</data>
+  <data key="d1">2020</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002095150">
+  <data key="d0">尹東柱의 詩에 나타난 終末意識 - 光明中學 時節의 詩篇들을 中心으로 -</data>
+  <data key="d1">2016</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART003119611">
+  <data key="d0">일제 말기 李泰俊의 自傳的 글쓰기와 그 의미 –「思想의 月夜」에 나타난 수필 각색의 양상과 과도기적 자기 모색</data>
+  <data key="d1">2024</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001918296">
+  <data key="d0">聖人의 境地와 小說의 길</data>
+  <data key="d1">2014</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001649014">
+  <data key="d0">1930년대 混種 텍스트와 畵文 樣式</data>
+  <data key="d1">2012</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001459180">
+  <data key="d0">滄江 金澤榮의 社會觀과 작품세계의 一端</data>
+  <data key="d1">2010</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001785709">
+  <data key="d0">18세기 가집 편찬의 두 가지 문제에 대한 탐색 －『병와가곡집』 편찬 시기와 『청진』의 위상을 중심으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART003000591">
+  <data key="d0">『奏議纂要』연구 – 조선시대 奏議文의 편집 양상 및 편찬 맥락 고찰을 중심으로</data>
+  <data key="d1">2023</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002035711">
+  <data key="d0">韓雪野의 아동문학 연구 - 『금강선녀』를 中心으로 -</data>
+  <data key="d1">2015</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002790635">
+  <data key="d0">『瑜伽師地論』 系統 點吐釋讀口訣의 過去와 現在, 그리고 未來</data>
+  <data key="d1">2021</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001701706">
+  <data key="d0">廉想涉 小說의 對話技法 硏究 －前期 長篇小說의 對話를 中心으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002477682">
+  <data key="d0">어문 규범으로 보는 음운 현상의 표기 반영 양상 ― 「普通學校用 諺文綴字法」과 「한글 마춤법 통일안」을 중심으로 ―</data>
+  <data key="d1">2019</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART001943282">
+  <data key="d0">재일조선인 디아스포라 시의 경향과 그 의미－&lt;종소리&gt; 수록시를 중심으로－</data>
+  <data key="d1">2014</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002573080">
+  <data key="d0">註解千字文의 한글 訓과 문맥 의미</data>
+  <data key="d1">2020</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002210267">
+  <data key="d0">吳泰錫 戱曲의 煽動的 事件과 劇的 特性 - 6‧25 3部作 「산수유」, 「자전거」, 「운상각」을 中心으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART003119605">
+  <data key="d0">北韓語 色彩 派生語의 派生 樣相과 意味 分析 – 조선말대사전(2017)의 色彩語를 對象으로–</data>
+  <data key="d1">2024</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002480639">
+  <data key="d0">&lt;여와전&gt;의 비평적 성격에 대한 재고 - &lt;투색지연의&gt;와의 관계를 중심으로 -</data>
+  <data key="d1">2019</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART003062863">
+  <data key="d0">&lt;숙향전&gt;에 나타난 숙향의 二重的 正體性과 그 의미</data>
+  <data key="d1">2024</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002733872">
+  <data key="d0">創意的 問題 解決(CPS)에 基礎한 提案書 쓰기 指導 方案에 대한 考察</data>
+  <data key="d1">2021</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001676198">
+  <data key="d0">박씨본 「海東歌謠」의 二數大葉 有名氏部 편제 특성</data>
+  <data key="d1">2012</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002825977">
+  <data key="d0">槪念史 硏究 方法과 國語敎育 –國語敎育史 연구를 위하여–</data>
+  <data key="d1">2022</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002543234">
+  <data key="d0">‘X시키다’의 論項 構造에 대한 一考察</data>
+  <data key="d1">2019</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002296989">
+  <data key="d0">근대국어의 주어성 ‘NP로셔’ 구문에 대하여</data>
+  <data key="d1">2017</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002239160">
+  <data key="d0">田惠麟 文學과 風景의 알레고리</data>
+  <data key="d1">2017</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002181567">
+  <data key="d0">朝鮮前期 通鑑學의 硏鑽에 대하여 - 世宗代의 通鑑書 刊行을 중심으로 -</data>
+  <data key="d1">2016</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART001511821">
+  <data key="d0">普通名詞 外延의 意味成分 硏究</data>
+  <data key="d1">2010</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001757671">
+  <data key="d0">「許生傳」의 正典化 과정과 방식 연구</data>
+  <data key="d1">2013</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002267311">
+  <data key="d0">‘鮑石亭’ 관련 詠史樂府의 창작 의도와 시적 변모</data>
+  <data key="d1">2017</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002600596">
+  <data key="d0">趙善作 小說에 나타난 嫌惡와 情動의 문제 –1970년대 作品을 中心으로–</data>
+  <data key="d1">2020</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001254711">
+  <data key="d0">孤山 尹善道 時調의 美的 成就와 그 價値</data>
+  <data key="d1">2008</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001485802">
+  <data key="d0">『옹고집전』에 나타난 眞假爭主의 숨은 문제 －正體性과 失傳 문제를 중심으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">22</data>
+</node>
+<node id="ART001617845">
+  <data key="d0">로마字 表記法에 대하여</data>
+  <data key="d1">2011</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001512917">
+  <data key="d0">使行路程으로서의 登州, 그 心象空間的 性格과 意味</data>
+  <data key="d1">2010</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART003119609">
+  <data key="d0">1930年代 모더니즘 텍스트의 알레고리的 양상 연구(3) –박태원 初期作의 예술가적 자의식과 ‘신경쇠약한 천재’ 개념을 中心으로</data>
+  <data key="d1">2024</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001841763">
+  <data key="d0">日帝 末期 宋影 戱曲의 歷史的 時間性</data>
+  <data key="d1">2013</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001976505">
+  <data key="d0">韓·日 地名 및 古文獻에 나타나는 ‘岸’에 관한 一考察</data>
+  <data key="d1">2015</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002360450">
+  <data key="d0">高等學校 文法 敎科書 單語 形成法 部門의 漢字語 資料에 대한 檢討</data>
+  <data key="d1">2018</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART003062903">
+  <data key="d0">법을 넘어서는 증언(들):일제 조선인 군속 수기와 수기의 소설화 연구</data>
+  <data key="d1">2024</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002451529">
+  <data key="d0">ㄹ의 分布 制約에 關하여</data>
+  <data key="d1">2019</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002543289">
+  <data key="d0">李東의 歌辭와 祭文에 나타난 친정 형제에 대한 정서 표출 양상과 그 의미</data>
+  <data key="d1">2019</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART003028713">
+  <data key="d0">데이터로 판소리 읽기: 完板本 「沈淸傳」을 대상으로</data>
+  <data key="d1">2023</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001459148">
+  <data key="d0">歷史意識 不在의 史書 읽기와 懷古的 感情의 消費에 대한 批判 －「愁城誌」를 읽는 한 가지 방법－</data>
+  <data key="d1">2010</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001357829">
+  <data key="d0">建國神話 속의 移住와 結婚, 그리고 어머니-女神의 行方</data>
+  <data key="d1">2009</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART001283162">
+  <data key="d0">歌辭의 大衆的 疏通 方案 硏究</data>
+  <data key="d1">2008</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART003062869">
+  <data key="d0">改新敎 映畫에 나타난 한국 改新敎의 이데올로기적 경향성 연구 –강대진 감독의 70-80년대 改新敎 映畫를 중심으로</data>
+  <data key="d1">2024</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001785734">
+  <data key="d0">친일협력 시기 이광수의 불교적 사유의 구조와 의미</data>
+  <data key="d1">2013</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001943180">
+  <data key="d0">關係 分析을 통해 본 「양반전」의 재해석－양반 批判에 대한 重層의 시선－</data>
+  <data key="d1">2014</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001677013">
+  <data key="d0">중국인 學習者 한국어 漢字語 습득 연구</data>
+  <data key="d1">2012</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART002759525">
+  <data key="d0">補助用言의 判別 基準과 統辭構造의 相關關係에 대한 硏究</data>
+  <data key="d1">2021</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002790990">
+  <data key="d0">요괴의 성 역할[Gender Role]의 양상과 의미 –고전소설 77편을 대상으로–</data>
+  <data key="d1">2021</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001676174">
+  <data key="d0">이제하 「유자약전」의 카니발적 空間 硏究</data>
+  <data key="d1">2012</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001976521">
+  <data key="d0">靑年 김현과 만남의 철학- 評論集 『存在와 言語』를 중심으로 -</data>
+  <data key="d1">2015</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001811327">
+  <data key="d0">‘잘생기다’류 용언에서의 ‘-었-’의 文法的 地位와 機能</data>
+  <data key="d1">2013</data>
+  <data key="d2">13</data>
+</node>
+<node id="ART002242236">
+  <data key="d0">韓國 華僑의 韓中 코드轉換 類型과 分布 - 釜山 華僑 3세를 中心으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001726958">
+  <data key="d0">朝鮮 初期 洞里村名의 國語學的 硏究</data>
+  <data key="d1">2012</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001726932">
+  <data key="d0">高句麗․百濟 地名에 나타나는 ‘冬音’에 關한 一考察</data>
+  <data key="d1">2012</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001380398">
+  <data key="d0">카자흐스탄 高麗人의 한글노래와 디아스포라의 正體</data>
+  <data key="d1">2009</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001757562">
+  <data key="d0">新聞 記事를 바탕으로 살핀 韓國語敎育의 흐름 －1880년부터 2012년까지의 新聞 記事를 中心으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002700864">
+  <data key="d0">質的 메타分析을 통한 評價 開發의 논증 기반 타당화 접근 방안 고찰 –‘入學 後 韓國語 診斷平價’를 중심으로 –</data>
+  <data key="d1">2021</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001410040">
+  <data key="d0">國文英譯과 漢字敎育의 當爲性</data>
+  <data key="d1">2009</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001542858">
+  <data key="d0">金丘庸의 텍스트 「消印」에 생성된 욕망의 系列化 양상</data>
+  <data key="d1">2011</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002451555">
+  <data key="d0">『朝鮮文學全集』 編纂의 特徵과 意義</data>
+  <data key="d1">2019</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002759564">
+  <data key="d0">‘고양이[猫]’를 소재로 한 假傳의 특징과 의미–「烏圓子傳」과 「烏圓傳」의 編綴性을 중심으로–</data>
+  <data key="d1">2021</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002700899">
+  <data key="d0">‘/ㅔ/’와 ‘/ㅐ/’ 合流의 方言別 實現 樣相에 대하여</data>
+  <data key="d1">2021</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002973326">
+  <data key="d0">韓中 同時 連載 웹툰 &lt;나의 그녀는 구미호(妖怪名單)&gt;에 나타난 九尾狐의 樣相과 意味</data>
+  <data key="d1">2023</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001757673">
+  <data key="d0">臨時語의 實在性 確立을 위하여</data>
+  <data key="d1">2013</data>
+  <data key="d2">33</data>
+</node>
+<node id="ART001617817">
+  <data key="d0">派生接辭 ‘-이’의 意味成分 分析</data>
+  <data key="d1">2011</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001236395">
+  <data key="d0">朱耀翰의 言語 民族主義와 國民詩歌의 創案</data>
+  <data key="d1">2008</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART002151473">
+  <data key="d0">「낙동강」과 카프 小說의 起源</data>
+  <data key="d1">2016</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001676179">
+  <data key="d0">60년대 文學의 對抗的 人權談論 형성 －「소설․알렉산드리아」와 「인간단지」를 중심으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001866215">
+  <data key="d0">1930年代 宋影 短篇에 潛在된 日常의 意味</data>
+  <data key="d1">2014</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002267300">
+  <data key="d0">『귀의 성』과 ‘정욕’</data>
+  <data key="d1">2017</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002825936">
+  <data key="d0">「원천강본풀이」에 나타난 神格의 特徵과 意味</data>
+  <data key="d1">2022</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002360448">
+  <data key="d0">英祖代 윤음언해 자료의 간행의의와 統辭 - 『闡義昭鑑諺解』「뉸음」(1756)과 『御製戒酒綸音』(1757)을 中心으로 -</data>
+  <data key="d1">2018</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002628777">
+  <data key="d0">『古今漢韓字典』의 編纂과 歷史的 意義</data>
+  <data key="d1">2020</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART003062897">
+  <data key="d0">염상섭 소설에 나타나는 서구중심주의 비판 연구 –『사랑과 죄』의 모던걸 비판을 중심으로</data>
+  <data key="d1">2024</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001485820">
+  <data key="d0">申采浩 文學, 억압된 近代의 原史 －亡命 以後의 文學을 중심으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002543352">
+  <data key="d0">戰爭 經驗과 避難社會의 家庭 –張德祚의 『女人哀歌』(1953)를 중심으로</data>
+  <data key="d1">2019</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART003090879">
+  <data key="d0">새 자료 「半萬年歷史歌」의 特徵과 意味</data>
+  <data key="d1">2024</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001757647">
+  <data key="d0">漢陽歌에 나타난 倫理談論의 樣相</data>
+  <data key="d1">2013</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002628842">
+  <data key="d0">男性毁節敍事 다시 읽기: 諧謔과 諷刺에 가려진 女性嫌惡</data>
+  <data key="d1">2020</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART003149690">
+  <data key="d0">조선시대 [남편→아내] 언간의 종결형 변화와 그 해석</data>
+  <data key="d1">2024</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002477752">
+  <data key="d0">李箱 시에 나타난 니체 사상 연구 - ‘몰락’과 ‘파국’의 모티프를 중심으로</data>
+  <data key="d1">2019</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001890247">
+  <data key="d0">김종삼 시에 나타난 唯美的 表象과 道德 感情의 有機性 硏究</data>
+  <data key="d1">2014</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002064486">
+  <data key="d0">‘朝鮮 一週’의 정치성과 植民 情報員의 글쓰기 - &lt;半島時論&gt;의 朝鮮 視察 日記를 중심으로 -</data>
+  <data key="d1">2015</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001918277">
+  <data key="d0">說話 &lt;호랑이 눈썹&gt;의 敍事 意味 硏究 －日本, 中國, 印度에서 傳承되고 있는 說話와의 比較를 中心으로－</data>
+  <data key="d1">2014</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART002331185">
+  <data key="d0">硬音化와 한글 맞춤법</data>
+  <data key="d1">2018</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001649003">
+  <data key="d0">高句麗 地名 ‘濟次巴衣’의 ‘濟次’와 알타이 語族 假說</data>
+  <data key="d1">2012</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001890219">
+  <data key="d0">천변의 대안적 共同體와 循環的 인물－체계: 朴泰遠의「천변풍경」론</data>
+  <data key="d1">2014</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART002628959">
+  <data key="d0">박인환 시의 詩的 主體와 연금술적 상징체계의 相關性 硏究 –「서적과 풍경」, 「목마와 숙녀」를 中心으로–</data>
+  <data key="d1">2020</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001785758">
+  <data key="d0">初等 國語 敎科書의 劇文學 關聯 題材 硏究 －敎授要目期 敎科書를 中心으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002882490">
+  <data key="d0">『洪吉童傳』의 환상성</data>
+  <data key="d1">2022</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001841834">
+  <data key="d0">中國人 學習者의 韓國語 漢字語 表象과 處理</data>
+  <data key="d1">2013</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001434641">
+  <data key="d0">現代詩의 消費現象과 텍스트의 擴大</data>
+  <data key="d1">2010</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002759543">
+  <data key="d0">15世紀 韓國語 認識 樣態의 下位 範疇에 對한 考察 –認識 樣態 형식이 표현하는 양태 의미를 중심으로–</data>
+  <data key="d1">2021</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001841740">
+  <data key="d0">근대 지식 청년과 渡歐 40여 일의 문화지정학－1920～30년 독일 유학생의 渡歐記를 중심으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001485919">
+  <data key="d0">曺偉의 『萬憤歌』와 鄭澈의 兩美人曲에 나타난 戀君意識의 樣相 考察</data>
+  <data key="d1">2010</data>
+  <data key="d2">20</data>
+</node>
+<node id="ART002945334">
+  <data key="d0">中外合作 교육프로그램 工學전공 學習者 대상 專攻深化韓國語 교육과정 改善 方案 연구</data>
+  <data key="d1">2023</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002239172">
+  <data key="d0">적치하 ‘서울’의 小說的 形象化 - 염상섭의 『취우』 연구 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001542849">
+  <data key="d0">濯斯 崔炳憲의 ‘萬宗一臠’ 思想과 基督敎 辨證 - 「聖山明鏡」에 나타난 對 儒敎 論爭을 中心으로 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001307902">
+  <data key="d0">高麗時代 釋讀口訣의 ‘-刂罒’에 대한 文法的 考察</data>
+  <data key="d1">2008</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001866190">
+  <data key="d0">‘-기 전에’ 構成의 形成과 그 機能 變化에 대하여－否定極語 許可 現象을 中心으로－</data>
+  <data key="d1">2014</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002151539">
+  <data key="d0">이야기그림책 읽기의 敍事敎育 內容 硏究</data>
+  <data key="d1">2016</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001918269">
+  <data key="d0">全南 光陽地域語의 活用에 대한 音韻論的 硏究</data>
+  <data key="d1">2014</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002733815">
+  <data key="d0">평생교육으로서의 한자·한문 교육 방법론</data>
+  <data key="d1">2021</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002853683">
+  <data key="d0">地域史의 記憶과 復元: 趙武彬의 『李在守 實記(夜月의 漢拏山)』 補論</data>
+  <data key="d1">2022</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002507087">
+  <data key="d0">지석영본 &lt;아학편(兒學編)&gt;(1908)으로 살펴본 트랜스링구얼리즘(translingualism)과 교육적 의미</data>
+  <data key="d1">2019</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART002122120">
+  <data key="d0">신자료 梁知會의 『漂海錄』 연구</data>
+  <data key="d1">2016</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001701717">
+  <data key="d0">他者의 視線 앞에 놓인 문학의 운명과 자유 －李淸俊의 「소문의 벽」을 대상으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002973159">
+  <data key="d0">學位로서의 ‘學士’, ‘碩士’, ‘博士’ 名稱의 成立에 대한 考察</data>
+  <data key="d1">2023</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART003119607">
+  <data key="d0">고소설 『최보운실기』의 出版許可願과 檢閱本 原稿</data>
+  <data key="d1">2024</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002035712">
+  <data key="d0">金祐鎭의 詩 硏究 1 - 漢詩에서 自由詩로의 移行 -</data>
+  <data key="d1">2015</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002239149">
+  <data key="d0">「公無渡河歌」 再攷 試論 - 歌․樂․舞 文獻記錄들로부터의 循環的 解釋學 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002853749">
+  <data key="d0">1950년대 학생문예지 &lt;學生文壇&gt; 연구</data>
+  <data key="d1">2022</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001307970">
+  <data key="d0">「雁帝本紀」의 연구 －『春秋』와 『史記』의 영향을 중심으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001811287">
+  <data key="d0">‘赤色ᄭᅢᆼ그 事件’과 廉想涉의 通俗小說 「白鷗」</data>
+  <data key="d1">2013</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002388139">
+  <data key="d0">新資料 李東 歌辭 &lt;바늘졔문&gt;의 특징과 그 문학사적 의미</data>
+  <data key="d1">2018</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002790575">
+  <data key="d0">國語辭典에 수록된 接頭辭 比較 檢討 –국립국어원 『표준국어대사전』과 고려대 『한국어대사전』을 중심으로–</data>
+  <data key="d1">2021</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001237915">
+  <data key="d0">漢字 字源 學習에서 『說文解字』의 再考</data>
+  <data key="d1">2008</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002451582">
+  <data key="d0">카메라의 言語 - 몽타주작업을 위한 몇 에피소드</data>
+  <data key="d1">2019</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001757635">
+  <data key="d0">일제말기 기행문의 제국담론의 미학화와 그 분열 －남양기행문을 중심으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001567580">
+  <data key="d0">學問 目的 韓國語 學習者를 위한 基礎敎育의 方向 - 基礎敎育 敎材 開發 方向에 대한 提案을 중심으로 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART002181551">
+  <data key="d0">식민지 지식인의 世界 情勢 視察과 未完의 여행(기) - 李晶燮의 「滬漢紀行」과 「朝鮮에서 朝鮮으로」를 중심으로 -</data>
+  <data key="d1">2016</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001976533">
+  <data key="d0">18, 19세기 詩話 편찬자의 서간문에 나타난 詩學 담론</data>
+  <data key="d1">2015</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002974448">
+  <data key="d0">베트남 대학 한국어 학과의 發表 교육 과정 개선을 위한 要求分析 연구 –H대학의 한국어 發表 교육 과목 운영 사례를 중심으로–</data>
+  <data key="d1">2023</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART003000583">
+  <data key="d0">‘障碍音-ㅎ’ 連鎖의 方言別 實現 樣相</data>
+  <data key="d1">2023</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002543450">
+  <data key="d0">金東仁 親日小說 『白馬江』 硏究 - 改作 및 『日本書紀』와의 關聯性을 中心으로</data>
+  <data key="d1">2019</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002007015">
+  <data key="d0">‘-아요’는 왜 ‘-았-’ 뒤에 나타나지 않는가</data>
+  <data key="d1">2015</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002825927">
+  <data key="d0">&lt;우리말샘&gt;의 辭典的 機能과 方向性에 대한 硏究 –規範性과 非規範性을 中心으로–</data>
+  <data key="d1">2022</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002424071">
+  <data key="d0">‘慾望’의 리얼리즘, 悲劇的 世界觀, 諷刺, 印象主義, 기타… - 徐廷仁 初期 小說의 美學的 成就와 그 特色 -</data>
+  <data key="d1">2018</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002915238">
+  <data key="d0">尹崑崗 詩에 反映된 瑞山 地域語의 音韻 現象</data>
+  <data key="d1">2022</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001485923">
+  <data key="d0">岳麓 許筬과 에도(江戸) 儒學의 勃興 －후지와라 세이카(藤原惺窩)와의 酬唱詩와 「柴立子說」을 중심으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART003150257">
+  <data key="d0">思齋 金正國 만시의 미의식</data>
+  <data key="d1">2024</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002666364">
+  <data key="d0">開化期 文法 敎科書의 敎授學的 硏究</data>
+  <data key="d1">2020</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001409987">
+  <data key="d0">「農家月令歌」의 짜임새와 그 意味</data>
+  <data key="d1">2009</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART001866226">
+  <data key="d0">牛溪 成渾 交遊詩 硏究 －龜峰, 栗谷, 松江을 중심으로－</data>
+  <data key="d1">2014</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART001380404">
+  <data key="d0">在滿朝鮮人의 混種的 正體性과 尹東柱</data>
+  <data key="d1">2009</data>
+  <data key="d2">19</data>
+</node>
+<node id="ART002666014">
+  <data key="d0">19세기 말~20세기 초 西洋人이 본 韓國語와 漢字</data>
+  <data key="d1">2020</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002064476">
+  <data key="d0">金洙暎 詩人의 ‘生活’과 ‘藝術’에 대한 思辨의 力學性 - 散文 分析을 中心으로 -</data>
+  <data key="d1">2015</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001811292">
+  <data key="d0">新植民地 시기 反美小說의 系譜와 敍事原理로서의 젠더 －1980년대 이후를 중심으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001307888">
+  <data key="d0">近代國語 色彩語의 몇 가지 特徵</data>
+  <data key="d1">2008</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART002700741">
+  <data key="d0">씨내리 소재 說話에 나타난 부부 간 권력관계의 불균형과 폭력의 문제 –남편의 폭력적 명령에 대응하는 아내의 행위 방식을 중심으로–</data>
+  <data key="d1">2021</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002915685">
+  <data key="d0">韓國語敎育을 위한 한·태 身體言語 對照 硏究</data>
+  <data key="d1">2022</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001890147">
+  <data key="d0">國語 敎師의 文法 授業 公開 經驗에 대한 事例硏究</data>
+  <data key="d1">2014</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001238097">
+  <data key="d0">用言 ‘가(去)-’類의 불규칙적 성조 실현과 化石形 －경북방언에서의 先語末語尾 ‘-오/우-’ 對應形을 중심으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART001649019">
+  <data key="d0">李淸俊 文學의 아니마 硏究</data>
+  <data key="d1">2012</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002543549">
+  <data key="d0">토픽 모델링을 활용한 中國人 학습자 대상의 韓國語 敎育 硏究 動向 分析 - 韓國 내 학위 논문을 중심으로 -</data>
+  <data key="d1">2019</data>
+  <data key="d2">23</data>
+</node>
+<node id="ART001811297">
+  <data key="d0">李泰俊 小說에 나타난 鐵道體驗의 양상 －단편소설을 中心으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002035673">
+  <data key="d0">「김태백전」 연구</data>
+  <data key="d1">2015</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001676229">
+  <data key="d0">‘-良中’의 形成과 變遷過程에 대한 通時的 考察 －中世國語를 中心으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART001236504">
+  <data key="d0">裵龜子 연구 －‘裵龜子樂劇團’의 樂劇 활동을 중심으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">13</data>
+</node>
+<node id="ART001542864">
+  <data key="d0">卜·筮와 『易』의 關係에 관한 硏究 - 『周禮』·『書經』·『周易』의 내용을 중심으로 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART002181591">
+  <data key="d0">‘敎科書 漢字 表記’의 漢字語를 어떻게 活用할 것인가?</data>
+  <data key="d1">2016</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001283173">
+  <data key="d0">靑馬 柳致環의 北滿 紀行詩</data>
+  <data key="d1">2008</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002506966">
+  <data key="d0">읽기 選多型 評價 問項 開發의 節次와 實際</data>
+  <data key="d1">2019</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001357884">
+  <data key="d0">徐廷柱의 『질마재 神話』에 나타난 웃음 誘發의 原理와 效果</data>
+  <data key="d1">2009</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001434673">
+  <data key="d0">質問 類型이 읽기 이해에 미치는 影響</data>
+  <data key="d1">2010</data>
+  <data key="d2">14</data>
+</node>
+<node id="ART002733857">
+  <data key="d0">白石의 『사슴』 未收錄 작품 2편에 대한 實證的 考察</data>
+  <data key="d1">2021</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002700973">
+  <data key="d0">國外 學習者를 위한 實時間 畵像 韓國語 교육 방안 연구</data>
+  <data key="d1">2021</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001542808">
+  <data key="d0">「西漢演義」의 傳來와 享有 樣相 硏究</data>
+  <data key="d1">2011</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART001542800">
+  <data key="d0">「高麗世系」에 나타난 始祖神話의 性格과 文學史的 意味</data>
+  <data key="d1">2011</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001649016">
+  <data key="d0">高麗人文學에 나타난 多文化 受容 樣相 －CIS 地域을 中心으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001254994">
+  <data key="d0">朝鮮後期 鄕村 文人 睦台林의 題畵詩 硏究 －새 자료 『浮磬集』 소개를 겸하여－</data>
+  <data key="d1">2008</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002331225">
+  <data key="d0">小說 읽기 敎育에서 焦點化 理論의 遂行的 觀點</data>
+  <data key="d1">2018</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001866106">
+  <data key="d0">韓國語 名詞類語의 名詞性 檢證</data>
+  <data key="d1">2014</data>
+  <data key="d2">18</data>
+</node>
+<node id="ART001726924">
+  <data key="d0">「花庵九曲」의 構造 硏究</data>
+  <data key="d1">2012</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001307979">
+  <data key="d0">아버지 作 誡女歌의 變移樣相과 詩歌敎育的 含意</data>
+  <data key="d1">2008</data>
+  <data key="d2">15</data>
+</node>
+<node id="ART002759582">
+  <data key="d0">동백림 사건과 김수영, 전쟁체험과 레드 콤플렉스란 ‘空白’–박순녀의 「어떤 파리」에 나타난 김수영의 면모를 中心으로–</data>
+  <data key="d1">2021</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002210251">
+  <data key="d0">南北韓 黃眞伊 小說에 나타난 個人意識 比較</data>
+  <data key="d1">2017</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001236394">
+  <data key="d0">女性 바보담의 웃음과 意味 考察</data>
+  <data key="d1">2008</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002543350">
+  <data key="d0">露雀 洪思容 詩와 戱曲에 나타난 메나리적 要素와 相關性</data>
+  <data key="d1">2019</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001255396">
+  <data key="d0">『사람의 아들』의 聖書 모티프 受容과 基督敎的 想像力</data>
+  <data key="d1">2008</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002006902">
+  <data key="d0">語根, 語幹, 語基 槪念의 再檢討</data>
+  <data key="d1">2015</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002853466">
+  <data key="d0">‘주다’ 授與構文과 受惠構文의 意味와 論項構造</data>
+  <data key="d1">2022</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART002095190">
+  <data key="d0">「연국부인긔 녹」 연구 - 「이왜전」과의 비교를 중심으로 -</data>
+  <data key="d1">2016</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001380373">
+  <data key="d0">固有語 複合語根 範疇 設定에 대하여</data>
+  <data key="d1">2009</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART001357805">
+  <data key="d0">「玉屑華談」의 疏通 樣相과 通俗性</data>
+  <data key="d1">2009</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART002915605">
+  <data key="d0">트랜스모더니즘으로서의 白石 文學</data>
+  <data key="d1">2022</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002915470">
+  <data key="d0">古典의 刻印, 콘텐츠의 挑戰 –‘가능세계’의 觀點에서 본 『흥부전』과 영화 &lt;흥부&gt;(2018)의 서사적 成敗–</data>
+  <data key="d1">2022</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART002360467">
+  <data key="d0">開化期 敎育誌 &lt;교육월보&gt;의 國語學的 價値</data>
+  <data key="d1">2018</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART003119601">
+  <data key="d0">한국어-필리핀 타갈로그어 西歐 借用語 비교 ·대조 연구 –한국어 학습자를 위한 疑似的 차용어 목록</data>
+  <data key="d1">2024</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002759553">
+  <data key="d0">男性作 歌辭에 나타난 아내의 記憶 喚起와 정서 표출 양상</data>
+  <data key="d1">2021</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001701614">
+  <data key="d0">格의 槪念과 分類</data>
+  <data key="d1">2012</data>
+  <data key="d2">19</data>
+</node>
+<node id="ART001918326">
+  <data key="d0">劉在建의『古今詠物近體詩』編成 方式과 그 特性</data>
+  <data key="d1">2014</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001238099">
+  <data key="d0">1980年代 中後半期 讀書大衆化 運動 硏究</data>
+  <data key="d1">2008</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001649050">
+  <data key="d0">竟陵派에 대한 조선후기 비평 양상</data>
+  <data key="d1">2012</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001282642">
+  <data key="d0">‘獨島’ㆍ石島’의 地名 表記에 관한 硏究</data>
+  <data key="d1">2008</data>
+  <data key="d2">21</data>
+</node>
+<node id="ART001434598">
+  <data key="d0">‘이어긔, 그어긔, 뎌어긔’에 대한 考察</data>
+  <data key="d1">2010</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART002239155">
+  <data key="d0">新資料 早稻田 漢文本 &lt;金華寺夢遊錄&gt;의 特徵과 意味</data>
+  <data key="d1">2017</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002095111">
+  <data key="d0">韓中 感覺形容詞의 程度性 意味와 그 實現 方式</data>
+  <data key="d1">2016</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001785801">
+  <data key="d0">韓國語 學習者의 學問 目的 프레젠테이션 能力 向上을 위한 PPT 活用 敎育 內容 提案</data>
+  <data key="d1">2013</data>
+  <data key="d2">27</data>
+</node>
+<node id="ART002006984">
+  <data key="d0">申光河 作 「竹西樓夜讌贈諸妓」의 존재양상 연구</data>
+  <data key="d1">2015</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001567500">
+  <data key="d0">‘-에게’形의 변천과정에 대한 통시적 고찰 - 中世國語를 中心으로 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">13</data>
+</node>
+<node id="ART001459068">
+  <data key="d0">大統領 就任辭의 聽衆 呼稱 表現</data>
+  <data key="d1">2010</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002506625">
+  <data key="d0">近代化 過程에서의 ‘言文一致’의 受容과 그 樣相</data>
+  <data key="d1">2019</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002331182">
+  <data key="d0">‘-요’ 同伴 冠形語 조각문 - 後置와 複寫 그리고 省略 -</data>
+  <data key="d1">2018</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001330117">
+  <data key="d0">韓國語 請誘文과 提案 表現</data>
+  <data key="d1">2009</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002267156">
+  <data key="d0">韓國語 否定 標識 ‘-지 말-’에 대하여 - 禁止 標識로서의 設定可能性을 中心으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002507016">
+  <data key="d0">李光洙가 李寶鏡이나 ‘외배’이던 시절 - 韓國語 글쓰기의 한 기원에 대하여-</data>
+  <data key="d1">2019</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001307874">
+  <data key="d0">패러다임 간의 類推에 따른 語幹 再構造化</data>
+  <data key="d1">2008</data>
+  <data key="d2">18</data>
+</node>
+<node id="ART001976529">
+  <data key="d0">李箱 詩에 나타난 誘惑의技術과 에로티즘의 意味</data>
+  <data key="d1">2015</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002451591">
+  <data key="d0">세 명의 구보와 都市 散策者 스토리텔링 －朴泰遠, 崔仁勳, 주인석의 小說을 중심으로－</data>
+  <data key="d1">2019</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002666399">
+  <data key="d0">단어 형성으로 바라본 안확의 『조선문법』(1917, 1923)</data>
+  <data key="d1">2020</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002095083">
+  <data key="d0">&lt;標準發音法&gt; 爭點과 표준 발음 政策의 方向</data>
+  <data key="d1">2016</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001459047">
+  <data key="d0">韓·中·日 常用漢字의 比較 考察(3)－國內 通用略字의 整理를 爲하여－</data>
+  <data key="d1">2010</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002506602">
+  <data key="d0">終結形의 變化와 近代的 文體</data>
+  <data key="d1">2019</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001785685">
+  <data key="d0">音韻論的 共謀性과 히아투스</data>
+  <data key="d1">2013</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002095160">
+  <data key="d0">坯窩 金相肅의 散文 硏究 - 『坯窩遺稿』와 『重言』을 중심으로 -</data>
+  <data key="d1">2016</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002151485">
+  <data key="d0">「湖南義士列傳」의 서술 방식 및 의의에 대한 고찰</data>
+  <data key="d1">2016</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002629146">
+  <data key="d0">영화를 활용한 大學 漢字․漢文 入門 講義의 일례 : 漢字(語)․漢文(古典)의 존재양상과 의미 되묻기</data>
+  <data key="d1">2020</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART001409977">
+  <data key="d0">東京大學 小倉文庫 所藏 『牧牛子修心訣』에 記入된 墨書 句讀點과 聲調의 相關性에 對하여</data>
+  <data key="d1">2009</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001434659">
+  <data key="d0">李箱 揷畵 硏究 －小說 揷畵를 中心으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART002759550">
+  <data key="d0">韓國語 長短兩音 漢字音의 유래 탐색(2)–중국어 성조와의 관련성을 중심으로–</data>
+  <data key="d1">2021</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001254709">
+  <data key="d0">平安道 西海岸 方言의 指稱語ㆍ呼稱語 硏究 －龍川ㆍ義州(平北)와 文德ㆍ·安州(平南)를 중심으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002543294">
+  <data key="d0">시나리오 「西便制」에 삽입된 판소리 「春香歌」의 敍事的 조응 관계에 관한 연구</data>
+  <data key="d1">2019</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002853705">
+  <data key="d0">한글장편소설의 데이터 분석에 대한 시론 –&lt;명주보월빙&gt;, &lt;윤하정삼문취록&gt;을 중심으로–</data>
+  <data key="d1">2022</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002095170">
+  <data key="d0">專門用語에 사용된 漢字 形態素의 分布와 전문 분야별 漢字 敎育 - 化學, 醫學 專門用語에 사용된 차사를 중심으로 -</data>
+  <data key="d1">2016</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART001757615">
+  <data key="d0">廉想涉의 『牧丹꽃 필 때』 硏究 －民族的 正體性의 재현으로서의 여성과 家父長的 世界觀－</data>
+  <data key="d1">2013</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002543505">
+  <data key="d0">일본인 학습자의 한국어 音韻 規則 適用에 대한 縱的 硏究 -子音의 音韻 規則을 中心으로-</data>
+  <data key="d1">2019</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002973509">
+  <data key="d0">崔明翊 소설에 나타난 讀書(글쓰기)의 倫理</data>
+  <data key="d1">2023</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001649011">
+  <data key="d0">巫俗神話에 나타난 女性正體性 探索의 樣相과 意味 －「바리공주」, 「세경본풀이」, 「초공본풀이」를 중심으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001409957">
+  <data key="d0">漢字語의 한글 表記에 나타나는 頭音法則과 그 例外 條項에 대한 考察</data>
+  <data key="d1">2009</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART001236393">
+  <data key="d0">現代詩 創作 방법론의 이데올로기 검토 －시창작법 텍스트에 나타난 詩觀 및 언어관을 중심으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002210323">
+  <data key="d0">廉想涉의 「標本室의 靑개고리」와 盧子泳의 「千里의 夏路」의 比較 硏究</data>
+  <data key="d1">2017</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001701733">
+  <data key="d0">대학생 小論文 작성 지도 사례 연구 －아이디어 생성 및 조직하기 단계를 中心으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">17</data>
+</node>
+<node id="ART001701675">
+  <data key="d0">活字本 古小說 「蓮花夢」 硏究</data>
+  <data key="d1">2012</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002331188">
+  <data key="d0">診斷 對象 公共言語의 範疇 擴張에 관한 硏究</data>
+  <data key="d1">2018</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001943268">
+  <data key="d0">장편서사시『白頭山』의 창작토대</data>
+  <data key="d1">2014</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001943194">
+  <data key="d0">&lt;불씨 지킨 며느리&gt; 類型의 敍事的 意味</data>
+  <data key="d1">2014</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002297014">
+  <data key="d0">대하소설 속 여주인공의 夭折과 그 함의- 「천수석」과 「유씨삼대록」의 경우 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">13</data>
+</node>
+<node id="ART002007033">
+  <data key="d0">口語 談話 分析을 통한 韓國語 高級 學習者의 終結表現 使用 樣相 硏究</data>
+  <data key="d1">2015</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001485786">
+  <data key="d0">冠形語가 先行하는 副詞들에 대하여</data>
+  <data key="d1">2010</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART002388201">
+  <data key="d0">崔勝子 시에 나타난 根源的 恐怖와 時間認識</data>
+  <data key="d1">2018</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002122113">
+  <data key="d0">修辭를 통한 詠史樂府 분석과 詩題로 본 創作意圖 고찰</data>
+  <data key="d1">2016</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART003090907">
+  <data key="d0">‘어머니’ 表象 중심 한국 전쟁서사 마스터플롯의 變容과 擴張 – 金源一 『마당깊은 집』을 중심으로</data>
+  <data key="d1">2024</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002882465">
+  <data key="d0">‘옆’과 ‘옆구리’의 語彙史에 대한 硏究</data>
+  <data key="d1">2022</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002064358">
+  <data key="d0">訓民正音과 佛敎經典의 相關關係 硏究</data>
+  <data key="d1">2015</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001542751">
+  <data key="d0">放送 字幕 言語의 特徵과 關聯 要因 - 프로그램 種類에 따른 特徵을 중심으로 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART002388106">
+  <data key="d0">『小學』의 학습과 朝鮮의 다이글로시아 - 조선 후기 『小學諺解』의 相異한 두 筆寫本을 중심으로 -</data>
+  <data key="d1">2018</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002600631">
+  <data key="d0">李鉉和의 「키리에–위대한 위증」에 나타난 犧牲祭儀的 暴力의 意味와 限界</data>
+  <data key="d1">2020</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001254704">
+  <data key="d0">實體名詞의 意味形質 分析</data>
+  <data key="d1">2008</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002945164">
+  <data key="d0">한글학자 珠汕 申明均의 국어 연구에 대한 고찰― 표기와 음운현상을 중심으로 ―</data>
+  <data key="d1">2023</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002361927">
+  <data key="d0">實名小說의 敍事權力과 목소리 復原의 難境 - 『검은 땅에 빛나는』과 『코레예바의 눈물』의 경우 -</data>
+  <data key="d1">2018</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001283164">
+  <data key="d0">「布衣交集」의 서사적 성격 －愛情 傳奇小說 양식론의 입장에서－</data>
+  <data key="d1">2008</data>
+  <data key="d2">14</data>
+</node>
+<node id="ART001757570">
+  <data key="d0">論證 텍스트 類型에 기반한 論證的 글쓰기 敎育의 位階化 方案 硏究</data>
+  <data key="d1">2013</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART002331193">
+  <data key="d0">黃海道 安岳 地域語의 母音調和 硏究</data>
+  <data key="d1">2018</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART001283186">
+  <data key="d0">한국어 말하기 시험에서의 ‘이야기 口述 課題’ 연구</data>
+  <data key="d1">2008</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART002151426">
+  <data key="d0">混成語의 位相에 대한 一考察</data>
+  <data key="d1">2016</data>
+  <data key="d2">23</data>
+</node>
+<node id="ART002701031">
+  <data key="d0">『合部金光明經』의 부호 연구</data>
+  <data key="d1">2021</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001757609">
+  <data key="d0">宋稶 散文에 드러난 母語 認識</data>
+  <data key="d1">2013</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002210246">
+  <data key="d0">1980년대 詩의 日常的 醜와 內面的 醜의 辨證的 止揚에 관한 小考 - 김정환․황지우․장경린의 初期詩를 中心으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001866201">
+  <data key="d0">「명주기봉」에 나타난 姊妹葛藤의 形相과 그 意味</data>
+  <data key="d1">2014</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART001811331">
+  <data key="d0">조선어 교재로서의 『隣語大方』과 일본어 교재로서의 『隣語大方』</data>
+  <data key="d1">2013</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART001485843">
+  <data key="d0">구성적 부재와 공간의 정치학: 박태원의 「애욕」론</data>
+  <data key="d1">2010</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002759663">
+  <data key="d0">中途入國 中學生을 위한 敎科基盤 한국어 敎材開發 기초 연구</data>
+  <data key="d1">2021</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001841751">
+  <data key="d0">李人稙과 안티 모던－이인직의 「사회학」과 ‘실학’이라는 일본의 전통적 프래그머티즘 정신을 중심으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001512927">
+  <data key="d0">「바리공주」 改作 作品의 談話 構造 分析 －年齡代別 改作 基準 마련을 위한 一考察－</data>
+  <data key="d1">2010</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001485828">
+  <data key="d0">植民地 朝鮮人 資本家의 表象과 民族談論 －1930年代 雜誌 &lt;三千里&gt;를 中心으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001918308">
+  <data key="d0">金東里 文學의 佛敎的 想像力 硏究 －對稱性 사고를 중심으로－</data>
+  <data key="d1">2014</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002297059">
+  <data key="d0">漢字 學習의 효율성 제고를 위한 試論</data>
+  <data key="d1">2017</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001841633">
+  <data key="d0">語彙意味의 홀론(holon)的 意味屬性 硏究</data>
+  <data key="d1">2013</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001592544">
+  <data key="d0">甲子 上疏文의 텍스트언어학적 分析 硏究</data>
+  <data key="d1">2011</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART001511841">
+  <data key="d0">현대국어 音節의 가짓수 연구</data>
+  <data key="d1">2010</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002451586">
+  <data key="d0">‘매를 든 어머니’로 상징되는 戰後 成長小說의 暴力性 －『마당 깊은 집』, 『장난감 도시』, 『고기잡이는 갈대를 꺾지 않는다』를 대상으로－</data>
+  <data key="d1">2019</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001282652">
+  <data key="d0">형용사 ‘싸다’의 統辭ㆍ意味에 대한 史的 考察</data>
+  <data key="d1">2008</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002700945">
+  <data key="d0">通過儀禮로 읽는 &lt;반쪽이&gt; 說話</data>
+  <data key="d1">2021</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002700877">
+  <data key="d0">釋讀口訣의 冠形構成 ‘-/ᄂᆞᆺ’과 ‘-/릿’의 文法史的 解析</data>
+  <data key="d1">2021</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002506959">
+  <data key="d0">『찬주분류두시』의 편찬과 주해 방식</data>
+  <data key="d1">2019</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002790622">
+  <data key="d0">用言 活用의 不完全性에 대한 小考</data>
+  <data key="d1">2021</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002064412">
+  <data key="d0">應答發話 “괜찮다”의 脈絡에 따른 認識 硏究</data>
+  <data key="d1">2015</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002666268">
+  <data key="d0">1930년대 詩와 漢字(語) 문제 –李箱의 연작시 기획 「烏瞰圖」, 「正式」에 나타난 漢字 어휘의 양상과 기능을 중심으로–</data>
+  <data key="d1">2020</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002181576">
+  <data key="d0">理解指向的 듣기 戰略과 誤謬 양상</data>
+  <data key="d1">2016</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001409995">
+  <data key="d0">꿈의 寢室과 꿈의 步行을 위한 시적 코드: 李相和論</data>
+  <data key="d1">2009</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001567519">
+  <data key="d0">宇宙原理를 지향하는 「金剛頌歌」의 시적 코드</data>
+  <data key="d1">2011</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002759513">
+  <data key="d0">助詞 ‘-은/는’과 構文構造</data>
+  <data key="d1">2021</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001236099">
+  <data key="d0">蘭汀 南廣祐 博士의 學問 世界</data>
+  <data key="d1">2008</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002882456">
+  <data key="d0">反事實的 條件文의 解析과 非移行的 因果의 條件文 硏究</data>
+  <data key="d1">2022</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002420396">
+  <data key="d0">창랑 성문준의 차운시에 나타난 풍격 연구</data>
+  <data key="d1">2018</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001511833">
+  <data key="d0">二重母音의 音韻論的 性格에 對하여</data>
+  <data key="d1">2010</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART001307850">
+  <data key="d0">司譯院 倭學書에 나타난 音韻變化의 過程과 特性 －口蓋音化와 圓脣母音化 現象의 擴散 過程을 중심으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART001410019">
+  <data key="d0">1930년대 大衆的 民族主義의 논리와 俗物적 내러티브 －『삼천리』 잡지를 중심으로－</data>
+  <data key="d1">2009</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART001701687">
+  <data key="d0">呼吸律 再論과 基底律 生成에 對한 考察 －時調와 俗談을 中心으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002700871">
+  <data key="d0">15·16세기의 한글 傳播 樣相</data>
+  <data key="d1">2021</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002095166">
+  <data key="d0">2009와 2015 改定 國語科 敎育課程 文法 領域 比較</data>
+  <data key="d1">2016</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART001542756">
+  <data key="d0">國語辭典 속의 吏讀式 漢字語 硏究</data>
+  <data key="d1">2011</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART001617812">
+  <data key="d0">全國漢字能力檢定試驗과 漢字敎育</data>
+  <data key="d1">2011</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002665945">
+  <data key="d0">현대 한국어문학 형성기 漢字語의 表記와 漢字․한글 使用의 문제 –池錫永의 「국문론」, 『言文』 등을 중심으로–</data>
+  <data key="d1">2020</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001409955">
+  <data key="d0">方言으로 본 ‘獨島’ 地名考</data>
+  <data key="d1">2009</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002006880">
+  <data key="d0">‘모습, ‘꼴’, ‘模樣’의 意味 差異 比較</data>
+  <data key="d1">2015</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001255294">
+  <data key="d0">敍事의 記憶 構成 原理와 그 表現 敎育的 意味</data>
+  <data key="d1">2008</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002733868">
+  <data key="d0">金泳根의 &lt;금강산졀긔 동유록&gt;에 나타난 敍述方法과 意識世界 硏究</data>
+  <data key="d1">2021</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002451560">
+  <data key="d0">가사체 우화의 성격과 의의 －&lt;京鄕雜誌&gt; ‘古談’ 소재 작품을 중심으로－</data>
+  <data key="d1">2019</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002420429">
+  <data key="d0">대학 글쓰기에서 ‘著者 立地’(authorial stance)의 表現樣相과 意味</data>
+  <data key="d1">2018</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001485921">
+  <data key="d0">한시에 나타난 유배객의 생활 모습 －『정헌영해처감록』을 중심으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART002035725">
+  <data key="d0">自動 문법 검사기의 利用 實態와 그 問題點 - 大學生이 자주 틀리는 띄어쓰기를 中心으로 -</data>
+  <data key="d1">2015</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002628916">
+  <data key="d0">崔仁浩 小說의 大衆性과 女性 表象 –『별들의 故鄕』의 敍事戰略에 대한 分析을 中心으로–</data>
+  <data key="d1">2020</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001357837">
+  <data key="d0">「月先軒十六景歌」의 江湖 공간과 시적 형상화의 의미</data>
+  <data key="d1">2009</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002388214">
+  <data key="d0">학문 목적 한국어교육을 위한 문화적 문식성 연구</data>
+  <data key="d1">2018</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART002297019">
+  <data key="d0">辭說時調와 雜歌에 표현된 微物의 의미와 시적 기능</data>
+  <data key="d1">2017</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART003119598">
+  <data key="d0">조선 科詩와 古詩의 관계 고찰</data>
+  <data key="d1">2024</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001380448">
+  <data key="d0">文法 探究 過程에 대한 語彙計量的 接近 －高等學校 文法 敎科書의 漢字 學術語彙를 中心으로－</data>
+  <data key="d1">2009</data>
+  <data key="d2">39</data>
+</node>
+<node id="ART002972993">
+  <data key="d0">여성문학에서 민중운동 경험의 日常化와 ‘개인적인 것’의 談論化 –金香淑, 姜石景, 申京淑의 소설을 중심으로-</data>
+  <data key="d1">2023</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001617835">
+  <data key="d0">主格 重出 構文과 歸屬役</data>
+  <data key="d1">2011</data>
+  <data key="d2">20</data>
+</node>
+<node id="ART002181533">
+  <data key="d0">筆寫本 「尙雲傳」의 異本的 位相과 享有 樣相 - 나손본의 揷入詩歌를 중심으로 -</data>
+  <data key="d1">2016</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001841688">
+  <data key="d0">開化期 學部 편찬 讀本 자료의 언어 양상－『國民小學讀本』, 『小學讀本』, 『新訂尋常小學』을 대상으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">13</data>
+</node>
+<node id="ART001409960">
+  <data key="d0">連結 語尾의 使用 樣相 變化</data>
+  <data key="d1">2009</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002790661">
+  <data key="d0">「청석령가」와 「작구가」의 통합적 이해</data>
+  <data key="d1">2021</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001890284">
+  <data key="d0">項莊舞의 여성배우와 남성관객</data>
+  <data key="d1">2014</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART003029085">
+  <data key="d0">김억의 詩와 平壤의 장소성</data>
+  <data key="d1">2023</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001618046">
+  <data key="d0">不安의 문학과 轉向時代의 균형 감각 - 1930年代 平壤의 학생운동과 『斷層』派의 문학 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART001308122">
+  <data key="d0">한 아나운서의 放送 장르별 發話 樣相에 관한 考察</data>
+  <data key="d1">2008</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001308108">
+  <data key="d0">韓國語 言語文化 敎育의 자리매김을 위한 一考察 －韓國語 言語文化 敎育의 內容 體系化와 學習者 中心性의 認識을 中心으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART001409961">
+  <data key="d0">現代國語 하오체 語尾의 異形態와 交替 條件</data>
+  <data key="d1">2009</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002035714">
+  <data key="d0">‘괴물’에서 ‘거울’로의 轉換 - 「만세전」, 『사랑과 죄』의 女性 人物 연구 -</data>
+  <data key="d1">2015</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002006811">
+  <data key="d0">特級 出題 漢字語와 國語辭典 漢字語의 比較</data>
+  <data key="d1">2015</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002064464">
+  <data key="d0">朝鮮後期 敎訓歌辭에 나타난 부모-자식 관계의 문제적 양상과 ‘孝不孝’ 談論의 의미</data>
+  <data key="d1">2015</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART002506853">
+  <data key="d0">新聞의 時代와 新小說 - 新小說에 나타난 ‘新聞/記事’의 樣相과 그 意味 -</data>
+  <data key="d1">2019</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001726917">
+  <data key="d0">「禱千手觀音歌」의 解讀과 構造 再考 －10句의 慈悲也根古를 중심으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001252955">
+  <data key="d0">‘있-’과 ‘-느-’의 統合樣相의 特徵</data>
+  <data key="d1">2008</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART001918349">
+  <data key="d0">‘文學’ 敎科書 著者의 縱的 連結과先行 敎科書의 再活用 －2011 개정 교육과정에 의한 檢定 敎科書를 중심으로－</data>
+  <data key="d1">2014</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001676147">
+  <data key="d0">朴齊家의 繪畵와 題畵詩에 나타난 ‘際’와 ‘感通’의 미학 －작품의 상호텍스트성과 결속성을 중심으로 하여－</data>
+  <data key="d1">2012</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART003028606">
+  <data key="d0">20세기 終結語尾의 補助詞 結合 및 使用 樣相</data>
+  <data key="d1">2023</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002296966">
+  <data key="d0">形成素와 構成素, 다시 생각하기</data>
+  <data key="d1">2017</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001592611">
+  <data key="d0">개화기 시가의 수사법 연구 - 반복과 패러디 기법을 중심으로 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001485837">
+  <data key="d0">趙基天論 －생애와 문학 활동에 대한 재검토－</data>
+  <data key="d1">2010</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002035716">
+  <data key="d0">推理小說 쓰기의 摸索과 展開 - 김내성의 內面意識과 當代 文壇의 情況, 그리고 代表作 『魔人』에 注目하여 -</data>
+  <data key="d1">2015</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART003062908">
+  <data key="d0">손 글쓰기와 컴퓨터 글쓰기에 관한 초등학생 筆者의 選好度 및 認識 分析</data>
+  <data key="d1">2024</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002543502">
+  <data key="d0">許筠 編著의 現況과 課題</data>
+  <data key="d1">2019</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002600440">
+  <data key="d0">감염원이 된 女性과 共同體의 면역반응 –심훈의 小說들을 중심으로–</data>
+  <data key="d1">2020</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001592648">
+  <data key="d0">現代 영상 이미지의 視點과 視覺的 認識 主體 硏究 - 視點의 修辭學과 영상 讀解 論理를 中心으로 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002064500">
+  <data key="d0">韓國語 敎材의 共感誘發型 情表話行 硏究 - 意思疏通的 觀點에서 -</data>
+  <data key="d1">2015</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002123179">
+  <data key="d0">1930年代 後半 林和의 저널리즘論과 批評</data>
+  <data key="d1">2016</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001235186">
+  <data key="d0">金承鈺 小說의 他者性 연구 －「차나 한 잔」과 「서울 1964년 겨울」을 중심으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002210364">
+  <data key="d0">結合關係를 活用한 擬聲語‧擬態語 교수‧학습 방법 - 중국인 학습자 중급 단계를 대상으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002388100">
+  <data key="d0">中世韓國語 ‘-츠-’ 部類 强勢接尾辭 派生의 形態論</data>
+  <data key="d1">2018</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001890299">
+  <data key="d0">20세기 전후의 文明談論과 語文秩序</data>
+  <data key="d1">2014</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001459054">
+  <data key="d0">용소, 가마소의 ‘소’와 漢字 ‘沼’에 관한 硏究</data>
+  <data key="d1">2010</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART002451537">
+  <data key="d0">處格助詞 統合 沮止 現像과 零派生에 관한 몇 問題</data>
+  <data key="d1">2019</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001308080">
+  <data key="d0">朝鮮中期 漢詩에서의 ‘奇’</data>
+  <data key="d1">2008</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART003119599">
+  <data key="d0">서정주 詩와 鄕歌의 상호텍스트성 연구</data>
+  <data key="d1">2024</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002853856">
+  <data key="d0">麗末鮮初 詩話에 수록된 妓生談의 양상 고찰</data>
+  <data key="d1">2022</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002572938">
+  <data key="d0">「南炎浮洲志」의 두 세계, 信念과 疑惑</data>
+  <data key="d1">2020</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001943018">
+  <data key="d0">主語에 관련된 몇 問題에 대하여</data>
+  <data key="d1">2014</data>
+  <data key="d2">16</data>
+</node>
+<node id="ART002239131">
+  <data key="d0">ㅎ의 音價 變化 및 관련 음운 현상의 共時的 기술- ㅎ의 有氣性을 중심으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART003149908">
+  <data key="d0">『추안급국안』에 수록된 증인 진술의 의미 고찰 –인목대비 저주 혐의 관련 궁중 나인 진술을 중심으로</data>
+  <data key="d1">2024</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001726953">
+  <data key="d0">‘(으)로서’ 문장 성분의 文章意味 構成</data>
+  <data key="d1">2012</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001254993">
+  <data key="d0">「射琴匣」 설화의 詠史樂府 전승과 그 의미</data>
+  <data key="d1">2008</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART003149977">
+  <data key="d0">李祭夏 단편소설 「우리들의 時代」의 通俗性과 의미 연구 –「劉子略傳」과 비교를 중심으로</data>
+  <data key="d1">2024</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001255293">
+  <data key="d0">북한의 古典文學 전통과 國語敎科敎育의 현장</data>
+  <data key="d1">2008</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001283166">
+  <data key="d0">韓國 現代文學硏究와 文學批評</data>
+  <data key="d1">2008</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002629113">
+  <data key="d0">영화 ‘視點’의 水準과 適用</data>
+  <data key="d1">2020</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002095157">
+  <data key="d0">시인 박남수의 出發點과 이미지즘적 ‘종합’의 理想 - 1930년대 後半 詩壇의 지형도를 중심으로 -</data>
+  <data key="d1">2016</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002543403">
+  <data key="d0">한글의 텍스트성(textuality)과 ‘읽는 時調’ : 가람 이병기의 한글운동과 시조혁신운동</data>
+  <data key="d1">2019</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002790737">
+  <data key="d0">심연수 저작물의 서지학적 가치와 활용의 문제</data>
+  <data key="d1">2021</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002388207">
+  <data key="d0">이름과 호의 한자문화</data>
+  <data key="d1">2018</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART001726800">
+  <data key="d0">프랑스 初等學校의 文學敎育 내용과 실행 특성 －파리 지역 학교를 중심으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001918322">
+  <data key="d0">1950년대 張龍鶴 소설과 思惟의 전략－「非人誕生」, 「易姓序說」을 중심으로－</data>
+  <data key="d1">2014</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001567531">
+  <data key="d0">蔡萬植의 「濁流」에 나타난 女性 再現 樣相 硏究</data>
+  <data key="d1">2011</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002297064">
+  <data key="d0">대학 글쓰기 수업에서 장르영화를 활용한 비평문 쓰기 교육 방안 연구</data>
+  <data key="d1">2017</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART001726892">
+  <data key="d0">「申兵使傳」의 敍事的 葛藤 構造 硏究 －인물 간의 관계 맺기 양상을 중심으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001542830">
+  <data key="d0">劇團 高協의 後期 公演史 硏究 - 1941년 3월 創立 2주년 記念公演 직후부터 1945년 해산까지 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001236101">
+  <data key="d0">同化와 異化의 音韻論的 性格</data>
+  <data key="d1">2008</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002700813">
+  <data key="d0">『龍飛御天歌』의 典據와 註解에 대한 文獻學的 硏究</data>
+  <data key="d1">2021</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002035733">
+  <data key="d0">멀티미디어 한국어 교육용 자료 開發의 現況과 課題 - 『세종한국어』를 中心으로 -</data>
+  <data key="d1">2015</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001459155">
+  <data key="d0">1차 留學時期 廉想涉 文學 硏究</data>
+  <data key="d1">2010</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART002600672">
+  <data key="d0">學校 文法의 主動과 使動 記述 內容 檢討</data>
+  <data key="d1">2020</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002331204">
+  <data key="d0">『朴通事』에 나타난 ‘玉黃子 유황고’와‘虎剌賓 유황외엿’에 대한 연구</data>
+  <data key="d1">2018</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002915661">
+  <data key="d0">金春洙 詩에 나타난 濕潤性 想像力 考察</data>
+  <data key="d1">2022</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002733859">
+  <data key="d0">平壤 表象에 나타난 帝國 談論의 龜裂 樣相 –金史良의 『바다의 노래』를 中心으로</data>
+  <data key="d1">2021</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001726876">
+  <data key="d0">새로 발견한 肉談風月 「八情詩」 硏究</data>
+  <data key="d1">2012</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002360580">
+  <data key="d0">吳貞姬 女性 成長小說의 幼年人物 硏究 - 「유년의 뜰」과 「중국인 거리」를 대상으로 -</data>
+  <data key="d1">2018</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001330016">
+  <data key="d0">「權龍星傳」 硏究</data>
+  <data key="d1">2009</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002064468">
+  <data key="d0">&lt;紅白花傳&gt;에 미친 &lt;嬌紅記&gt;의 影響에 대한 考察</data>
+  <data key="d1">2015</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001866102">
+  <data key="d0">口語와 文語를 아우르는 사용자 중심의 한국어 문법</data>
+  <data key="d1">2014</data>
+  <data key="d2">25</data>
+</node>
+<node id="ART003029214">
+  <data key="d0">인공지능 기반 한자 인식 기술 현황과 과제</data>
+  <data key="d1">2023</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002035669">
+  <data key="d0">開化期國語 終結語尾와 {-느-}의 結合 樣相 - 終結語尾 ‘-니’, ‘-다’를 중심으로 -</data>
+  <data key="d1">2015</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001542868">
+  <data key="d0">人權과 易地思之 觀點에서의 多文化敎育 - 중학교 과정에서 한국현대시를 중심으로 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001785695">
+  <data key="d0">韓國語 引上 構文 分析의 問題點과 그 解決策</data>
+  <data key="d1">2013</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001592575">
+  <data key="d0">‘-어지다’ 意味 考察에 대한 試論 - 類型論的 觀點에서 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">28</data>
+</node>
+<node id="ART002628933">
+  <data key="d0">李圭景의 語音과 韻學에 대한 인식의 특징 고찰 –『五洲衍文長箋散稿』 所載 辨證說을 통하여</data>
+  <data key="d1">2020</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002296994">
+  <data key="d0">한자어 반복형의 형성 방식</data>
+  <data key="d1">2017</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001701636">
+  <data key="d0">「金鰲新話」의 작품 構成 原理와 만남의 變奏</data>
+  <data key="d1">2012</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART003090926">
+  <data key="d0">식민지 시기 인공지능 휴머노이드 로봇의 두 표상 – 朴英熙 飜譯의 『人造勞動者』(1925)와 프리츠 랑의 〈메트로폴리스〉(1927)를 中心으로 </data>
+  <data key="d1">2024</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001434635">
+  <data key="d0">九人會와 牧日會의 表現主義的 作品傾向에 관한 考察 －“文章派의 構成의 美學的 土臺”를 중심으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002267145">
+  <data key="d0">淸風府 洞里名의 形成과 變遷에 관한 硏究 - 北面, 東面, 遠南面, 近南面, 遠西面 지역을 中心으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001283171">
+  <data key="d0">‘孤獨’에 접근하는 문학적 방식 －申庚林의 소설 『고독한 산』’論－</data>
+  <data key="d1">2008</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002420234">
+  <data key="d0">完形補文의 統辭와 意味에 대한 考察</data>
+  <data key="d1">2018</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART002360533">
+  <data key="d0">「難破」의 自我 探究의 드라마와 慾望 構造</data>
+  <data key="d1">2018</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART003029414">
+  <data key="d0">중국인 학습자의 문어 말뭉치에 나타난 漢字語 代置 誤謬 연구</data>
+  <data key="d1">2023</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002700960">
+  <data key="d0">시나리오 脚色 과정을 통해 본 최인호의 映畵 美學 –崔仁浩의 &lt;걷지 말고 뛰어라&gt;(1976)를 중심으로</data>
+  <data key="d1">2021</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001618075">
+  <data key="d0">『日月』의 原型的 構造 분석</data>
+  <data key="d1">2011</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001676193">
+  <data key="d0">1920年代 歌辭 「東遊感興錄」 內 朝鮮人 ‘身世 打令’의 特質과 그 意味</data>
+  <data key="d1">2012</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001618031">
+  <data key="d0">‘朝鮮文學選集’과 文學正典들</data>
+  <data key="d1">2011</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART002122078">
+  <data key="d0">白石 詩 硏究의 留意點과 課題</data>
+  <data key="d1">2016</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001308049">
+  <data key="d0">제국의 근대와 식민지, 그리고 이광수 －제2차 유학시절 이광수의 사상적 궤적을 중심으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">12</data>
+</node>
+<node id="ART002915113">
+  <data key="d0">口述性과 文字性의 사이, 메신저 대화의 談話와 文法 –메신저 대화 말뭉치와 구어 말뭉치의 비교를 중심으로–</data>
+  <data key="d1">2022</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART003029268">
+  <data key="d0">人工知能 시대의 텍스트성: 텍스트의 擴張과 批判的 文識性</data>
+  <data key="d1">2023</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART002629036">
+  <data key="d0">대조를 통한 한․중 發病 관련 연어 교육 연구</data>
+  <data key="d1">2020</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002296976">
+  <data key="d0">疑問文으로 實現된 ‘-겠-’과 ‘-을까’의 樣態 意味 및 文法 現狀 比較</data>
+  <data key="d1">2017</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001236100">
+  <data key="d0">韓國語文敎育硏究會 選定 特級 配定漢字 代表訓音에 관한 고찰(Ⅰ)</data>
+  <data key="d1">2008</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001592683">
+  <data key="d0">國語 띄어쓰기 規定의 검토와 改善案 연구</data>
+  <data key="d1">2011</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART002388115">
+  <data key="d0">統辭論的 構成과 單語 形成 - ‘통사적 합성어’와 ‘통사론적 구성의 단어화’를 중심으로 -</data>
+  <data key="d1">2018</data>
+  <data key="d2">19</data>
+</node>
+<node id="ART001841695">
+  <data key="d0">開化期 國語 女性 關聯 語彙의 槪念化 樣相 分析</data>
+  <data key="d1">2013</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART001512886">
+  <data key="d0">라디오 드라마의 展開樣相 －解放期부터 1950年代를 中心으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001676159">
+  <data key="d0">봉준호 映畵의 敍事構造와 現實性의 問題</data>
+  <data key="d1">2012</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002122064">
+  <data key="d0">新靑年의 噴火/分化와 ‘運動’의 文學的 形象化</data>
+  <data key="d1">2016</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001357783">
+  <data key="d0">事件 好否 評價 樣態性 表現 硏究 －意味 體系 設定 및 表現 項目 提示를 中心으로－</data>
+  <data key="d1">2009</data>
+  <data key="d2">18</data>
+</node>
+<node id="ART001380366">
+  <data key="d0">人名用 漢字의 國際標準化 方案 硏究</data>
+  <data key="d1">2009</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002360538">
+  <data key="d0">『鄭芝溶詩集』에 담긴 朴龍喆의 의도와 九人會의 흔적</data>
+  <data key="d1">2018</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001329983">
+  <data key="d0">槪念的 隱喩의 相對性 －19~20世紀初 古小說을 중심으로－</data>
+  <data key="d1">2009</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART001617995">
+  <data key="d0">「翰林別曲」의 美的 特質과 民族禮樂思想</data>
+  <data key="d1">2011</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001785727">
+  <data key="d0">李炳注 小說에 나타난 테러리즘의 問題</data>
+  <data key="d1">2013</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002700760">
+  <data key="d0">植民地 朝鮮 觀客의 感覺 體驗과 發聲映畵 上映의 前史</data>
+  <data key="d1">2021</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002095174">
+  <data key="d0">時中의 원리를 적용한능동적 자기 형성으로의 시조 이해 교육 탐색 - 人生無常類 時調를 중심으로 -</data>
+  <data key="d1">2016</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001701725">
+  <data key="d0">1920年代 近代小說의 形成과 ‘新聞記事’의 小說化 方法 －「발[簾]」과 「檢事局待合室」을 中心으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002122052">
+  <data key="d0">韓雪野와 滿洲</data>
+  <data key="d1">2016</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001890229">
+  <data key="d0">近代 科學小說의 ‘科學’ 槪念 硏究 －朴英熙의 「人造勞動者」를 中心으로－</data>
+  <data key="d1">2014</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART001410084">
+  <data key="d0">之의 字源과 聲符를 활용한 漢字敎授學習</data>
+  <data key="d1">2009</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002151531">
+  <data key="d0">對話連續體 構造를 활용한한국어 교재 대화문의 構成과 改善 방안 - ‘提案’을 중심으로 -</data>
+  <data key="d1">2016</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002733875">
+  <data key="d0">LDA를 활용한 재외동포 아동 대상 한국어교육 연구 동향 분석</data>
+  <data key="d1">2021</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001890366">
+  <data key="d0">大學 敎養敎育으로서의 讀書討論 授業運營 方案 硏究</data>
+  <data key="d1">2014</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002733852">
+  <data key="d0">韓國語 逆形成에 對한 再檢討</data>
+  <data key="d1">2021</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART003062886">
+  <data key="d0">&lt;숙영낭자전&gt;에 나타난 자살의 의미와 그 사회사적 맥락</data>
+  <data key="d1">2024</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002239165">
+  <data key="d0">俗物 藝術家와 日常人의 美學 - 李箱의 「休業과 事情」을 중심으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001841803">
+  <data key="d0">韓國語 學習者의 連結語尾 ‘-고’ 使用 樣相 分析 －‘-었-’의 結合 樣相을 中心으로－</data>
+  <data key="d1">2013</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002600349">
+  <data key="d0">補助形容詞 ‘-고 싶-’ 구성의 統辭的, 意味的 特性</data>
+  <data key="d1">2020</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002122037">
+  <data key="d0">坊刻本 小說의 檢閱本과 納本에 대한 硏究</data>
+  <data key="d1">2016</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002297031">
+  <data key="d0">신앙과 이데올로기, 일제 말기 신도(神道/信徒)의 문학적 표상과 종교의 정치성</data>
+  <data key="d1">2017</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001943329">
+  <data key="d0">李淸俊 소설『제3의 현장』의 不可能性의 詩學</data>
+  <data key="d1">2014</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001434650">
+  <data key="d0">朴木月 中期詩의 ‘自然’과 隱喩 樣相</data>
+  <data key="d1">2010</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001409998">
+  <data key="d0">金允經을 통해 본 近代的 글쓰기의 思想的 背景</data>
+  <data key="d1">2009</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001592564">
+  <data key="d0">安東金氏 諺簡에 나타난 한글흘림체 이어쓰기 樣相과 文法單位의 關係에 대한 試論</data>
+  <data key="d1">2011</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002122132">
+  <data key="d0">韓國文化 敎育을 위한 文化 知識 分類 方案 硏究</data>
+  <data key="d1">2016</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001308101">
+  <data key="d0">중국 조선족 初中 新編 『조선어문』收錄 詩 考察</data>
+  <data key="d1">2008</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART002600523">
+  <data key="d0">奉俊昊 映畵에서 집의 空間性 –&lt;플란다스의 개&gt;와 &lt;기생충&gt;을 중심으로–</data>
+  <data key="d1">2020</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART001567612">
+  <data key="d0">日帝强占期 普通學校 『朝鮮語及漢文讀本』의 性格 - 第一次 敎育令期 四學年 敎科書의 ‘練習’을 中心으로 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART001757620">
+  <data key="d0">李孝石의 『碧空無限』 硏究</data>
+  <data key="d1">2013</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART003029152">
+  <data key="d0">吳貞姬 소설에 나타난 環境의 修辭學</data>
+  <data key="d1">2023</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001726839">
+  <data key="d0">靑年 批評家 김현과 超現實主義</data>
+  <data key="d1">2012</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002267223">
+  <data key="d0">朝鮮後期 ‘治産’의 問題와 &lt;治産篇&gt;의 意味</data>
+  <data key="d1">2017</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001785708">
+  <data key="d0">新羅 「處容歌」의 語文學的 硏究</data>
+  <data key="d1">2013</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002700883">
+  <data key="d0">韓國語 冠形詞의 形成 過程에 대한 管見</data>
+  <data key="d1">2021</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001380426">
+  <data key="d0">申庚林의 서술시와 焦點化</data>
+  <data key="d1">2009</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001330005">
+  <data key="d0">「薯童謠」의 重義的 表現과 세 詩的 聽者의 解釋</data>
+  <data key="d1">2009</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002006827">
+  <data key="d0">20世紀 前半期 國語 文法書의 接續文과 副詞節에 대한 硏究</data>
+  <data key="d1">2015</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002388157">
+  <data key="d0">‘爲己之學’에의 沈潛과 趙榥의 &lt;人道行&gt;</data>
+  <data key="d1">2018</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001255395">
+  <data key="d0">타동성과 국어 사동표현의 의미</data>
+  <data key="d1">2008</data>
+  <data key="d2">19</data>
+</node>
+<node id="ART001434665">
+  <data key="d0">漢字 읽기 誤謬 類型 연구</data>
+  <data key="d1">2010</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001485796">
+  <data key="d0">曺偉의 『萬憤歌』와 鄭澈의 兩美人曲에 나타난 戀君意識의 樣相 考察</data>
+  <data key="d1">2010</data>
+  <data key="d2">20</data>
+</node>
+<node id="ART001567600">
+  <data key="d0">外國人 大學院生의 韓國語 要約文 分析을 통한 要約하기 敎育 方法 硏究</data>
+  <data key="d1">2011</data>
+  <data key="d2">15</data>
+</node>
+<node id="ART001357750">
+  <data key="d0">對立 關係와 否定文의 實現에 대하여 -反對 關係와 缺如 關係 下에서의 否定 極性 成分의 共起 樣相을 中心으로－</data>
+  <data key="d1">2009</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002915362">
+  <data key="d0">口誦되던 향가의 記錄과 그 변모에 대하여</data>
+  <data key="d1">2022</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002388092">
+  <data key="d0">漢字語 文法의 變化 樣相</data>
+  <data key="d1">2018</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART001485823">
+  <data key="d0">1910-20년대 自山 安廓의 國學硏究를 통해 본 近代 知識人의 主體的 自己 理解</data>
+  <data key="d1">2010</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART003090891">
+  <data key="d0">설화 속 선녀의 성격과 서사적 양상</data>
+  <data key="d1">2024</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002572971">
+  <data key="d0">國外 한국어 학습자를 위한 블렌디드 러닝 敎育課程 開發 基礎 연구 –현지 교원 대상 요구조사를 중심으로–</data>
+  <data key="d1">2020</data>
+  <data key="d2">14</data>
+</node>
+<node id="ART001976514">
+  <data key="d0">&lt;달천몽유록&gt;의 현재적 의의</data>
+  <data key="d1">2015</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002297025">
+  <data key="d0">知的 憂鬱의 實存 여정 혹은 强迫 神經症 - 田惠麟 論-</data>
+  <data key="d1">2017</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001676183">
+  <data key="d0">‘散策’을 둘러싼 大衆 談話의 地形圖 - 大衆雜誌 &lt;別乾坤&gt;의 경우</data>
+  <data key="d1">2012</data>
+  <data key="d2">9</data>
+</node>
+<node id="ART002267215">
+  <data key="d0">국립한글박물관 所藏 「옥도전」 硏究 - 敍事的 構成의 意味와 作品 間 交涉 樣相을 中心으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001254702">
+  <data key="d0">동막골과 애막골에 대한 地名由來 設定과 問題點</data>
+  <data key="d1">2008</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002451642">
+  <data key="d0">Miscue Analysis를 활용한 韓國語 學習者 숙달도별 읽기 樣相 분석 연구 －중국인 성인 학습자 두 명의 사례를 중심으로－</data>
+  <data key="d1">2019</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002267160">
+  <data key="d0">천주가사 &lt;텬당강논&gt;․&lt;디옥강논&gt;의 敎理 詩歌化 양상</data>
+  <data key="d1">2017</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART003119603">
+  <data key="d0">全羅南道 求禮郡의 洞里名 形成과 變遷* –섬진강에 접한 5개 읍․면을 중심으로–</data>
+  <data key="d1">2024</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001282638">
+  <data key="d0">韓國語文敎育硏究會 選定 特級 配定漢字 代表訓音에 관한 고찰(Ⅲ)</data>
+  <data key="d1">2008</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002945156">
+  <data key="d0">口語와 文語의 二分을 넘어 개별 使用域 資質에 기반하는 문법 연구 제안</data>
+  <data key="d1">2023</data>
+  <data key="d2">10</data>
+</node>
+<node id="ART002420211">
+  <data key="d0">韓中 言語接觸의 觀點에서 본 韓國 漢字文</data>
+  <data key="d1">2018</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART002853588">
+  <data key="d0">&lt;진주유씨가 묘 출토 언간&gt;에 대한 국어학적 연구</data>
+  <data key="d1">2022</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001307843">
+  <data key="d0">韓國語文敎育硏究會 選定 特級 配定漢字 代表訓音에 관한 고찰(Ⅳ)</data>
+  <data key="d1">2008</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002825961">
+  <data key="d0">不具의 時代와 文學 –朴景利 短篇小說을 中心으로–</data>
+  <data key="d1">2022</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001976481">
+  <data key="d0">古代 韓國語 存在用言의 活用 樣相과 意味 - 釋讀口訣 資料를 中心으로 -</data>
+  <data key="d1">2015</data>
+  <data key="d2">6</data>
+</node>
+<node id="ART002915447">
+  <data key="d0">病理學的 想像力과 古典散文 人物 硏究 試論</data>
+  <data key="d1">2022</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001511865">
+  <data key="d0">‘아니요, 아니에요’의 敬語法과 文法的 特徵</data>
+  <data key="d1">2010</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001434662">
+  <data key="d0">益齋 李齊賢의 東國關聯 詩 創作과 意圖</data>
+  <data key="d1">2010</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002239148">
+  <data key="d0">佛緣處 만들기의 서사적 맥락과 그 의미 - 『古記』소재 설화의 時空間的 연결을 중심으로 -</data>
+  <data key="d1">2017</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001726963">
+  <data key="d0">國語 關係節의 相</data>
+  <data key="d1">2012</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART002666857">
+  <data key="d0">近代 語文敎育에서 文識性의 성격과 변천 과정</data>
+  <data key="d1">2020</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001459100">
+  <data key="d0">『하진양문록』 : 女性中心의 孝談論</data>
+  <data key="d1">2010</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART001701619">
+  <data key="d0">合成動詞의 多義 形成過程에 대한 考察 －基本意味와 派生意味 間의 意味關係를 中心으로－</data>
+  <data key="d1">2012</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001459165">
+  <data key="d0">張赫宙의 『三曲線』 硏究</data>
+  <data key="d1">2010</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001890208">
+  <data key="d0">‘生命力’ 思想의 批判的 受容과 東學革命의 意味 －金祐鎭의 「산돼지」 硏究－</data>
+  <data key="d1">2014</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002151478">
+  <data key="d0">金明仁 詩의 記憶 回想 樣相 硏究</data>
+  <data key="d1">2016</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002700951">
+  <data key="d0">「최고운전」에 나타난 문제 상황의 특징과 소설사적 의의 연구</data>
+  <data key="d1">2021</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001592570">
+  <data key="d0">三國史記 地理志의 百濟 地名語 硏究 - 韓·日 地名語 比較의 觀點에서 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002882488">
+  <data key="d0">딥러닝 基盤의 諺簡 資料 文字 判讀機 具現에 對한 硏究 –&lt;秋史 諺簡&gt;을 對象으로–</data>
+  <data key="d1">2022</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001434668">
+  <data key="d0">中國 朝鮮族 「조선어문」의 南北韓 小說 受容 樣相과 統合 「국어」 編纂의 한 方案 考察</data>
+  <data key="d1">2010</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001434624">
+  <data key="d0">&lt;現夢雙龍記&gt; 連作의 敍事構造 硏究</data>
+  <data key="d1">2010</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART002506680">
+  <data key="d0">近代啓蒙期 ‘國文論’의 樣相과 새로운 主體 形成의 問題에 對하여</data>
+  <data key="d1">2019</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002331196">
+  <data key="d0">‘-어야 하-’와 ‘(し)なければならない’의 樣態에 대한 대조언어학적 연구</data>
+  <data key="d1">2018</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002701005">
+  <data key="d0">文化 관련 語彙史 敎育에 대한 硏究 –화장실을 지칭하는 어휘의 역사적 변화를 중심으로–</data>
+  <data key="d1">2021</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002064380">
+  <data key="d0">15世紀 國語와 標準語의 音韻對應 程度에 대한 연구</data>
+  <data key="d1">2015</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002506695">
+  <data key="d0">表現論的 接近과 單語形成論</data>
+  <data key="d1">2019</data>
+  <data key="d2">22</data>
+</node>
+<node id="ART001976536">
+  <data key="d0">小說 읽기를 위한 描寫 敎育 內容 硏究 -玄德의 ‘노마 聯作’을 中心으로-</data>
+  <data key="d1">2015</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002665985">
+  <data key="d0">『漢城旬報』에 쓰인 근대 신어 물명의 기원 –중국 및 일본 사전 표제어와의 비교–</data>
+  <data key="d1">2020</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART002035713">
+  <data key="d0">‘羅惠錫’의 再現과 自己敍事 - 廉想涉, 咸貞任의 小說을 중심으로 -</data>
+  <data key="d1">2015</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001357916">
+  <data key="d0">西溪 朴世堂의 水落山 隱居와 學問 企劃</data>
+  <data key="d1">2009</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART002181560">
+  <data key="d0">조선 후기 『擇里志』의 읽기 방식 - 서발문 및 관련 저작을 중심으로 -</data>
+  <data key="d1">2016</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART002759647">
+  <data key="d0">中國에서 出版된 韓國語 敎材의 問題點 考察–單母音 說明 部分을 中心으로–</data>
+  <data key="d1">2021</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001409981">
+  <data key="d0">&lt;春香傳&gt; 生成과 傳承에 있어서 漢文本의 役割</data>
+  <data key="d1">2009</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART003090809">
+  <data key="d0">‘핑계’의 通時的 樣相에 對하여</data>
+  <data key="d1">2024</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001380408">
+  <data key="d0">黃晳暎 小說에 나타난 宗敎意識 硏究</data>
+  <data key="d1">2009</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001329974">
+  <data key="d0">語根 槪念의 再檢討</data>
+  <data key="d1">2009</data>
+  <data key="d2">35</data>
+</node>
+<node id="ART001485811">
+  <data key="d0">신동일 영화에 나타난 他者意識과 화해 양상 硏究 －‘關係 3부작’을 중심으로－</data>
+  <data key="d1">2010</data>
+  <data key="d2">3</data>
+</node>
+<node id="ART001648970">
+  <data key="d0">「수매청심록」의 性格과 傳承樣相에 대한 硏究</data>
+  <data key="d1">2012</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001976535">
+  <data key="d0">미군정기 作文敎育의 特性</data>
+  <data key="d1">2015</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART001976534">
+  <data key="d0">時調 敎育에서 詩語의 意味 把握에 대한 硏究 - 「東窓이 발갓나냐」와 「白雪이 자자진 골에」를 중심으로 -</data>
+  <data key="d1">2015</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001811309">
+  <data key="d0">조선 후기 &lt;무목왕졍튱녹&gt;의 번역․제작과 그 의도</data>
+  <data key="d1">2013</data>
+  <data key="d2">7</data>
+</node>
+<node id="ART002973203">
+  <data key="d0">언간의 음절말 ‘ㅅ’과 ‘ㄷ’ 표기 변화 연구</data>
+  <data key="d1">2023</data>
+  <data key="d2">2</data>
+</node>
+<node id="ART002759600">
+  <data key="d0">2015 개정 교육과정 중학교 한문 교과서의 한자 어휘 수록 체계 검토–‘한자 어휘와 언어생활’ 개념의 구현 방식을 중심으로–</data>
+  <data key="d1">2021</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001542725">
+  <data key="d0">韓國語 二次 敍述 構文의 意味 辨別과 相 構造</data>
+  <data key="d1">2011</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART002006974">
+  <data key="d0">沈熏의 長篇小說 『織女星』 再考</data>
+  <data key="d1">2015</data>
+  <data key="d2">5</data>
+</node>
+<node id="ART001236102">
+  <data key="d0">依存名詞의 範疇 연구 －槪念的 特性을 통한 範疇 辨別을 중심으로－</data>
+  <data key="d1">2008</data>
+  <data key="d2">17</data>
+</node>
+<node id="ART001542846">
+  <data key="d0">趙芝薰 詩의 佛敎生態論的 硏究</data>
+  <data key="d1">2011</data>
+  <data key="d2">4</data>
+</node>
+<node id="ART001330047">
+  <data key="d0">朝鮮前期 「醉鄕記」·「睡鄕記」의 創作 樣相과 그 意味</data>
+  <data key="d1">2009</data>
+  <data key="d2">11</data>
+</node>
+<node id="ART003062746">
+  <data key="d0">어휘로 살펴본 『三綱行實圖』諺解本의 原稿 作成 時期</data>
+  <data key="d1">2024</data>
+  <data key="d2">0</data>
+</node>
+<node id="ART001434601">
+  <data key="d0">動詞 ‘들다/나다’의 意味에 대한 認知言語學的 考察</data>
+  <data key="d1">2010</data>
+  <data key="d2">25</data>
+</node>
+<node id="ART002006950">
+  <data key="d0">張龍鶴의 世界觀과 言語觀의 모더니티 硏究</data>
+  <data key="d1">2015</data>
+  <data key="d2">1</data>
+</node>
+<node id="ART001617937">
+  <data key="d0">朝鮮語硏究會의 『鮮和新辭典』에 대한 考察 - 朝鮮總督府의 『朝鮮語辭典』과의 比較를 중심으로 -</data>
+  <data key="d1">2011</data>
+  <data key="d2">8</data>
+</node>
+<node id="ART002572952">
+  <data key="d0">1960년대 同人誌 &lt;현대시&gt;에 나타난 분열증적 육체(schizo-body)의 幻想 연구</data>
+  <data key="d1">2020</data>
+  <data key="d2">0</data>
+</node>
+<edge source="ART002239140" target="ART001434601"/>
+<edge source="ART002006866" target="ART001757673"/>
+<edge source="ART002122060" target="ART001618046"/>
+<edge source="ART001701629" target="ART001236100"/>
+<edge source="ART001701629" target="ART001307843"/>
+<edge source="ART001701629" target="ART001254703"/>
+<edge source="ART001701629" target="ART001282638"/>
+<edge source="ART001701629" target="ART001329962"/>
+<edge source="ART002572987" target="ART001785801"/>
+<edge source="ART002122126" target="ART002007046"/>
+<edge source="ART002973486" target="ART002915564"/>
+<edge source="ART002151445" target="ART001757673"/>
+<edge source="ART002388190" target="ART001890299"/>
+<edge source="ART001380361" target="ART001254710"/>
+<edge source="ART002666159" target="ART002507016"/>
+<edge source="ART002151451" target="ART001890263"/>
+<edge source="ART002210228" target="ART002095170"/>
+<edge source="ART002210228" target="ART002095074"/>
+<edge source="ART002210228" target="ART002151426"/>
+<edge source="ART001592555" target="ART001357794"/>
+<edge source="ART002825911" target="ART002151410"/>
+<edge source="ART001485805" target="ART001330030"/>
+<edge source="ART001757617" target="ART001592623"/>
+<edge source="ART002700733" target="ART001330127"/>
+<edge source="ART002700733" target="ART001866114"/>
+<edge source="ART002733829" target="ART002629146"/>
+<edge source="ART002733829" target="ART002210353"/>
+<edge source="ART002733829" target="ART002360587"/>
+<edge source="ART002035721" target="ART001785758"/>
+<edge source="ART002331201" target="ART001254710"/>
+<edge source="ART001409966" target="ART001329983"/>
+<edge source="ART002733848" target="ART002296976"/>
+<edge source="ART001757693" target="ART001542756"/>
+<edge source="ART003150268" target="ART002451526"/>
+<edge source="ART002451526" target="ART002210228"/>
+<edge source="ART002331192" target="ART001409957"/>
+<edge source="ART001357871" target="ART001235196"/>
+<edge source="ART002360461" target="ART001329992"/>
+<edge source="ART002007088" target="ART001757566"/>
+<edge source="ART002007088" target="ART001701733"/>
+<edge source="ART002181512" target="ART001649007"/>
+<edge source="ART001701641" target="ART001307979"/>
+<edge source="ART001434595" target="ART001409954"/>
+<edge source="ART002790745" target="ART002733815"/>
+<edge source="ART002790745" target="ART002388092"/>
+<edge source="ART002790745" target="ART002733844"/>
+<edge source="ART002790745" target="ART002297059"/>
+<edge source="ART001511896" target="ART001307970"/>
+<edge source="ART002267279" target="ART001592658"/>
+<edge source="ART002095064" target="ART001511821"/>
+<edge source="ART002095064" target="ART001841633"/>
+<edge source="ART001701736" target="ART001330057"/>
+<edge source="ART002420261" target="ART001236102"/>
+<edge source="ART001918293" target="ART001236109"/>
+<edge source="ART001511890" target="ART001380390"/>
+<edge source="ART001757683" target="ART001380390"/>
+<edge source="ART002420348" target="ART002122064"/>
+<edge source="ART002945230" target="ART002733859"/>
+<edge source="ART003149760" target="ART002095111"/>
+<edge source="ART003000585" target="ART001485802"/>
+<edge source="ART003000585" target="ART001238098"/>
+<edge source="ART001701728" target="ART001567585"/>
+<edge source="ART001701728" target="ART001567568"/>
+<edge source="ART001380356" target="ART001329974"/>
+<edge source="ART002006805" target="ART001380335"/>
+<edge source="ART001918346" target="ART001785758"/>
+<edge source="ART003029128" target="ART001542864"/>
+<edge source="ART003029128" target="ART001485843"/>
+<edge source="ART001785697" target="ART001308089"/>
+<edge source="ART002360442" target="ART001976511"/>
+<edge source="ART001976531" target="ART001254990"/>
+<edge source="ART001618089" target="ART001485837"/>
+<edge source="ART002915477" target="ART002733854"/>
+<edge source="ART001380454" target="ART001330057"/>
+<edge source="ART001866114" target="ART001357755"/>
+<edge source="ART002267268" target="ART001701725"/>
+<edge source="ART002506710" target="ART002064510"/>
+<edge source="ART001785705" target="ART001252955"/>
+<edge source="ART001329962" target="ART001307843"/>
+<edge source="ART001329962" target="ART001254703"/>
+<edge source="ART001329962" target="ART001282638"/>
+<edge source="ART001329962" target="ART001236100"/>
+<edge source="ART002853546" target="ART002331201"/>
+<edge source="ART002853546" target="ART001890366"/>
+<edge source="ART002600386" target="ART001757693"/>
+<edge source="ART002600386" target="ART001542756"/>
+<edge source="ART002451509" target="ART001238097"/>
+<edge source="ART001592550" target="ART001380338"/>
+<edge source="ART001485760" target="ART001459047"/>
+<edge source="ART001485760" target="ART001434595"/>
+<edge source="ART001485760" target="ART001409954"/>
+<edge source="ART001726813" target="ART001567580"/>
+<edge source="ART001676328" target="ART001592550"/>
+<edge source="ART001459194" target="ART001307843"/>
+<edge source="ART001459194" target="ART001254703"/>
+<edge source="ART001459194" target="ART001282638"/>
+<edge source="ART001459194" target="ART001329962"/>
+<edge source="ART001459194" target="ART001236100"/>
+<edge source="ART001866116" target="ART001757683"/>
+<edge source="ART002360471" target="ART002006805"/>
+<edge source="ART002666657" target="ART002477715"/>
+<edge source="ART002210205" target="ART002006811"/>
+<edge source="ART001890322" target="ART001567500"/>
+<edge source="ART002733854" target="ART002122037"/>
+<edge source="ART002151436" target="ART002006849"/>
+<edge source="ART002424075" target="ART002267311"/>
+<edge source="ART002424075" target="ART002122113"/>
+<edge source="ART002733855" target="ART001567503"/>
+<edge source="ART002665911" target="ART002506680"/>
+<edge source="ART002665911" target="ART002477682"/>
+<edge source="ART002064346" target="ART001511821"/>
+<edge source="ART002064346" target="ART001841633"/>
+<edge source="ART001676136" target="ART001617812"/>
+<edge source="ART003028656" target="ART002451526"/>
+<edge source="ART003028656" target="ART002477696"/>
+<edge source="ART002572921" target="ART002331189"/>
+<edge source="ART002543280" target="ART002331193"/>
+<edge source="ART002331222" target="ART001726820"/>
+<edge source="ART001918362" target="ART001330076"/>
+<edge source="ART002151410" target="ART001943018"/>
+<edge source="ART002790635" target="ART001459061"/>
+<edge source="ART002790635" target="ART002701031"/>
+<edge source="ART002477682" target="ART001409957"/>
+<edge source="ART003119605" target="ART001307888"/>
+<edge source="ART002543234" target="ART001255395"/>
+<edge source="ART002296989" target="ART001841701"/>
+<edge source="ART001511821" target="ART001254704"/>
+<edge source="ART001485802" target="ART001238098"/>
+<edge source="ART003119609" target="ART003029128"/>
+<edge source="ART001976505" target="ART001592570"/>
+<edge source="ART002360450" target="ART002095074"/>
+<edge source="ART002360450" target="ART002210228"/>
+<edge source="ART002451529" target="ART001617854"/>
+<edge source="ART002543289" target="ART001701641"/>
+<edge source="ART002543289" target="ART002388139"/>
+<edge source="ART001976521" target="ART001726839"/>
+<edge source="ART001726932" target="ART001459054"/>
+<edge source="ART001726932" target="ART001592570"/>
+<edge source="ART002451555" target="ART001618031"/>
+<edge source="ART001757673" target="ART001485789"/>
+<edge source="ART001617817" target="ART001511821"/>
+<edge source="ART001617817" target="ART001254704"/>
+<edge source="ART003062897" target="ART002035714"/>
+<edge source="ART003062897" target="ART002945205"/>
+<edge source="ART001866190" target="ART001237914"/>
+<edge source="ART002507087" target="ART002420419"/>
+<edge source="ART003119607" target="ART002973232"/>
+<edge source="ART002239149" target="ART001976534"/>
+<edge source="ART002790575" target="ART002210217"/>
+<edge source="ART001567580" target="ART001330057"/>
+<edge source="ART001380404" target="ART001330030"/>
+<edge source="ART002035673" target="ART001811317"/>
+<edge source="ART001676229" target="ART001434598"/>
+<edge source="ART001676229" target="ART001567500"/>
+<edge source="ART001866106" target="ART001701624"/>
+<edge source="ART002006902" target="ART001380373"/>
+<edge source="ART002006902" target="ART001329974"/>
+<edge source="ART001380373" target="ART001329974"/>
+<edge source="ART001567500" target="ART001434598"/>
+<edge source="ART001567500" target="ART001254710"/>
+<edge source="ART002331182" target="ART001866114"/>
+<edge source="ART002666399" target="ART002506695"/>
+<edge source="ART001459047" target="ART001434595"/>
+<edge source="ART001459047" target="ART001409954"/>
+<edge source="ART001785685" target="ART001511833"/>
+<edge source="ART002095160" target="ART001918332"/>
+<edge source="ART002759550" target="ART002600386"/>
+<edge source="ART002759550" target="ART001542756"/>
+<edge source="ART002759550" target="ART001757693"/>
+<edge source="ART002007033" target="ART001567568"/>
+<edge source="ART001485828" target="ART001410019"/>
+<edge source="ART002297059" target="ART001459194"/>
+<edge source="ART001841633" target="ART001617817"/>
+<edge source="ART001841633" target="ART001511821"/>
+<edge source="ART002700877" target="ART001976481"/>
+<edge source="ART002700877" target="ART001459061"/>
+<edge source="ART002700877" target="ART001237914"/>
+<edge source="ART002064412" target="ART001357794"/>
+<edge source="ART002666268" target="ART002361944"/>
+<edge source="ART002181576" target="ART001757577"/>
+<edge source="ART001567519" target="ART001409995"/>
+<edge source="ART001617812" target="ART001254703"/>
+<edge source="ART001617812" target="ART001282638"/>
+<edge source="ART001617812" target="ART001329962"/>
+<edge source="ART001617812" target="ART001236100"/>
+<edge source="ART001617812" target="ART001307843"/>
+<edge source="ART001409955" target="ART001282642"/>
+<edge source="ART002035725" target="ART001592683"/>
+<edge source="ART003119598" target="ART002973296"/>
+<edge source="ART002506853" target="ART001701725"/>
+<edge source="ART002600440" target="ART002006974"/>
+<edge source="ART001943018" target="ART001617835"/>
+<edge source="ART001943018" target="ART001701614"/>
+<edge source="ART002239131" target="ART001380390"/>
+<edge source="ART002095157" target="ART001976525"/>
+<edge source="ART002035669" target="ART001785705"/>
+<edge source="ART002035669" target="ART001252955"/>
+<edge source="ART002296994" target="ART001649005"/>
+<edge source="ART003090926" target="ART001890229"/>
+<edge source="ART002267145" target="ART001726958"/>
+<edge source="ART002629036" target="ART001434601"/>
+<edge source="ART002388115" target="ART001485789"/>
+<edge source="ART002388115" target="ART002151445"/>
+<edge source="ART002388115" target="ART001757673"/>
+<edge source="ART001841695" target="ART001459077"/>
+<edge source="ART002733875" target="ART002543549"/>
+<edge source="ART001890366" target="ART001357750"/>
+<edge source="ART003062886" target="ART001890263"/>
+<edge source="ART002600349" target="ART002360461"/>
+<edge source="ART001592564" target="ART001409977"/>
+<edge source="ART001567612" target="ART001542881"/>
+<edge source="ART001785708" target="ART001434613"/>
+<edge source="ART002388092" target="ART001329974"/>
+<edge source="ART002297025" target="ART002239160"/>
+<edge source="ART002267160" target="ART002151456"/>
+<edge source="ART002945156" target="ART002915113"/>
+<edge source="ART001976481" target="ART001459061"/>
+<edge source="ART001592570" target="ART001459054"/>
+<edge source="ART001434668" target="ART001308101"/>
+<edge source="ART002506695" target="ART002151445"/>
+<edge source="ART002506695" target="ART001757673"/>
+<edge source="ART002973203" target="ART002853588"/>
+</graph></graphml>
