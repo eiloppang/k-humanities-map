@@ -1,0 +1,52 @@
+<!doctype html><html lang=ko><head><meta charset=utf-8>
+<title>파이프라인 문서 — 분과 미포섭/수입 분석</title><style>
+body{font-family:'Malgun Gothic',sans-serif;max-width:960px;margin:2rem auto;padding:0 1rem;color:#222;line-height:1.6}
+h1{font-size:1.55rem;border-bottom:3px solid #2c3e50;padding-bottom:.4rem}
+h2{font-size:1.2rem;color:#2c3e50;margin-top:2rem;border-left:5px solid #3498db;padding-left:.6rem}
+h3{font-size:1.02rem;color:#34495e;margin-top:1.2rem}
+table{border-collapse:collapse;width:100%;margin:.8rem 0;font-size:.86rem}
+th,td{border:1px solid #e1e1e1;padding:.4rem .6rem;text-align:left;vertical-align:top}
+th{background:#2c3e50;color:#fff} tr:nth-child(even){background:#fafafa}
+code{background:#f4f4f4;padding:.1rem .3rem;border-radius:3px;font-size:.9em}
+pre{background:#f4f7fa;padding:.8rem;border-radius:6px;overflow:auto}
+.note{background:#fff8e1;border-left:4px solid #f1c40f;padding:.6rem .9rem;margin:.8rem 0;font-size:.92rem}
+ul,ol{padding-left:1.3rem} li{margin:.25rem 0}
+</style></head><body><h1>한국 인문학 분과 미포섭/수입 분석 — 파이프라인 문서</h1>
+<p>대상: 「한국 인문학 학술 지형도 구축」(한국연구원 위탁). 본 문서는 분석 파이프라인의 <b>개념·실행 순서·입출력·분과 확장 방법</b>을 기록한다. 방법론 배경은 <code>분과미포섭_분석프레임.md</code>, 설정값은 <code>config.py</code> 참조. 현재 1차 적용 분과 = <b>한국어와문학(A11)</b>.</p>
+<div class=note>이 문서는 작업과 함께 갱신되는 살아있는 문서다. 마지막 갱신 2026-06-23. 변경 이력은 §8.</div>
+<h2>1. 개요 — 무엇을 하는 파이프라인인가</h2>
+<p>한 분과(예: 한국어와문학)의 KCI 논문이 <b>분과 경계와 맺는 관계</b>를 두 축으로 측정·시각화하고, 리포트(HTML/DOCX/XML)와 브라우징 아카이브(HTML)로 산출한다.</p>
+<ul><li><b>(I) 수입(참조)</b>: 이 분과 논문이 밖에서 무엇을 끌어오는가 (나가는 인용 기준). — 미포섭이 아니라 &#x27;빌림&#x27;.</li><li><b>(II) 미포섭</b>: 이 분과에 잡히지 않는 것 = ①내용 불일치(실은 타 분과 논문) + ②영향 수출(타 분과가 인용).</li></ul>
+<h2>2. 핵심 개념·방법론 (확정된 수정 반영)</h2>
+<h3>2-1. 방향 정의 (모든 표·수치의 기준)</h3>
+<ul><li><b>수입(import)</b> = 이 논문/저널이 타 분과를 인용 (references, 나가는 인용).</li><li><b>수출(export)</b> = 타 분과가 이 논문/저널을 인용 (cited_by, 들어오는 인용).</li></ul>
+<h3>2-2. escape 점수 = surprisal</h3>
+<p>논문의 인용 분과 분포 Q에 대해 <b>escape = Σ_(f≠home) Q_f · (−log P_f)</b>. P는 분과 전체의 평균 인용 분포, −log P_f는 분과 f를 인용하는 사건의 &#x27;뜻밖임(정보이론 surprisal)&#x27;. 흔한 월경(→교육학)은 자동 할인, 드문 월경(→사회·철학)은 가중. 계보: Rao–Stirling 다양성·Uzzi 비전형성. 합성식은 본 과제용 구성물.</p>
+<h3>2-3. 머리(head) 선별 — 4중 필터 교집합</h3>
+<table><thead><tr><th>필터</th><th>기준(config)</th><th>근거</th></tr></thead><tbody><tr><td>증거충분</td><td>매핑 인용 ≥ N_FLOOR(5)</td><td>분포 추정 신뢰성</td></tr><tr><td>상대극단</td><td>escape ≥ 상위 (1−PCTL)=10%</td><td>&#x27;미포섭=평균보다 더 벗어남&#x27;은 상대 개념, 코퍼스 무관 스케일</td></tr><tr><td>응집</td><td>최대행선지 ≥ COH_MIN(20%) 그리고 ≥ DEST_N_MIN(3)편</td><td>다리(지속 천착) vs 산란 구분</td></tr><tr><td>타당분과</td><td>행선지 대분류 ∈ PLAUSIBLE(인문·사회·예술·복합)</td><td>공학·의약 고응집은 데이터 오염 → 워크리스트로 분리</td></tr></tbody></table>
+<h3>2-4. 4유형 — 행선지 분과 + 응집도로 구분</h3>
+<table><thead><tr><th>유형</th><th>축</th><th>판별 기준</th><th>의미</th></tr></thead><tbody><tr><td>이론월경</td><td>수입</td><td>행선지=사회·철학·심리·정치·법·여성학 (중간 응집)</td><td>그 분과 이론·방법으로 문학 해석(렌즈 차용)</td></tr><tr><td>비교언어</td><td>수입</td><td>행선지=중·일·영·불 문학·통번역·언어학</td><td>문학 내 측면 이동(비교·번역)</td></tr><tr><td>융복합교육</td><td>수입</td><td>행선지=교육·문헌정보·사전·학제간</td><td>어문 연구의 교육·응용 확장</td></tr><tr><td>내용분과</td><td>미포섭</td><td>행선지=예술·종교, 응집 ≥50% + 초록 내용어 확인</td><td>실은 그 분과 논문이 어문지에 게재</td></tr></tbody></table>
+<div class=note>핵심 수정(대화 중 확정): 이론월경·비교언어·융복합교육은 &#x27;미포섭&#x27;이 아니라 <b>수입(참조)</b>이다. 한국문학 논문이 이론을 빌린 것일 뿐 게재지·대상은 문학. 미포섭은 내용 불일치(내용분과)+영향 수출로 한정한다. <b>응집도가 &#x27;빌림&#x27;과 &#x27;실제 그 분과임&#x27;을 가른다.</b></div>
+<h3>2-5. 내용 불일치 판정 — 인용 응집 + 초록 교차검증</h3>
+<ol><li>인용이 한 외부분과(예술·종교)에 CONTENT_COH(50%)+ 응집한 논문을 1차 식별.</li><li>초록에 그 분과 내용어(config.MARK; 불교→禪·수행·경전)가 있는지로 교차검증. — 한국어와문학 결과: 검증가능 47편 중 33편(70.2%) 확인.</li></ol>
+<h3>2-6. 초록 변별어 — Fightin&#x27; Words(컷오프 없음)</h3>
+<p>kiwipiepy 명사(NNG/NNP) 추출 + 불용어(config.STOP) 제거 후, <b>Monroe et al. 2008 분산가중 log-odds z-score</b>로 내용분과 vs 이론월경 직접 비교. 희소어는 큰 분산으로 자동 수축 → 빈도 컷오프 불필요(저빈도 잡음 자동 제거).</p>
+<h3>2-7. 영향 수출 — 외부 피인용 vs 전체 피인용</h3>
+<p>cited_by를 분과로 환원해 <b>외부 피인용</b>(비-home 분과로부터)과 <b>전체 피인용</b>(KCI 총합, home 포함)을 분리. 영향 &#x27;수출&#x27;은 외부 피인용 기준으로 본다. 주의: cited_by의 journal 필드 오염(§6)으로 외부 피인용은 현재 <b>하한</b>.</p>
+<h2>3. 실행 파이프라인 (순서·입출력)</h2>
+<table><thead><tr><th>#</th><th>스크립트</th><th>입력</th><th>산출</th></tr></thead><tbody><tr><td>0</td><td>(수집) scrape_korlit.py · match_cited_journals.py</td><td>KCI·학술지종수.xls</td><td>korlit_2008_2024.pkl · 10_인용학술지_분과매칭.csv</td></tr><tr><td>1</td><td>build_miscapture_archive.py</td><td>korlit·매핑</td><td>미포획논문_점수전체(L0)·아카이브_v0(L1)</td></tr><tr><td>2</td><td>build_archive_L2.py</td><td>L0</td><td>미포획논문_아카이브_L2 (행선지별 Top-K)</td></tr><tr><td>3</td><td>build_archive_audit.py</td><td>L2·korlit</td><td>데이터오염_워크리스트 · L2 유형라벨</td></tr><tr><td>4</td><td>analysis_all.py</td><td>L0·korlit·현대문학자산</td><td>results_all.json · 밖으로나간·주제·이론·저자 CSV</td></tr><tr><td>5</td><td>add_external_citations.py</td><td>밖으로나간·korlit·매핑</td><td>외부피인용 추가 · results_all 갱신</td></tr><tr><td>6</td><td>analysis_abstract.py</td><td>korlit(초록)·L2</td><td>results_abstract.json (내용분과 검증·변별어)</td></tr><tr><td>7</td><td>build_journal_io.py</td><td>korlit·매핑</td><td>저널별_수입수출 · journal_io.json</td></tr><tr><td>8</td><td>build_journal_miscapture.py</td><td>L2·korlit</td><td>이론월경_아카이브 · 저널별_미포섭프로필</td></tr><tr><td>9</td><td>build_journal_summary.py</td><td>수입수출·미포섭프로필·L2·밖으로나간</td><td>저널별_종합 · journal_summary.json (아키타입)</td></tr><tr><td>10</td><td>build_charts.py</td><td>results·종합</td><td>charts/c1–c6.png</td></tr><tr><td>11</td><td>package_report.py</td><td>results·charts·종합</td><td>리포트 .html/.docx/.xml</td></tr><tr><td>12</td><td>build_archive_html.py</td><td>L2·검증·밖으로나간·종합</td><td>아카이브 .html (탭·검색·정렬)</td></tr></tbody></table>
+<h2>4. 산출물</h2>
+<ul><li><b>보고서</b>: 한국어와문학_미포섭리포트.html(그래프 6종)·.docx·.xml</li><li><b>아카이브(브라우징)</b>: 한국어와문학_아카이브.html (참조 186·내용불일치 54·영향수출 774·저널 102)</li><li><b>그래프</b>: charts/c1(수입vs수출 산점도)·c2(아키타입)·c3(주제수입)·c4(이론수입)·c5(저자성향)·c6(초록변별어)</li><li><b>데이터셋</b>: 미포획논문_점수전체/아카이브_L2 · 저널별_종합 · 데이터오염_워크리스트 · 내용분과_초록검증 등</li></ul>
+<h2>5. 다른 분과 적용 가이드 (사·철·예)</h2>
+<p>파이프라인 구조는 동일. <b>config.py의 분과 의존값 교체 + 해당 분과 데이터 준비</b>가 핵심이다.</p>
+<h3>5-1. config.py에서 교체할 항목</h3>
+<table><thead><tr><th>항목</th><th>의미</th><th>분과별 작업</th></tr></thead><tbody><tr><td>HOME / BASE / PKL</td><td>분과명·경로·수집 데이터</td><td>분과별 KCI 수집 후 경로 지정</td></tr><tr><td>TYPE_FIELD</td><td>행선지 분과→유형</td><td>분과마다 &#x27;내용분과&#x27;가 다름 → 재정의</td></tr><tr><td>MARK</td><td>내용 불일치 초록 마커</td><td>분과별 핵심 내용어 사전 재작성</td></tr><tr><td>KLS_REF / DEMO_PKL / TOP100</td><td>이론수입·저자궤적 자산</td><td>해당 분과 정제 참고문헌·인구통계 필요</td></tr><tr><td>임계값(N_FLOOR 등)</td><td>머리 선별</td><td>대개 그대로, 분포 보고 조정</td></tr></tbody></table>
+<h3>5-2. 분과별 주의</h3>
+<ul><li><b>인지거리 P는 자동 재계산</b>되나, 입력이 그 분과 데이터여야 한다(거리는 분과 상대값).</li><li><b>C/D(이론 수입·저자 궤적)</b> 는 현대문학 전용 자산(KLS_Reference·한국문학.pkl)에 의존. 타 분과는 해당 분과의 정제 참고문헌·KRI 연계가 선결.</li><li><b>미완</b>: 현재 스크립트는 값이 하드코딩. 확장 전 각 스크립트가 config.py를 import 하도록 리팩터링 필요(§8-1 함수화의 마지막 단계).</li></ul>
+<h2>6. 알려진 데이터 품질 이슈</h2>
+<ul><li><b>cited_by <code>journal</code> 필드 오염(수출 쪽)</b>: 다저자 인용 논문에서 공저자 이름이 journal 칸으로 밀림(예 ART002602737: 164건 중 81건). → <b>외부 피인용 과소집계(하한)</b>. 복구: 모든 cited_by에 art_id가 있으므로 <b>art_id로 저널·분과 재조회(KCI)</b>. (정제팀 전달 완료)</li><li><b>references(수입 쪽)는 정상</b>: art_id 대조 일치율 98.1%. 불일치 1.9%는 한자↔한글 표기 변이뿐 → 정규화만(낮은 우선순위).</li><li><b>미매핑</b>: 저널→분과 매핑에 없는 인용. 위 오염 + 비-KCI·해외 저널. 보고서·아카이브에 &#x27;하한&#x27; 명시.</li></ul>
+<h2>7. 다음 단계 (미완)</h2>
+<ol><li><b>[정확도] cited_by art_id 기반 외부 피인용 재계산</b> — 정제팀 작업 후 §2-7·아카이브 수치 갱신.</li><li><b>[확장] KRI 연계</b> — 저자 소속 분과(선언) + 타분야 출판 → &#x27;소속 분과 X인데 타 분과에 내는&#x27; 미포섭 분석 신설.</li><li><b>[확장] 외국어 학자 정제(전체 A11, ~1주)</b> — 이론 수입 분석을 현대문학 부분집합 → 전체로.</li><li><b>[확장] 사·철·예</b> — config 교체 + 데이터 수집.</li><li><b>[리팩터] 스크립트의 config.py import 전환</b> — 분과 교체를 설정 한 곳으로.</li></ol>
+<h2>8. 변경 이력 (Changelog)</h2>
+<ul><li>2026-06-23 — 수입(참조)/미포섭 축 분리, 방향 정의 명시, 외부 피인용 분리, Fightin&#x27; Words 변별어, kiwi 명사추출, 그래프 기반 리포트, 아카이브 HTML, 4유형 표 복원, cited_by 오염 진단·정제 요청, config.py·PIPELINE 문서화.</li><li>이전 — 분과 미포섭 프레임(①②③) 설계, escape=surprisal 정의, 4중 필터, L1→L2→L3 아카이브, 저널 아키타입(정주/수입/중개/흡수/확산), 내용 불일치 초록 교차검증(70.2%).</li></ul>
+<hr><p style="color:#999;font-size:.82rem">자동 생성: build_pipeline_doc.py · 단일 소스에서 MD·HTML 동시 생성</p></body></html>

@@ -230,3 +230,20 @@ _verify_login.py
 Data/한국어와문학_결과2/korlit_2008_2024.pkl
 Data/한국어와문학_결과2/korlit_2008_2024.csv
 Data/한국어와문학_결과2/_checkpoint.jsonl
+# cited_by 정제 산출물 (art_id 기준 재구축, 역시 대용량)
+Data/new-results_(선영보낼것)/korlit_2008_2024_clean.pkl
+Data/new-results_(선영보낼것)/korlit_2008_2024_clean.csv
+# Phase 3 외부조회 캐시 (대용량 누적 가능)
+문제점/_external_cache.jsonl
+문제점/_internal_resolved.json
+# KRI 작업 캐시·로그·덤프 (대용량/임시)
+KRI/_paper_crets.jsonl
+KRI/_krinum_cache.jsonl
+KRI/_kri_cache.jsonl
+KRI/_*.log
+KRI/_*.html
+KRI/_*.csv
+# KRI 크롬 프로파일 (세션 쿠키 포함 — 보안상 커밋 금지)
+KRI/_chrome_profile/
+# KRI 자격증명 (커밋 금지)
+KRI/kri_config.py
