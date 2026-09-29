@@ -217,33 +217,22 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# KCI scraper local secrets & recon artifacts
+# ===== 프로젝트 전용 =====
+
+# 자격증명 (커밋 금지) — Scraping-Code/kci_config.py 등 어디에 있든 제외
 kci_config.py
-Data/_recon*.html
-Data/_struct*.json
-Data/_one_item.txt
-Data/_form_fields.txt
-Data/_login.html
+kri_config.py
 _verify_login.py
 
-# Large data files (>100MB, exceed GitHub limit) — kept locally, not tracked
-Data/한국어와문학_결과2/korlit_2008_2024.pkl
-Data/한국어와문학_결과2/korlit_2008_2024.csv
-Data/한국어와문학_결과2/_checkpoint.jsonl
-# cited_by 정제 산출물 (art_id 기준 재구축, 역시 대용량)
-Data/new-results_(선영보낼것)/korlit_2008_2024_clean.pkl
-Data/new-results_(선영보낼것)/korlit_2008_2024_clean.csv
-# Phase 3 외부조회 캐시 (대용량 누적 가능)
-문제점/_external_cache.jsonl
-문제점/_internal_resolved.json
-# KRI 작업 캐시·로그·덤프 (대용량/임시)
-KRI/_paper_crets.jsonl
-KRI/_krinum_cache.jsonl
-KRI/_kri_cache.jsonl
-KRI/_*.log
-KRI/_*.html
-KRI/_*.csv
-# KRI 크롬 프로파일 (세션 쿠키 포함 — 보안상 커밋 금지)
-KRI/_chrome_profile/
-# KRI 자격증명 (커밋 금지)
-KRI/kri_config.py
+# KCI 데이터: 원본·정제본 pkl/csv 는 대용량(>100MB, GitHub 한도 초과) → 로컬 보관
+KCI-Data/**/korlit_*.pkl
+KCI-Data/**/korlit_*.csv
+# KCI 수집·정제 캐시/로그/체크포인트 (파일명이 _ 로 시작)
+KCI-Data/**/_*
+
+# KRI 데이터: 결과(researchers·author_paper_kri 등)·캐시·로그인 세션 전부 올리지 않음
+KRI-Data/*
+!KRI-Data/*.py
+
+# 옛 작업 폴더의 캐시·로그
+문제점/_*
