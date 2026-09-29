@@ -107,8 +107,8 @@ A11 = Discipline(
     code="A11",
     name="한국어와문학",
     target_field="인문학 > 한국어와문학",
-    journals_csv="한국어와문학_결과2/journals_a11.csv",
-    out_dir="한국어와문학_결과2",
+    journals_csv="한국어와문학_결과/journals_a11.csv",
+    out_dir="한국어와문학_결과",
 )
 
 HISTORY = Discipline(          # 역사학 (KCI 분야코드 A02)

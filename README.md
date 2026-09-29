@@ -173,7 +173,7 @@ ACTIVE = LINGUISTICS
 | `journals.csv` | 분과 전체 학술지 목록 |
 | `journal_article_counts.csv` | 학술지별 논문 수 요약 |
 
-pkl·csv 본체는 용량 때문에 git에 올라가지 않는다. 필요하면 별도로 공유한다. A11 정제본만 예외적으로 `KCI-Data/new-results_(선영보낼것)/`에 있다.
+pkl·csv 본체는 용량 때문에 git에 올라가지 않는다. 필요하면 별도로 공유한다.
 
 ### KRI — `KRI-Data/<분야코드>/`
 
